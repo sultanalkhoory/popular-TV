@@ -8,7 +8,14 @@ const metacritic = require('./lib/metacritic')
 const anthropic = require('./lib/anthropic')
 
 const getTmdb = function (tmdbId) {
-  return tmdb.getMovie(tmdbId)
+  return tmdb.getMovie(tmdbId).then(function (show) {
+    // For TV shows, we need to fetch external_ids separately if not included
+    if (!show.external_ids && !show.imdb_id) {
+      // The append_to_response should include external_ids
+      return show
+    }
+    return show
+  })
 }
 
 const getTmdbDetails = function (movies) {
@@ -16,19 +23,20 @@ const getTmdbDetails = function (movies) {
     .resolve(movies)
     .mapSeries(function (movie) {
       return getTmdb(movie.id)
-        .then(function (tmdbMovie) {
+        .then(function (tmdbShow) {
           return _.assign(movie, {
-            tmdb_id: tmdbMovie.id,
-            imdb_id: tmdbMovie.imdb_id,
-            budget: tmdbMovie.budget === 0 ? null : tmdbMovie.budget,
-            revenue: tmdbMovie.revenue === 0 ? null : tmdbMovie.revenue,
-            top_actors: _.chain(tmdbMovie.credits.cast)
+            tmdb_id: tmdbShow.id,
+            imdb_id: tmdbShow.external_ids?.imdb_id || tmdbShow.imdb_id,
+            number_of_seasons: tmdbShow.number_of_seasons,
+            number_of_episodes: tmdbShow.number_of_episodes,
+            top_actors: _.chain(tmdbShow.credits.cast)
               .take(3)
               .map('name')
               .value(),
-            director: tmdbMovie.credits.crew.find(c => c.job === 'Director')?.name,
-            production_companies: _.map(tmdbMovie.production_companies, 'name'),
-            genres: _.chain(tmdbMovie.genres)
+            creators: _.map(tmdbShow.created_by, 'name'),
+            networks: _.map(tmdbShow.networks, 'name'),
+            production_companies: _.map(tmdbShow.production_companies, 'name'),
+            genres: _.chain(tmdbShow.genres)
               .map('name')
               .map(name => _.snakeCase(name).toLowerCase())
               .value()
@@ -87,38 +95,39 @@ const getMetacriticRatings = async function (movies) {
 
 const evaluateMovies = async function (movies) {
   const system = `
-You are a movie critic that is given a list of movies released in the last 4 months. Your goal is to suggest and sort order the most popular movies.
+You are a TV critic that is given a list of TV shows with episodes released in the last 4 months. Your goal is to suggest and sort order the most popular TV shows.
 
-You will be given a list of movies with the following details:
+You will be given a list of TV shows with the following details:
 
 - Title
+- Networks
 - Production Companies
-- Release Date
+- Release Date (first air date)
 - Genres
-- Budget
-- Revenue
+- Number of Seasons
+- Number of Episodes
 - Metacritic Score (0-100)
 - Rotten Tomatoes Score (0-100)
 - IMDb Rating (0-10)
 - IMDb Vote Count
 - TMDB Score (0-10)
 - TMDB Vote Count
-- Top 3 actors in the movie
-- Director
-- Writer
+- Top 3 actors in the show
+- Creators
 
-When evaluating the popularity of a movie, consider:
+When evaluating the popularity of a TV show, consider:
 
-- The budget of the movie and and how much revenue it made. Don't consider ROI, just consider how large the spend or revenue is.
-- The number of votes the movie received and the rating of the movie. Be sure to consider the number of votes so that one vote does not skew the results.
-- The production companies of the movie and the quality of the movies they have produced, and how well known the companies are.
-- The actors & directors in the movie and how well known they are.
+- The number of votes the show received and the rating of the show. Be sure to consider the number of votes so that one vote does not skew the results.
+- The networks and production companies of the show and the quality of the shows they have produced, and how well known the companies are.
+- The actors & creators of the show and how well known they are.
+- The number of seasons and episodes, as this can indicate viewer retention and network confidence.
+- Current cultural relevance and buzz around the show.
 
 A null value means that the data could not be found or isn't publicly available.
 
-Explain your reasoning first, then return the IDs of the most popular movies, in sorted order, in a JSON array. Comments in the JSON is invalid JSON.
+Explain your reasoning first, then return the IDs of the most popular TV shows, in sorted order, in a JSON array. Comments in the JSON is invalid JSON.
 
-Include, at most, 15 movies.
+Include, at most, 15 TV shows.
 
 Your response should look similar to:
 \`\`\`json
@@ -134,11 +143,12 @@ Your response should look similar to:
     return _.pick(movie, [
       'id',
       'title',
+      'networks',
       'production_companies',
       'release_date',
       'genres',
-      'budget',
-      'revenue',
+      'number_of_seasons',
+      'number_of_episodes',
       'metacritic_score',
       'imdb_rating',
       'imdb_votes',
@@ -146,7 +156,7 @@ Your response should look similar to:
       'vote_average',
       'vote_count',
       'top_actors',
-      'director'
+      'creators'
     ])
   })
 
@@ -214,6 +224,8 @@ const logger = function (movies) {
     'title',
     'release_date',
     'age',
+    'number_of_seasons',
+    'number_of_episodes',
     'metacritic_score',
     'imdb_rating',
     'imdb_votes',
@@ -222,12 +234,10 @@ const logger = function (movies) {
     'vote_average',
     'vote_count',
     'genres',
-    'budget',
-    'revenue',
+    'networks',
     'production_companies',
     'top_actors',
-    'director',
-    'writer'
+    'creators'
   ])
 }
 
