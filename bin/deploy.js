@@ -46,84 +46,84 @@ Promise
   .then(function () {
     return [
       {
-        filename: 'movies.json',
+        filename: 'tv-shows.json',
         evaluate: true
       },
       {
-        filename: `movies-${moment().format('YYYYMMDD')}.json`,
+        filename: `tv-shows-${moment().format('YYYYMMDD')}.json`,
         evaluate: true
       },
       {
-        filename: 'all-movies.json'
+        filename: 'all-tv-shows.json'
       },
       {
-        filename: 'movies-metacritic-min50.json',
+        filename: 'tv-shows-metacritic-min50.json',
         opts: {
           min_metacritic_score: 50
         }
       },
       {
-        filename: 'movies-metacritic-min60.json',
+        filename: 'tv-shows-metacritic-min60.json',
         opts: {
           min_metacritic_score: 60
         }
       },
       {
-        filename: 'movies-metacritic-min70.json',
+        filename: 'tv-shows-metacritic-min70.json',
         opts: {
           min_metacritic_score: 70
         }
       },
       {
-        filename: 'movies-metacritic-min80.json',
+        filename: 'tv-shows-metacritic-min80.json',
         opts: {
           min_metacritic_score: 80
         }
       },
       {
-        filename: 'movies-imdb-min5.json',
+        filename: 'tv-shows-imdb-min5.json',
         opts: {
           min_imdb_rating: 5
         }
       },
       {
-        filename: 'movies-imdb-min6.json',
+        filename: 'tv-shows-imdb-min6.json',
         opts: {
           min_imdb_rating: 6
         }
       },
       {
-        filename: 'movies-imdb-min7.json',
+        filename: 'tv-shows-imdb-min7.json',
         opts: {
           min_imdb_rating: 7
         }
       },
       {
-        filename: 'movies-imdb-min8.json',
+        filename: 'tv-shows-imdb-min8.json',
         opts: {
           min_imdb_rating: 8
         }
       },
       {
-        filename: 'movies-rottentomatoes-min50.json',
+        filename: 'tv-shows-rottentomatoes-min50.json',
         opts: {
           min_rt_score: 50
         }
       },
       {
-        filename: 'movies-rottentomatoes-min60.json',
+        filename: 'tv-shows-rottentomatoes-min60.json',
         opts: {
           min_rt_score: 60
         }
       },
       {
-        filename: 'movies-rottentomatoes-min70.json',
+        filename: 'tv-shows-rottentomatoes-min70.json',
         opts: {
           min_rt_score: 70
         }
       },
       {
-        filename: 'movies-rottentomatoes-min80.json',
+        filename: 'tv-shows-rottentomatoes-min80.json',
         opts: {
           min_rt_score: 80
         }
