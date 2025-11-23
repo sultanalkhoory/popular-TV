@@ -127,7 +127,7 @@ A null value means that the data could not be found or isn't publicly available.
 
 Explain your reasoning first, then return the IDs of the most popular TV shows, in sorted order, in a JSON array. Comments in the JSON is invalid JSON.
 
-Include, at most, 15 TV shows.
+Include, at most, 5 TV shows.
 
 Your response should look similar to:
 \`\`\`json
