@@ -1,4 +1,4 @@
-name: upload_s3
+name: Popular TV Shows
 
 on:
   push:
@@ -6,16 +6,19 @@ on:
       - 'main'
   schedule:
     - cron: '0 6 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 jobs:
-  upload_s3:
+  build:
     runs-on: ubuntu-latest
     environment: production
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Date
         run: echo DATE=$(date +%s) >> $GITHUB_ENV
+
       - name: Cache
         uses: actions/cache@v3
         with:
@@ -23,31 +26,32 @@ jobs:
           key: static-cache-${{ env.DATE }}
           restore-keys: |
             static-cache-
+
       - name: Install Node.js 20.x
         uses: actions/setup-node@v3
         with:
           node-version: '20.x'
           cache: 'npm'
+
       - run: npm install
-      - name: test
+
+      - name: Test - Fetch TV Shows Data
         run: npm test
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
           OMDB_KEY: ${{ secrets.OMDB_KEY }}
-      - name: deploy
-        run: npm run deploy
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Generate TV Shows JSON Files
+        run: node bin/generate-local.js
         env:
-          AWS_KEY: ${{ secrets.AWS_KEY }}
-          AWS_SECRET: ${{ secrets.AWS_SECRET }}
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
           OMDB_KEY: ${{ secrets.OMDB_KEY }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          CLOUDFLARE_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_ACCESS_KEY_ID }}
-          CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_ACCESS_KEY }}
-          CLOUDFLARE_BUCKET: ${{ secrets.CLOUDFLARE_BUCKET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      # - name: Store
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: dump
-      #     path: dump.csv
+
+      - name: Upload TV Shows Data as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tv-shows-data
+          path: output/
+          retention-days: 30
