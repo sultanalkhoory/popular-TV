@@ -134,7 +134,21 @@ Promise
     return build(this.listBuilder, manifest.filename, manifest.opts, manifest.evaluate)
   })
   .then(function () {
-    return this.listBuilder.dump()
+    // Create Sonarr-specific format
+    return this.listBuilder.evaluate()
+      .then(function (shows) {
+        const sonarrFormat = shows.map(show => ({
+          title: show.title,
+          tvdbId: show.tvdb_id,
+          imdbId: show.imdb_id
+        }))
+        const outputPath = path.join(OUTPUT_DIR, 'sonarr.json')
+        return fs.writeFileAsync(outputPath, JSON.stringify(sonarrFormat, null, 2))
+      })
+      .then(() => this.listBuilder)
+  })
+  .then(function (listBuilder) {
+    return listBuilder.dump()
   })
   .then(function (data) {
     return json2csv(data)
@@ -143,7 +157,7 @@ Promise
     return fs.writeFileAsync(path.join(OUTPUT_DIR, 'dump.csv'), csvData)
   })
   .then(function () {
-    console.log('\n✓ All files generated successfully in output/ directory')
+    console.log('\n✓ All files generated successfully')
     process.exit(0)
   })
   .catch(function (err) {
