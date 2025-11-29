@@ -2,6 +2,7 @@
   {
     "title": "Pluribus",
     "tmdb_id": 225171,
+    "tvdb_id": 436457,
     "imdb_id": "tt22202452",
     "poster_url": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
@@ -12,6 +13,7 @@
   {
     "title": "Alien: Earth",
     "tmdb_id": 157239,
+    "tvdb_id": 458912,
     "imdb_id": "tt13623632",
     "poster_url": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
     "genres": [
@@ -22,6 +24,7 @@
   {
     "title": "The Terminal List: Dark Wolf",
     "tmdb_id": 219760,
+    "tvdb_id": 464185,
     "imdb_id": "tt26576161",
     "poster_url": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
     "genres": [
@@ -32,6 +35,7 @@
   {
     "title": "Task",
     "tmdb_id": 228305,
+    "tvdb_id": 451873,
     "imdb_id": "tt28013708",
     "poster_url": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
     "genres": [
@@ -42,6 +46,7 @@
   {
     "title": "Black Rabbit",
     "tmdb_id": 249039,
+    "tvdb_id": 447579,
     "imdb_id": "tt23055142",
     "poster_url": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
     "genres": [
