@@ -1,10 +1,10 @@
 [
   {
     "title": "Pluribus",
-    "tmdb_id": 225171,
-    "tvdb_id": 436457,
-    "imdb_id": "tt22202452",
-    "poster_url": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
       "drama",
       "sci_fi_fantasy"
@@ -12,10 +12,10 @@
   },
   {
     "title": "Alien: Earth",
-    "tmdb_id": 157239,
-    "tvdb_id": 458912,
-    "imdb_id": "tt13623632",
-    "poster_url": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+    "tvdbId": 458912,
+    "tmdbId": 157239,
+    "imdbId": "tt13623632",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
     "genres": [
       "sci_fi_fantasy",
       "drama"

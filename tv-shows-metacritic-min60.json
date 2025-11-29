@@ -1,10 +1,10 @@
 [
   {
     "title": "IT: Welcome to Derry",
-    "tmdb_id": 200875,
-    "tvdb_id": 418424,
-    "imdb_id": "tt19244304",
-    "poster_url": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
     "genres": [
       "drama",
       "mystery"
@@ -12,10 +12,10 @@
   },
   {
     "title": "Pluribus",
-    "tmdb_id": 225171,
-    "tvdb_id": 436457,
-    "imdb_id": "tt22202452",
-    "poster_url": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
       "drama",
       "sci_fi_fantasy"
@@ -23,10 +23,10 @@
   },
   {
     "title": "Alien: Earth",
-    "tmdb_id": 157239,
-    "tvdb_id": 458912,
-    "imdb_id": "tt13623632",
-    "poster_url": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+    "tvdbId": 458912,
+    "tmdbId": 157239,
+    "imdbId": "tt13623632",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
     "genres": [
       "sci_fi_fantasy",
       "drama"
@@ -34,10 +34,10 @@
   },
   {
     "title": "The Terminal List: Dark Wolf",
-    "tmdb_id": 219760,
-    "tvdb_id": 464185,
-    "imdb_id": "tt26576161",
-    "poster_url": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
     "genres": [
       "action_adventure",
       "drama"
@@ -45,10 +45,10 @@
   },
   {
     "title": "Task",
-    "tmdb_id": 228305,
-    "tvdb_id": 451873,
-    "imdb_id": "tt28013708",
-    "poster_url": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
     "genres": [
       "crime",
       "drama"
@@ -56,10 +56,10 @@
   },
   {
     "title": "Boots",
-    "tmdb_id": 225647,
-    "tvdb_id": 434473,
-    "imdb_id": "tt27987047",
-    "poster_url": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "tvdbId": 434473,
+    "tmdbId": 225647,
+    "imdbId": "tt27987047",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
     "genres": [
       "comedy",
       "drama",
@@ -68,10 +68,10 @@
   },
   {
     "title": "Black Rabbit",
-    "tmdb_id": 249039,
-    "tvdb_id": 447579,
-    "imdb_id": "tt23055142",
-    "poster_url": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+    "tvdbId": 447579,
+    "tmdbId": 249039,
+    "imdbId": "tt23055142",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
     "genres": [
       "drama",
       "crime"

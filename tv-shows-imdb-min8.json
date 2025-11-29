@@ -1,10 +1,10 @@
 [
   {
     "title": "Pluribus",
-    "tmdb_id": 225171,
-    "tvdb_id": 436457,
-    "imdb_id": "tt22202452",
-    "poster_url": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
       "drama",
       "sci_fi_fantasy"
@@ -12,10 +12,10 @@
   },
   {
     "title": "Task",
-    "tmdb_id": 228305,
-    "tvdb_id": 451873,
-    "imdb_id": "tt28013708",
-    "poster_url": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
     "genres": [
       "crime",
       "drama"
