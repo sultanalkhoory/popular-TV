@@ -8,7 +8,16 @@
     "genres": [
       "drama",
       "sci_fi_fantasy"
-    ]
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.6,
+    "reason": "Critically lauded with an 86 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series benefits greatly from acclaimed creator Vince Gilligan."
   },
   {
     "title": "Alien: Earth",
@@ -19,6 +28,16 @@
     "genres": [
       "sci_fi_fantasy",
       "drama"
-    ]
+    ],
+    "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
+    "firstAirDate": "2025-08-12",
+    "networks": [
+      "FX",
+      "Hulu"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.2,
+    "reason": "This FX/Hulu series demonstrates significant anticipation with over 82,000 IMDb votes, a high 85 Metacritic score, and is helmed by acclaimed creator Noah Hawley within the popular 'Alien' franchise."
   }
 ]

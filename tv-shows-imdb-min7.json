@@ -8,7 +8,16 @@
     "genres": [
       "drama",
       "sci_fi_fantasy"
-    ]
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.6,
+    "reason": "Critically lauded with an 86 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series benefits greatly from acclaimed creator Vince Gilligan."
   },
   {
     "title": "Alien: Earth",
@@ -19,7 +28,17 @@
     "genres": [
       "sci_fi_fantasy",
       "drama"
-    ]
+    ],
+    "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
+    "firstAirDate": "2025-08-12",
+    "networks": [
+      "FX",
+      "Hulu"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.2,
+    "reason": "This FX/Hulu series demonstrates significant anticipation with over 82,000 IMDb votes, a high 85 Metacritic score, and is helmed by acclaimed creator Noah Hawley within the popular 'Alien' franchise."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -30,7 +49,16 @@
     "genres": [
       "action_adventure",
       "drama"
-    ]
+    ],
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "This Prime Video spin-off benefits from an existing fanbase, returning star Taylor Kitsch, and a solid 7.6 IMDb rating from over 20,000 votes, indicating strong viewer engagement."
   },
   {
     "title": "Task",
@@ -41,7 +69,16 @@
     "genres": [
       "crime",
       "drama"
-    ]
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "An HBO production from 'Mare of Easttown' creator Brad Ingelsby, starring A-list actor Mark Ruffalo, it boasts a strong 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score."
   },
   {
     "title": "Black Rabbit",
@@ -52,6 +89,15 @@
     "genres": [
       "drama",
       "crime"
-    ]
+    ],
+    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+    "firstAirDate": "2025-09-18",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4,
+    "reason": "Featuring A-list stars Jason Bateman (who also produces) and Jude Law on Netflix, this drama has garnered substantial audience attention with over 27,000 IMDb votes and a 7.4 rating."
   }
 ]

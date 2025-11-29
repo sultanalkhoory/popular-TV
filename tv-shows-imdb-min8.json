@@ -8,7 +8,16 @@
     "genres": [
       "drama",
       "sci_fi_fantasy"
-    ]
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.6,
+    "reason": "Critically lauded with an 86 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series benefits greatly from acclaimed creator Vince Gilligan."
   },
   {
     "title": "Task",
@@ -19,6 +28,15 @@
     "genres": [
       "crime",
       "drama"
-    ]
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "An HBO production from 'Mare of Easttown' creator Brad Ingelsby, starring A-list actor Mark Ruffalo, it boasts a strong 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score."
   }
 ]
