@@ -1,15 +1,5 @@
 [
   {
-    "title": "Alien: Earth",
-    "tmdb_id": 157239,
-    "imdb_id": "tt13623632",
-    "poster_url": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
-    "genres": [
-      "sci_fi_fantasy",
-      "drama"
-    ]
-  },
-  {
     "title": "Pluribus",
     "tmdb_id": 225171,
     "imdb_id": "tt22202452",
@@ -17,6 +7,16 @@
     "genres": [
       "drama",
       "sci_fi_fantasy"
+    ]
+  },
+  {
+    "title": "Alien: Earth",
+    "tmdb_id": 157239,
+    "imdb_id": "tt13623632",
+    "poster_url": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+    "genres": [
+      "sci_fi_fantasy",
+      "drama"
     ]
   },
   {
@@ -40,13 +40,13 @@
     ]
   },
   {
-    "title": "IT: Welcome to Derry",
-    "tmdb_id": 200875,
-    "imdb_id": "tt19244304",
-    "poster_url": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "title": "The Terminal List: Dark Wolf",
+    "tmdb_id": 219760,
+    "imdb_id": "tt26576161",
+    "poster_url": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
     "genres": [
-      "drama",
-      "mystery"
+      "action_adventure",
+      "drama"
     ]
   }
 ]
