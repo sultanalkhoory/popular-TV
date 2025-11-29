@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="An algorithmic list of movies that look popular by a numeric heuristic">
+  <meta name="description" content="An AI-curated list of popular TV shows updated daily">
 
-  <title>Popular Movies</title>
+  <title>Popular TV Shows</title>
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" rel="stylesheet">
@@ -33,13 +32,13 @@
 </head>
 <body>
   <div class="container">
-    <h2>Popular Movies</h2>
+    <h2>Popular TV Shows</h2>
     <h4>
-      An algorithmic list of movies that look popular by a numeric heuristic.
+      An AI-curated list of trending TV shows updated daily.
     </h4>
     <p>
-      <a class="button button-primary" href="https://s3.amazonaws.com/popular-movies/movies.json">JSON List</a>
-      <a class="button" href="https://github.com/sjlu/popular-movies" target="_blank">GitHub</a>
+      <a class="button button-primary" href="tv-shows.json">JSON List</a>
+      <a class="button" href="https://github.com/sultanalkhoory/popular-TV" target="_blank">GitHub</a>
     </p>
     <hr />
     <div id="posters" class="row">
@@ -55,10 +54,10 @@
   <script type="text/javascript">
     $(document).ready(function() {
       var posterTemplate = Handlebars.compile($('#poster-template').html());
-      var movies = $.get('https://popular-movies-data.stevenlu.com/movies.json', function(data) {
+      var shows = $.get('tv-shows.json', function(data) {
         var currentRow, i;
         for (i = 0; i < data.length; i++) {
-          var movie = data[i];
+          var show = data[i];
 
           if (!(i % 3)) {
             $('#posters').append(currentRow);
@@ -66,8 +65,8 @@
           }
 
           currentRow.append(posterTemplate({
-            url: movie.poster_url,
-            link: "http://www.imdb.com/title/" + movie.imdb_id + "/"
+            url: show.poster_url,
+            link: "http://www.imdb.com/title/" + show.imdb_id + "/"
           }));
         }
 
