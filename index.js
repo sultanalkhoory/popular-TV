@@ -28,6 +28,8 @@ const getTmdbDetails = function (movies) {
             tmdb_id: tmdbShow.id,
             imdb_id: tmdbShow.external_ids?.imdb_id || tmdbShow.imdb_id,
             tvdb_id: tmdbShow.external_ids?.tvdb_id,
+            overview: tmdbShow.overview,
+            first_air_date: tmdbShow.first_air_date,
             number_of_seasons: tmdbShow.number_of_seasons,
             number_of_episodes: tmdbShow.number_of_episodes,
             top_actors: _.chain(tmdbShow.credits.cast)
@@ -126,16 +128,23 @@ When evaluating the popularity of a TV show, consider:
 
 A null value means that the data could not be found or isn't publicly available.
 
-Explain your reasoning first, then return the IDs of the most popular TV shows, in sorted order, in a JSON array. Comments in the JSON is invalid JSON.
+Return the most popular TV shows in sorted order as a JSON array of objects. For each show, include:
+- id: The show's ID number
+- reason: A concise 1-2 sentence explanation of why this show is popular (focus on concrete factors like ratings, cast, network, or cultural impact)
 
-Include, at most, 5 TV shows.
+Include, at most, 5 TV shows. Comments in the JSON is invalid JSON.
 
 Your response should look similar to:
 \`\`\`json
 [
-  123,
-  456,
-  789
+  {
+    "id": 123,
+    "reason": "Critically acclaimed with an 8.5 IMDb rating and 50K+ votes. Features Emmy-winning cast on prestigious HBO platform."
+  },
+  {
+    "id": 456,
+    "reason": "Breakout hit from renowned creator with 90% Rotten Tomatoes score. Dominating cultural conversation on social media."
+  }
 ]
 \`\`\`
 `
@@ -163,7 +172,13 @@ Your response should look similar to:
 
   const response = await anthropic.prompt(system, JSON.stringify(moviesData))
 
-  const suggestedMovies = _.map(response, id => movies.find(movie => movie.id === id))
+  const suggestedMovies = _.map(response, item => {
+    const movie = movies.find(movie => movie.id === item.id)
+    if (movie) {
+      movie.reason = item.reason
+    }
+    return movie
+  }).filter(Boolean)
 
   return suggestedMovies
 }
@@ -178,7 +193,14 @@ const sanatizeForResponse = function (movies) {
         tmdbId: movie.tmdb_id,
         imdbId: movie.imdb_id,
         posterUrl: movie.poster_url,
-        genres: movie.genres
+        genres: movie.genres,
+        overview: movie.overview,
+        firstAirDate: movie.first_air_date,
+        networks: movie.networks,
+        numberOfSeasons: movie.number_of_seasons,
+        numberOfEpisodes: movie.number_of_episodes,
+        imdbRating: movie.imdb_rating,
+        reason: movie.reason
       }
     })
 }
