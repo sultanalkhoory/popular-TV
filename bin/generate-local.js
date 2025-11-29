@@ -134,21 +134,7 @@ Promise
     return build(this.listBuilder, manifest.filename, manifest.opts, manifest.evaluate)
   })
   .then(function () {
-    // Create Sonarr-specific format
-    return this.listBuilder.evaluate()
-      .then(function (shows) {
-        const sonarrFormat = shows.map(show => ({
-          title: show.title,
-          tvdbId: show.tvdb_id,
-          imdbId: show.imdb_id
-        }))
-        const outputPath = path.join(OUTPUT_DIR, 'sonarr.json')
-        return fs.writeFileAsync(outputPath, JSON.stringify(sonarrFormat, null, 2))
-      })
-      .then(() => this.listBuilder)
-  })
-  .then(function (listBuilder) {
-    return listBuilder.dump()
+    return this.listBuilder.dump()
   })
   .then(function (data) {
     return json2csv(data)
