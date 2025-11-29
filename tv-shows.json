@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "This highly anticipated entry in the iconic 'Alien' franchise, led by acclaimed creator Noah Hawley, boasts an impressive 85 Metacritic score and over 82,000 pre-release IMDb votes, indicating massive public and critical anticipation."
+    "reason": "This highly anticipated series boasts massive public interest with over 82K IMDb votes and an 85 Metacritic score. Its popularity is further driven by acclaimed creator Noah Hawley, Scott Free Productions, and the iconic 'Alien' franchise on FX/Hulu."
   },
   {
     "title": "Task",
@@ -38,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Helmed by \"Mare of Easttown\" creator Brad Ingelsby and starring A-lister Mark Ruffalo on HBO, this drama has already generated significant buzz with an 8.0 IMDb rating from over 45,000 pre-release votes."
+    "reason": "A high-profile HBO drama featuring star Mark Ruffalo and created by Brad Ingelsby (Mare of Easttown), it commands strong audience engagement with an 8.0 IMDb rating from over 45K votes and solid critical acclaim at 77 Metacritic."
   },
   {
     "title": "Pluribus",
@@ -58,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From legendary 'Breaking Bad' creator Vince Gilligan, this Apple TV+ series has garnered exceptional pre-release excitement, evidenced by an 8.6 IMDb rating from over 26,000 votes and an 86 Metacritic score."
+    "reason": "From legendary creator Vince Gilligan (Breaking Bad), this Apple TV+ series has exceptional critical and audience reception, evidenced by an 86 Metacritic score and an 8.6 IMDb rating from over 26K votes."
   },
   {
     "title": "Black Rabbit",
@@ -78,26 +78,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Featuring A-list stars Jason Bateman and Jude Law on Netflix, this highly anticipated drama has achieved a solid 7.4 IMDb rating from over 27,000 pre-release votes, driven by its prominent cast."
+    "reason": "This Netflix crime drama draws significant attention with major stars Jason Bateman and Jude Law both starring and producing. It has garnered a solid 7.4 IMDb rating from over 27K votes, reflecting strong viewer interest."
   },
   {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "title": "The Terminal List: Dark Wolf",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
     "genres": [
-      "drama",
-      "mystery"
+      "action_adventure",
+      "drama"
     ],
-    "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
-    "firstAirDate": "2025-10-26",
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
     "networks": [
-      "HBO"
+      "Prime Video"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "As a prequel to the hugely popular 'IT' film franchise, this HBO mystery drama benefits from strong brand recognition and the prestige of its network and acclaimed creators, the Muschietti siblings."
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "As a prequel/spinoff of a successful franchise on Prime Video, this series brings back popular actor Taylor Kitsch. It maintains strong viewer loyalty with a 7.6 IMDb rating from over 20K votes."
   }
 ]
