@@ -50,19 +50,30 @@ describe('all', function () {
   it('should get me a list of TV shows', async function () {
     this.timeout(120000)
     const listBuilder = new Index()
-    const shows = await listBuilder.filter()
+    const shows = await listBuilder.evaluate()
 
     expect(shows.length).gt(0)
+    expect(shows.length).lte(5)
     expect(shows[0]).must.have.keys([
       'title',
       'imdbId',
       'tmdbId',
       'tvdbId',
       'posterUrl',
-      'genres'
+      'genres',
+      'overview',
+      'firstAirDate',
+      'networks',
+      'numberOfSeasons',
+      'numberOfEpisodes',
+      'imdbRating',
+      'reason'
     ])
     expect(shows[0].title).to.be.string()
     expect(shows[0].posterUrl).to.be.string()
     expect(shows[0].genres).to.be.array()
+    if (shows[0].reason) {
+      expect(shows[0].reason).to.be.string()
+    }
   })
 })
