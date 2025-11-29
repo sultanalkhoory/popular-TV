@@ -49,9 +49,19 @@ jobs:
           OMDB_KEY: ${{ secrets.OMDB_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
+      - name: Commit and Push JSON Files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add *.json
+          git diff --staged --quiet || git commit -m "Auto-update TV shows data [skip ci]"
+          git push
+
       - name: Upload TV Shows Data as Artifact
         uses: actions/upload-artifact@v4
         with:
           name: tv-shows-data
-          path: output/
+          path: |
+            *.json
+            *.csv
           retention-days: 30

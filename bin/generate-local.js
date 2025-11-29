@@ -6,12 +6,8 @@ const json2csv = require('../lib/json2csv')
 const fs = Promise.promisifyAll(require('fs'))
 const path = require('path')
 
-const OUTPUT_DIR = path.join(__dirname, '..', 'output')
-
-// Ensure output directory exists
-if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true })
-}
+// Save to root directory for GitHub Pages
+const OUTPUT_DIR = path.join(__dirname, '..')
 
 const build = function (listBuilder, filename, opts = {}, evaluate = false) {
   return Promise
