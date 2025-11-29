@@ -55,14 +55,14 @@ describe('all', function () {
     expect(shows.length).gt(0)
     expect(shows[0]).must.have.keys([
       'title',
-      'imdb_id',
-      'tmdb_id',
-      'tvdb_id',
-      'poster_url',
+      'imdbId',
+      'tmdbId',
+      'tvdbId',
+      'posterUrl',
       'genres'
     ])
     expect(shows[0].title).to.be.string()
-    expect(shows[0].poster_url).to.be.string()
+    expect(shows[0].posterUrl).to.be.string()
     expect(shows[0].genres).to.be.array()
   })
 })

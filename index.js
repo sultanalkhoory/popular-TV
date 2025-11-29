@@ -172,14 +172,14 @@ const sanatizeForResponse = function (movies) {
   return Promise
     .resolve(movies)
     .map(function (movie) {
-      return _.pick(movie, [
-        'title',
-        'tmdb_id',
-        'tvdb_id',
-        'imdb_id',
-        'poster_url',
-        'genres'
-      ])
+      return {
+        title: movie.title,
+        tvdbId: movie.tvdb_id,
+        tmdbId: movie.tmdb_id,
+        imdbId: movie.imdb_id,
+        posterUrl: movie.poster_url,
+        genres: movie.genres
+      }
     })
 }
 
