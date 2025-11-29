@@ -57,6 +57,7 @@ describe('all', function () {
       'title',
       'imdb_id',
       'tmdb_id',
+      'tvdb_id',
       'poster_url',
       'genres'
     ])
