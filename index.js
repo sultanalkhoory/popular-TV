@@ -27,6 +27,7 @@ const getTmdbDetails = function (movies) {
           return _.assign(movie, {
             tmdb_id: tmdbShow.id,
             imdb_id: tmdbShow.external_ids?.imdb_id || tmdbShow.imdb_id,
+            tvdb_id: tmdbShow.external_ids?.tvdb_id,
             number_of_seasons: tmdbShow.number_of_seasons,
             number_of_episodes: tmdbShow.number_of_episodes,
             top_actors: _.chain(tmdbShow.credits.cast)
@@ -174,6 +175,7 @@ const sanatizeForResponse = function (movies) {
       return _.pick(movie, [
         'title',
         'tmdb_id',
+        'tvdb_id',
         'imdb_id',
         'poster_url',
         'genres'
