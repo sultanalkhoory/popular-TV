@@ -16,7 +16,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": null
+    "imdbRating": null,
+    "reason": "A highly anticipated prequel to the popular 'IT' film franchise, developed by the Muschietti siblings and airing on the prestigious HBO network. Its connection to a well-known horror property ensures significant buzz."
   },
   {
     "title": "Pluribus",
@@ -36,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly anticipated with exceptional critical acclaim (86 Metacritic, 8.6 IMDb rating from 26K+ votes). Features acclaimed creator Vince Gilligan on the prestigious Apple TV platform."
+    "reason": "Critically acclaimed with an outstanding 8.6 IMDb rating from over 26,000 votes and an 86 Metacritic score. It's helmed by renowned creator Vince Gilligan on the prestigious Apple TV platform."
   },
   {
     "title": "Alien: Earth",
@@ -57,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "A highly anticipated entry in a beloved franchise, boasting an 85 Metacritic score and a strong 7.2 IMDb rating from over 82K votes. Created by the critically acclaimed Noah Hawley for FX/Hulu."
+    "reason": "A highly anticipated entry in the iconic 'Alien' franchise, created by Noah Hawley and produced by Ridley Scott's Scott Free Productions. It has an impressive 85 Metacritic score and a substantial 82,000+ IMDb votes."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -76,8 +77,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "A popular franchise extension with a solid 7.6 IMDb rating from over 20K votes. Stars recognizable actor Taylor Kitsch and is available on Prime Video."
+    "imdbRating": 7.6
   },
   {
     "title": "Task",
@@ -97,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "A prestige drama on HBO with a strong 8.0 IMDb rating from over 45K votes. Stars well-known actor Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby."
+    "reason": "Features Emmy-winning actor Mark Ruffalo and acclaimed creator Brad Ingelsby (Mare of Easttown) on HBO. It boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
   },
   {
     "title": "Boots",
@@ -137,6 +137,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Features major star power with Jason Bateman and Jude Law, garnering a 7.4 IMDb rating from over 27K votes. Released on the widely accessible Netflix platform."
+    "reason": "Stars major actors Jason Bateman and Jude Law, who also executive produce through their respective companies. Premiering on Netflix, it has a solid 7.4 IMDb rating from over 35,000 votes."
   }
 ]
