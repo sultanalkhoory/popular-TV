@@ -1,25 +1,5 @@
 [
   {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.6,
-    "reason": "Created by acclaimed showrunner Vince Gilligan, this Apple TV+ series boasts an excellent 8.6 IMDb rating from over 26,000 votes and a high Metacritic score of 86, indicating strong critical and audience reception."
-  },
-  {
     "title": "Task",
     "tvdbId": 451873,
     "tmdbId": 228305,
@@ -37,7 +17,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Featuring A-list actor Mark Ruffalo and created by 'Mare of Easttown' showrunner Brad Ingelsby, this HBO drama has an impressive 8.0 IMDb rating from over 45,000 votes and a strong Metacritic score of 77."
+    "reason": "Highly anticipated HBO drama from 'Mare of Easttown' creator Brad Ingelsby, starring A-lister Mark Ruffalo. Boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.6,
+    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ series is a critical darling with an outstanding 8.6 IMDb rating from over 26,000 votes and an 86 Metacritic score."
   },
   {
     "title": "Alien: Earth",
@@ -58,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "Backed by the iconic 'Alien' franchise and acclaimed creator Noah Hawley, this FX/Hulu series has garnered over 82,000 IMDb votes with a 7.2 rating and an excellent Metacritic score of 85, signaling high anticipation and critical praise."
+    "reason": "This 'Alien' prequel series from acclaimed creator Noah Hawley is a major buzz generator, evidenced by its 85 Metacritic score and impressive 7.2 IMDb rating from over 82,000 votes."
   },
   {
     "title": "Black Rabbit",
@@ -78,26 +78,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix series features A-list stars Jason Bateman and Jude Law, contributing to its significant popularity with a 7.4 IMDb rating from over 35,000 votes, indicating strong audience engagement."
+    "reason": "A Netflix thriller featuring A-list actors Jason Bateman and Jude Law, drawing significant attention with a solid 7.4 IMDb rating from over 35,000 votes."
   },
   {
-    "title": "The Terminal List: Dark Wolf",
-    "tvdbId": 464185,
-    "tmdbId": 219760,
-    "imdbId": "tt26576161",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg",
     "genres": [
-      "action_adventure",
-      "drama"
+      "drama",
+      "mystery"
     ],
-    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-    "firstAirDate": "2025-08-27",
+    "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
+    "firstAirDate": "2025-10-26",
     "networks": [
-      "Prime Video"
+      "HBO"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "As a highly anticipated spin-off of a popular series, 'The Terminal List: Dark Wolf' benefits from a built-in audience and features a strong lead in Taylor Kitsch, evidenced by its 7.6 IMDb rating from over 20,000 votes."
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "Part of the globally recognized 'IT' franchise, this HBO series is helmed by original film director Andy Muschietti, ensuring high anticipation and cultural relevance."
   }
 ]

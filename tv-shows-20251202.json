@@ -20,6 +20,26 @@
     "reason": "Critically acclaimed with an 86 Metacritic score and an 8.6 IMDb rating from over 26,000 votes. It's a highly anticipated series from renowned creator Vince Gilligan on Apple TV."
   },
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "This HBO series boasts an 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score. It features A-list actor Mark Ruffalo and comes from the acclaimed creator of 'Mare of Easttown'."
+  },
+  {
     "title": "Alien: Earth",
     "tvdbId": 458912,
     "tmdbId": 157239,
@@ -41,45 +61,6 @@
     "reason": "Part of the iconic 'Alien' franchise, this show has garnered significant attention with over 82,000 IMDb votes and an 85 Metacritic score. It's helmed by acclaimed showrunner Noah Hawley on FX/Hulu."
   },
   {
-    "title": "The Terminal List: Dark Wolf",
-    "tvdbId": 464185,
-    "tmdbId": 219760,
-    "imdbId": "tt26576161",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-    "firstAirDate": "2025-08-27",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "This HBO series boasts an 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score. It features A-list actor Mark Ruffalo and comes from the acclaimed creator of 'Mare of Easttown'."
-  },
-  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -98,5 +79,24 @@
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
     "reason": "This Netflix drama is popular due to its A-list stars and producers, Jason Bateman and Jude Law, and a solid 7.4 IMDb rating from over 35,000 votes, indicating strong audience engagement."
+  },
+  {
+    "title": "Monster: The Ed Gein Story",
+    "tvdbId": null,
+    "tmdbId": 286801,
+    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "firstAirDate": "2025-10-03",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "As part of Netflix's successful 'Monster' anthology, this series benefits from the proven track record of creator Ryan Murphy and stars well-known actor Charlie Hunnam, ensuring high viewership and cultural buzz."
   }
 ]
