@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score. It's highly anticipated due to acclaimed creator Vince Gilligan on Apple TV."
+    "reason": "Critically acclaimed with an 8.6 IMDb rating from over 26K votes and an 87 Metacritic score. Created by the renowned Vince Gilligan and airing on prestigious Apple TV."
   },
   {
     "title": "Alien: Earth",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "Generates significant buzz with over 82,000 IMDb votes and an 85 Metacritic score. It's a highly anticipated entry in the iconic 'Alien' franchise, helmed by acclaimed creator Noah Hawley."
+    "reason": "A highly anticipated entry in the iconic Alien franchise, boasting an 85 Metacritic score and a strong 7.2 IMDb rating from over 82K votes, helmed by acclaimed creator Noah Hawley."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -76,8 +76,46 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "A highly anticipated spin-off from a popular Prime Video series, featuring recognizable actor Taylor Kitsch. It has a strong 7.6 IMDb rating from over 20,000 votes, demonstrating established fan interest."
+    "imdbRating": 7.6
+  },
+  {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Features a strong 8.0 IMDb rating from over 45K votes and a 77 Metacritic score. Stars acclaimed actor Mark Ruffalo and is created by Emmy-winner Brad Ingelsby for HBO."
+  },
+  {
+    "title": "Butterfly",
+    "tvdbId": 438640,
+    "tmdbId": 227114,
+    "imdbId": "tt26672404",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "David Jung, a mysterious former US intelligence operative living in hiding in South Korea, has his life blown to pieces when the consequences of an impossible decision from his past come back to haunt him, and he finds himself hunted by Rebecca, a deadly young assassin, and Caddis, the sinister spy organization she works for.",
+    "firstAirDate": "2025-08-13",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
+    "imdbRating": null
   },
   {
     "title": "Boots",
@@ -100,45 +138,6 @@
     "imdbRating": null
   },
   {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Boasts an 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score. Features A-list actor Mark Ruffalo and is created by Brad Ingelsby, known for HBO's hit 'Mare of Easttown'."
-  },
-  {
-    "title": "Butterfly",
-    "tvdbId": 438640,
-    "tmdbId": 227114,
-    "imdbId": "tt26672404",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "David Jung, a mysterious former US intelligence operative living in hiding in South Korea, has his life blown to pieces when the consequences of an impossible decision from his past come back to haunt him, and he finds himself hunted by Rebecca, a deadly young assassin, and Caddis, the sinister spy organization she works for.",
-    "firstAirDate": "2025-08-13",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null
-  },
-  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -156,6 +155,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Features A-list actors Jason Bateman and Jude Law, driving interest on Netflix. It holds a solid 7.4 IMDb rating from over 35,000 votes, indicating strong viewer engagement."
+    "reason": "Attracts significant attention with an IMDb rating of 7.4 from over 35K votes, starring well-known actors Jason Bateman and Jude Law on the popular Netflix platform."
   }
 ]
