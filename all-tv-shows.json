@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an 8.6 IMDb rating from over 26K votes and an 87 Metacritic score. Created by the renowned Vince Gilligan and airing on prestigious Apple TV."
+    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ series is critically lauded with an 87 Metacritic score and an impressive 8.6 IMDb rating from over 26K votes."
   },
   {
     "title": "Alien: Earth",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "A highly anticipated entry in the iconic Alien franchise, boasting an 85 Metacritic score and a strong 7.2 IMDb rating from over 82K votes, helmed by acclaimed creator Noah Hawley."
+    "reason": "Highly anticipated due to the iconic 'Alien' franchise and acclaimed creator Noah Hawley. It boasts an excellent 85 Metacritic score and a massive 82K+ IMDb votes, indicating significant buzz."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -76,7 +76,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
-    "imdbRating": 7.6
+    "imdbRating": 7.6,
+    "reason": "A highly anticipated prequel/spin-off to the popular 'The Terminal List' series on Prime Video, starring Taylor Kitsch. It holds a solid 7.6 IMDb rating from over 20K votes."
   },
   {
     "title": "Task",
@@ -96,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Features a strong 8.0 IMDb rating from over 45K votes and a 77 Metacritic score. Stars acclaimed actor Mark Ruffalo and is created by Emmy-winner Brad Ingelsby for HBO."
+    "reason": "A highly anticipated HBO drama from 'Mare of Easttown' creator Brad Ingelsby, starring A-lister Mark Ruffalo. It has an excellent 8.0 IMDb rating from over 45K votes and a strong 77 Metacritic score."
   },
   {
     "title": "Butterfly",
@@ -138,6 +139,25 @@
     "imdbRating": null
   },
   {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
+  },
+  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -155,6 +175,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Attracts significant attention with an IMDb rating of 7.4 from over 35K votes, starring well-known actors Jason Bateman and Jude Law on the popular Netflix platform."
+    "reason": "This Netflix crime drama features A-list stars Jason Bateman and Jude Law, both also producing. It has a strong 7.4 IMDb rating from over 35K votes, indicating significant viewer interest."
   }
 ]
