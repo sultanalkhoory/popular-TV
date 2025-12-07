@@ -36,7 +36,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ series is critically lauded with an 87 Metacritic score and an impressive 8.6 IMDb rating from over 26K votes."
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series is a major draw from renowned creator Vince Gilligan and star Rhea Seehorn."
+  },
+  {
+    "title": "The Last Frontier",
+    "tvdbId": 431488,
+    "tmdbId": 221079,
+    "imdbId": "tt26862142",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
+    "firstAirDate": "2025-10-09",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 10,
+    "imdbRating": 6.8
   },
   {
     "title": "Alien: Earth",
@@ -57,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "Highly anticipated due to the iconic 'Alien' franchise and acclaimed creator Noah Hawley. It boasts an excellent 85 Metacritic score and a massive 82K+ IMDb votes, indicating significant buzz."
+    "reason": "Massively anticipated with over 82,000 IMDb votes and an 85 Metacritic score, this FX/Hulu series leverages the iconic 'Alien' franchise and acclaimed creator Noah Hawley."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -77,7 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated prequel/spin-off to the popular 'The Terminal List' series on Prime Video, starring Taylor Kitsch. It holds a solid 7.6 IMDb rating from over 20K votes."
+    "reason": "Building on a popular franchise, this Prime Video spin-off starring Taylor Kitsch has garnered a strong 7.6 IMDb rating from over 20,000 votes, indicating significant viewer interest."
   },
   {
     "title": "Task",
@@ -97,26 +116,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO drama from 'Mare of Easttown' creator Brad Ingelsby, starring A-lister Mark Ruffalo. It has an excellent 8.0 IMDb rating from over 45K votes and a strong 77 Metacritic score."
-  },
-  {
-    "title": "Butterfly",
-    "tvdbId": 438640,
-    "tmdbId": 227114,
-    "imdbId": "tt26672404",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "David Jung, a mysterious former US intelligence operative living in hiding in South Korea, has his life blown to pieces when the consequences of an impossible decision from his past come back to haunt him, and he finds himself hunted by Rebecca, a deadly young assassin, and Caddis, the sinister spy organization she works for.",
-    "firstAirDate": "2025-08-13",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null
+    "reason": "This HBO crime drama is highly popular, evidenced by its 8.0 IMDb rating from over 45,000 votes and 77 Metacritic score, starring Mark Ruffalo and created by 'Mare of Easttown's' Brad Ingelsby."
   },
   {
     "title": "Boots",
@@ -136,6 +136,25 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
+    "imdbRating": null
+  },
+  {
+    "title": "Butterfly",
+    "tvdbId": 438640,
+    "tmdbId": 227114,
+    "imdbId": "tt26672404",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "David Jung, a mysterious former US intelligence operative living in hiding in South Korea, has his life blown to pieces when the consequences of an impossible decision from his past come back to haunt him, and he finds himself hunted by Rebecca, a deadly young assassin, and Caddis, the sinister spy organization she works for.",
+    "firstAirDate": "2025-08-13",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
     "imdbRating": null
   },
   {
@@ -175,6 +194,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama features A-list stars Jason Bateman and Jude Law, both also producing. It has a strong 7.4 IMDb rating from over 35K votes, indicating significant viewer interest."
+    "reason": "A star-powered Netflix drama, it draws significant attention with over 35,000 IMDb votes and a 7.4 rating, featuring popular actors Jason Bateman and Jude Law."
   }
 ]

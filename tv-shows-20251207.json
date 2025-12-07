@@ -1,44 +1,5 @@
 [
   {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series is a major draw from renowned creator Vince Gilligan and star Rhea Seehorn."
-  },
-  {
-    "title": "The Last Frontier",
-    "tvdbId": 431488,
-    "tmdbId": 221079,
-    "imdbId": "tt26862142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6.8
-  },
-  {
     "title": "Alien: Earth",
     "tvdbId": 458912,
     "tmdbId": 157239,
@@ -58,26 +19,6 @@
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
     "reason": "Massively anticipated with over 82,000 IMDb votes and an 85 Metacritic score, this FX/Hulu series leverages the iconic 'Alien' franchise and acclaimed creator Noah Hawley."
-  },
-  {
-    "title": "The Terminal List: Dark Wolf",
-    "tvdbId": 464185,
-    "tmdbId": 219760,
-    "imdbId": "tt26576161",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-    "firstAirDate": "2025-08-27",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "Building on a popular franchise, this Prime Video spin-off starring Taylor Kitsch has garnered a strong 7.6 IMDb rating from over 20,000 votes, indicating significant viewer interest."
   },
   {
     "title": "Task",
@@ -118,5 +59,45 @@
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
     "reason": "A star-powered Netflix drama, it draws significant attention with over 35,000 IMDb votes and a 7.4 rating, featuring popular actors Jason Bateman and Jude Law."
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.6,
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series is a major draw from renowned creator Vince Gilligan and star Rhea Seehorn."
+  },
+  {
+    "title": "The Terminal List: Dark Wolf",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "Building on a popular franchise, this Prime Video spin-off starring Taylor Kitsch has garnered a strong 7.6 IMDb rating from over 20,000 votes, indicating significant viewer interest."
   }
 ]
