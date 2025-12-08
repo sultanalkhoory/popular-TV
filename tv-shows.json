@@ -1,24 +1,23 @@
 [
   {
-    "title": "Alien: Earth",
-    "tvdbId": 458912,
-    "tmdbId": 157239,
-    "imdbId": "tt13623632",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
-      "sci_fi_fantasy",
-      "drama"
+      "drama",
+      "sci_fi_fantasy"
     ],
-    "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
-    "firstAirDate": "2025-08-12",
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
     "networks": [
-      "FX",
-      "Hulu"
+      "Apple TV"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.2,
-    "reason": "Critically acclaimed with an 85 Metacritic score and a massive 82K+ IMDb vote count. Its connection to the iconic 'Alien' franchise and acclaimed creator Noah Hawley on FX/Hulu further boosts its popularity."
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.6,
+    "reason": "Critically acclaimed with an 8.6 IMDb rating from over 26K votes and an 87 Metacritic score, this Apple TV+ series is helmed by renowned creator Vince Gilligan."
   },
   {
     "title": "Task",
@@ -38,27 +37,28 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Highly rated with an 8.0 IMDb score from over 45K votes and a 77 Metacritic score. It features acclaimed actor Mark Ruffalo and creator Brad Ingelsby (Mare of Easttown) on the prestigious HBO network."
+    "reason": "Boasting an 8.0 IMDb rating from over 45K votes and a 77 Metacritic score, this HBO drama features A-list actor Mark Ruffalo and comes from acclaimed creator Brad Ingelsby."
   },
   {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "title": "Alien: Earth",
+    "tvdbId": 458912,
+    "tmdbId": 157239,
+    "imdbId": "tt13623632",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
     "genres": [
-      "drama",
-      "sci_fi_fantasy"
+      "sci_fi_fantasy",
+      "drama"
     ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
+    "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
+    "firstAirDate": "2025-08-12",
     "networks": [
-      "Apple TV"
+      "FX",
+      "Hulu"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.6,
-    "reason": "A critical darling boasting an 87 Metacritic score and an impressive 8.6 IMDb rating from over 26K votes. Its popularity is significantly driven by acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV."
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.2,
+    "reason": "This highly anticipated entry in the iconic Alien franchise, created by Noah Hawley, has an impressive 85 Metacritic score and a massive 82K+ IMDb vote count, indicating significant audience engagement."
   },
   {
     "title": "Black Rabbit",
@@ -78,26 +78,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Features popular lead actors Jason Bateman and Jude Law, contributing to its strong 7.4 IMDb rating from over 35K votes. As a Netflix original, it benefits from wide accessibility and a known cast."
+    "reason": "Featuring A-list stars Jason Bateman and Jude Law, this Netflix crime drama has a strong 7.4 IMDb rating from over 35K votes, ensuring broad appeal and viewership."
   },
   {
-    "title": "The Terminal List: Dark Wolf",
-    "tvdbId": 464185,
-    "tmdbId": 219760,
-    "imdbId": "tt26576161",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "title": "Monster: The Ed Gein Story",
+    "tvdbId": null,
+    "tmdbId": 286801,
+    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
     "genres": [
-      "action_adventure",
-      "drama"
+      "drama",
+      "crime"
     ],
-    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-    "firstAirDate": "2025-08-27",
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "firstAirDate": "2025-10-03",
     "networks": [
-      "Prime Video"
+      "Netflix"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "A popular spin-off from an established franchise, it holds a solid 7.6 IMDb rating from over 20K votes. Its release on Prime Video ensures broad reach and continued fan engagement."
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "From prolific creator Ryan Murphy and the popular 'Monster' anthology brand on Netflix, this series is set to generate significant cultural buzz and viewership, starring Charlie Hunnam."
   }
 ]

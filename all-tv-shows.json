@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, this Apple TV series is a major draw from renowned creator Vince Gilligan and star Rhea Seehorn."
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this series boasts exceptional critical reception with an 87 Metacritic score and a strong 8.6 IMDb rating from over 26,000 votes."
   },
   {
     "title": "The Last Frontier",
@@ -76,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "Massively anticipated with over 82,000 IMDb votes and an 85 Metacritic score, this FX/Hulu series leverages the iconic 'Alien' franchise and acclaimed creator Noah Hawley."
+    "reason": "From acclaimed creator Noah Hawley and set in the iconic 'Alien' universe, this show has garnered significant attention with an 85 Metacritic score and over 82,000 IMDb votes."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -96,7 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 7.6,
-    "reason": "Building on a popular franchise, this Prime Video spin-off starring Taylor Kitsch has garnered a strong 7.6 IMDb rating from over 20,000 votes, indicating significant viewer interest."
+    "reason": "As a spin-off of the popular 'Terminal List' series, this Prime Video show starring Taylor Kitsch maintains strong audience interest with a 7.6 IMDb rating from over 20,000 votes."
   },
   {
     "title": "Task",
@@ -116,7 +116,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "This HBO crime drama is highly popular, evidenced by its 8.0 IMDb rating from over 45,000 votes and 77 Metacritic score, starring Mark Ruffalo and created by 'Mare of Easttown's' Brad Ingelsby."
+    "reason": "Starring A-list actor Mark Ruffalo and created by Emmy-winner Brad Ingelsby for HBO, this drama is highly anticipated, evidenced by its 8.0 IMDb rating from over 45,000 votes."
   },
   {
     "title": "Boots",
@@ -139,25 +139,6 @@
     "imdbRating": null
   },
   {
-    "title": "Butterfly",
-    "tvdbId": 438640,
-    "tmdbId": 227114,
-    "imdbId": "tt26672404",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "David Jung, a mysterious former US intelligence operative living in hiding in South Korea, has his life blown to pieces when the consequences of an impossible decision from his past come back to haunt him, and he finds himself hunted by Rebecca, a deadly young assassin, and Caddis, the sinister spy organization she works for.",
-    "firstAirDate": "2025-08-13",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null
-  },
-  {
     "title": "Wayward",
     "tvdbId": 433309,
     "tmdbId": 255859,
@@ -177,6 +158,25 @@
     "imdbRating": 5.9
   },
   {
+    "title": "Butterfly",
+    "tvdbId": 438640,
+    "tmdbId": 227114,
+    "imdbId": "tt26672404",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/8x1W0TR2VIe7ORaRI9zwDqeJn9q.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "David Jung, a mysterious former US intelligence operative living in hiding in South Korea, has his life blown to pieces when the consequences of an impossible decision from his past come back to haunt him, and he finds himself hunted by Rebecca, a deadly young assassin, and Caddis, the sinister spy organization she works for.",
+    "firstAirDate": "2025-08-13",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
+    "imdbRating": null
+  },
+  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -194,6 +194,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A star-powered Netflix drama, it draws significant attention with over 35,000 IMDb votes and a 7.4 rating, featuring popular actors Jason Bateman and Jude Law."
+    "reason": "Featuring A-list stars Jason Bateman and Jude Law, this Netflix series has generated considerable buzz, reflected in its solid 7.4 IMDb rating from over 35,000 votes."
   }
 ]
