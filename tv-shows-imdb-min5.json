@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Created by acclaimed showrunner Vince Gilligan, this series boasts exceptional critical reception with an 87 Metacritic score and a strong 8.6 IMDb rating from over 26,000 votes."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV, boasting an excellent 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes."
   },
   {
     "title": "The Last Frontier",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.2,
-    "reason": "From acclaimed creator Noah Hawley and set in the iconic 'Alien' universe, this show has garnered significant attention with an 85 Metacritic score and over 82,000 IMDb votes."
+    "reason": "Part of the iconic 'Alien' franchise, this FX/Hulu series is helmed by Noah Hawley (Fargo) and produced by Ridley Scott's company. It has an excellent 85 Metacritic score and an impressive 82,000+ IMDb votes."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -76,15 +76,14 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "As a spin-off of the popular 'Terminal List' series, this Prime Video show starring Taylor Kitsch maintains strong audience interest with a 7.6 IMDb rating from over 20,000 votes."
+    "imdbRating": 7.6
   },
   {
     "title": "Task",
     "tvdbId": 451873,
     "tmdbId": 228305,
     "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
     "genres": [
       "crime",
       "drama"
@@ -97,7 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Starring A-list actor Mark Ruffalo and created by Emmy-winner Brad Ingelsby for HBO, this drama is highly anticipated, evidenced by its 8.0 IMDb rating from over 45,000 votes."
+    "reason": "A prestige HBO drama starring Mark Ruffalo and created by Brad Ingelsby (Mare of Easttown). It holds a strong 77 Metacritic score and an 8.0 IMDb rating from over 45,000 votes."
   },
   {
     "title": "Wayward",
@@ -136,6 +135,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Featuring A-list stars Jason Bateman and Jude Law, this Netflix series has generated considerable buzz, reflected in its solid 7.4 IMDb rating from over 35,000 votes."
+    "reason": "This Netflix crime drama features A-list actors Jason Bateman and Jude Law, who also serve as producers. It has a solid 7.4 IMDb rating from over 35,000 votes, indicating significant audience interest."
   }
 ]
