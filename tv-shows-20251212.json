@@ -1,5 +1,25 @@
 [
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 45K votes, this HBO drama features A-list actor Mark Ruffalo and comes from the creator of the hit series Mare of Easttown."
+  },
+  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -20,23 +40,24 @@
     "reason": "This Apple TV sci-fi drama boasts exceptional critical reception with an 87 Metacritic score and an 8.6 IMDb rating from over 26K votes, helmed by visionary creator Vince Gilligan."
   },
   {
-    "title": "The Last Frontier",
-    "tvdbId": 431488,
-    "tmdbId": 221079,
-    "imdbId": "tt26862142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+    "title": "Black Rabbit",
+    "tvdbId": 447579,
+    "tmdbId": 249039,
+    "imdbId": "tt23055142",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
     "genres": [
       "drama",
       "crime"
     ],
-    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
-    "firstAirDate": "2025-10-09",
+    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+    "firstAirDate": "2025-09-18",
     "networks": [
-      "Apple TV"
+      "Netflix"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6.8
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4,
+    "reason": "A Netflix crime drama attracting significant attention with over 35K IMDb votes, it stars popular actors Jason Bateman and Jude Law, who also serve as executive producers."
   },
   {
     "title": "The Beast in Me",
@@ -77,45 +98,5 @@
     "numberOfEpisodes": 7,
     "imdbRating": 7.6,
     "reason": "As a highly anticipated prequel to a popular Prime Video series, it features fan-favorite Taylor Kitsch and maintains a solid 7.6 IMDb rating from over 20K votes."
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 45K votes, this HBO drama features A-list actor Mark Ruffalo and comes from the creator of the hit series Mare of Easttown."
-  },
-  {
-    "title": "Black Rabbit",
-    "tvdbId": 447579,
-    "tmdbId": 249039,
-    "imdbId": "tt23055142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
-    "firstAirDate": "2025-09-18",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "A Netflix crime drama attracting significant attention with over 35K IMDb votes, it stars popular actors Jason Bateman and Jude Law, who also serve as executive producers."
   }
 ]

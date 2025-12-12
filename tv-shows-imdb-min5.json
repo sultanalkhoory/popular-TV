@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly anticipated with an outstanding 8.6 IMDb rating from over 26,000 votes and an excellent 87 Metacritic score. It's created by Vince Gilligan (Breaking Bad) and stars popular actress Rhea Seehorn on Apple TV+."
+    "reason": "This Apple TV sci-fi drama boasts exceptional critical reception with an 87 Metacritic score and an 8.6 IMDb rating from over 26K votes, helmed by visionary creator Vince Gilligan."
   },
   {
     "title": "The Last Frontier",
@@ -39,6 +39,26 @@
     "imdbRating": 6.8
   },
   {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "This Netflix mystery drama is bolstered by acclaimed leads Claire Danes and Matthew Rhys, achieving a strong 7.5 IMDb rating from over 21K votes and a 71 Metacritic score."
+  },
+  {
     "title": "The Terminal List: Dark Wolf",
     "tvdbId": 464185,
     "tmdbId": 219760,
@@ -56,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Prime Video prequel to the popular 'The Terminal List,' starring fan-favorite Taylor Kitsch. It has a solid 7.6 IMDb rating from over 20,000 votes and a decent 66 Metacritic score."
+    "reason": "As a highly anticipated prequel to a popular Prime Video series, it features fan-favorite Taylor Kitsch and maintains a solid 7.6 IMDb rating from over 20K votes."
   },
   {
     "title": "Task",
@@ -76,26 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score. This HBO series features A-list actor Mark Ruffalo and is created by Brad Ingelsby, known for 'Mare of Easttown'."
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
+    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 45K votes, this HBO drama features A-list actor Mark Ruffalo and comes from the creator of the hit series Mare of Easttown."
   },
   {
     "title": "Black Rabbit",
@@ -115,6 +116,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama features A-list actors Jason Bateman and Jude Law, with Bateman also serving as a producer. It holds a strong 7.4 IMDb rating from over 35,000 votes, indicating significant viewer interest."
+    "reason": "A Netflix crime drama attracting significant attention with over 35K IMDb votes, it stars popular actors Jason Bateman and Jude Law, who also serve as executive producers."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
   }
 ]

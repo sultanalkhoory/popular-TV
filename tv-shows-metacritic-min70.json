@@ -17,7 +17,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly anticipated with an outstanding 8.6 IMDb rating from over 26,000 votes and an excellent 87 Metacritic score. It's created by Vince Gilligan (Breaking Bad) and stars popular actress Rhea Seehorn on Apple TV+."
+    "reason": "This Apple TV sci-fi drama boasts exceptional critical reception with an 87 Metacritic score and an 8.6 IMDb rating from over 26K votes, helmed by visionary creator Vince Gilligan."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "This Netflix mystery drama is bolstered by acclaimed leads Claire Danes and Matthew Rhys, achieving a strong 7.5 IMDb rating from over 21K votes and a 71 Metacritic score."
   },
   {
     "title": "Task",
@@ -37,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score. This HBO series features A-list actor Mark Ruffalo and is created by Brad Ingelsby, known for 'Mare of Easttown'."
+    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 45K votes, this HBO drama features A-list actor Mark Ruffalo and comes from the creator of the hit series Mare of Easttown."
   },
   {
     "title": "Boots",

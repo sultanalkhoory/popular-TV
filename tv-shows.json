@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Highly anticipated HBO drama from 'Mare of Easttown' creator Brad Ingelsby, starring A-list actor Mark Ruffalo. It boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
+    "reason": "Critically acclaimed with a Metacritic score of 77 and an excellent 8.0 IMDb rating from over 45,000 votes. Features acclaimed creator Brad Ingelsby and MCU star Mark Ruffalo on prestigious HBO."
   },
   {
     "title": "Pluribus",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed Apple TV+ series from 'Breaking Bad' creator Vince Gilligan, featuring Emmy-nominated Rhea Seehorn. It holds an outstanding 8.6 IMDb rating from over 26,000 votes and an excellent 87 Metacritic score."
+    "reason": "Highly anticipated and critically praised, boasting an outstanding 8.6 IMDb rating from over 26,000 votes and a Metacritic score of 87. Created by Vince Gilligan, known for 'Breaking Bad' and 'Better Call Saul'."
   },
   {
     "title": "Black Rabbit",
@@ -57,7 +57,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama features two A-list actors, Jason Bateman and Jude Law, who also serve as executive producers. It has garnered significant attention with a 7.4 IMDb rating from over 35,000 votes."
+    "reason": "Features two major stars, Jason Bateman and Jude Law, and has a strong 7.4 IMDb rating from over 35,000 votes on the globally accessible Netflix platform."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Boasts Emmy-winning actors Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes on Netflix, indicating strong viewer engagement."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -77,26 +97,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated prequel/spin-off to the popular 'The Terminal List' series on Prime Video, starring Taylor Kitsch. It has a solid 7.6 IMDb rating from over 20,000 votes, indicating a strong existing fanbase."
-  },
-  {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, terrible things begin to happen in the town.",
-    "firstAirDate": "2025-10-26",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "This HBO drama expands on the globally popular 'IT' franchise, with creators Andy and Barbara Muschietti from the successful films. It has a strong 8.17 TMDB rating from nearly 700 votes and a 61 Metacritic score."
+    "reason": "A highly anticipated prequel to a popular Prime Video series, featuring returning star Taylor Kitsch and earning a strong 7.6 IMDb rating from over 20,000 votes."
   }
 ]
