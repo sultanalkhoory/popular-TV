@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From legendary creator Vince Gilligan (Breaking Bad), this Apple TV+ series boasts an outstanding 8.6 IMDb rating from over 26,000 votes and a stellar Metacritic score of 87."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. Created by Vince Gilligan, known for 'Breaking Bad,' and stars Rhea Seehorn."
   },
   {
     "title": "The Beast in Me",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix mystery stars acclaimed actors Claire Danes and Matthew Rhys, earning a strong 7.5 IMDb rating from over 21,000 votes and a good Metacritic score of 71."
+    "reason": "A compelling Netflix drama with a 7.5 IMDb rating from over 21,000 votes. Features Emmy-winning actors Claire Danes and Matthew Rhys in leading roles."
   },
   {
     "title": "Task",
@@ -57,7 +57,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Highly anticipated HBO series from acclaimed creator Brad Ingelsby (Mare of Easttown), starring Mark Ruffalo, with an impressive 8.0 IMDb rating from over 45,000 votes and a Metacritic score of 77."
+    "reason": "Highly popular with an 8.0 IMDb rating from over 45,000 votes. Features acclaimed actor Mark Ruffalo and comes from HBO, known for prestige dramas."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
   },
   {
     "title": "Boots",
@@ -78,24 +97,5 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
   }
 ]
