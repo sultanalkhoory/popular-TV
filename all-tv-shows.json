@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. Created by Vince Gilligan, known for 'Breaking Bad,' and stars Rhea Seehorn."
+    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ show has garnered exceptional critical praise with an 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, indicating widespread acclaim."
   },
   {
     "title": "The Last Frontier",
@@ -75,7 +75,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix drama with a 7.5 IMDb rating from over 21,000 votes. Features Emmy-winning actors Claire Danes and Matthew Rhys in leading roles."
+    "reason": "This Netflix mystery benefits from a strong cast including Emmy winners Claire Danes and Matthew Rhys. It holds a good 71 Metacritic score and a 7.5 IMDb rating from over 21,000 votes."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -95,7 +95,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 7.6,
-    "reason": "Building on an established franchise, this Prime Video series holds a 7.6 IMDb rating from over 20,000 votes. Stars Taylor Kitsch, appealing to fans of action-adventure dramas."
+    "reason": "As a continuation of the popular 'The Terminal List' series, this Prime Video show brings back Taylor Kitsch and maintains strong audience engagement with a 7.6 IMDb rating from over 20,000 votes."
   },
   {
     "title": "Task",
@@ -115,26 +115,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Highly popular with an 8.0 IMDb rating from over 45,000 votes. Features acclaimed actor Mark Ruffalo and comes from HBO, known for prestige dramas."
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
+    "reason": "This HBO series is highly anticipated, featuring A-list actor Mark Ruffalo and acclaimed creator Brad Ingelsby. It boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
   },
   {
     "title": "Boots",
@@ -157,6 +138,25 @@
     "imdbRating": null
   },
   {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
+  },
+  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -174,6 +174,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A Netflix original attracting significant attention with over 35,000 IMDb votes and a 7.4 rating. Stars popular actors Jason Bateman and Jude Law, who also serve as executive producers."
+    "reason": "This Netflix drama features A-list stars Jason Bateman and Jude Law, who are also involved in production. It has attracted significant audience interest with a 7.4 IMDb rating from over 35,000 votes."
   }
 ]
