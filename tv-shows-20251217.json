@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Critically anticipated with an 8.0 IMDb rating from over 45K votes and a 77 Metascore, this HBO series features star Mark Ruffalo and is created by Brad Ingelsby, known for the acclaimed \"Mare of Easttown.\""
+    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo, boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
   },
   {
     "title": "Pluribus",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly acclaimed with an 87 Metascore and 8.6 IMDb rating from over 26K votes, this Apple TV+ series is a major draw due to its creator, Vince Gilligan, renowned for \"Breaking Bad\" and \"Better Call Saul.\""
+    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ drama is critically acclaimed with an outstanding 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score."
   },
   {
     "title": "Black Rabbit",
@@ -57,27 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix series garners significant attention with a 7.4 IMDb rating from over 35K votes, primarily driven by its dual stars and producers, Jason Bateman and Jude Law, both highly recognized actors."
-  },
-  {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, terrible things begin to happen in the town.",
-    "firstAirDate": "2025-10-26",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "High anticipation surrounds this HBO prequel to the popular \"IT\" horror franchise, with the original film directors Andy and Barbara Muschietti returning, reflected in a strong 8.2 TMDB score."
+    "reason": "This Netflix crime drama features A-list stars Jason Bateman and Jude Law, attracting significant attention with a 7.4 IMDb rating from over 35,000 votes."
   },
   {
     "title": "Monster: The Ed Gein Story",
@@ -96,6 +76,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null,
-    "reason": "A highly anticipated Netflix true-crime drama from prolific creator Ryan Murphy, building on the success of the \"Monster\" anthology, and starring popular actor Charlie Hunnam."
+    "reason": "Part of Ryan Murphy's hugely popular 'Monster' anthology on Netflix, this series stars Charlie Hunnam and is expected to generate significant cultural buzz due to its notorious subject matter."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "A Netflix mystery drama featuring acclaimed actors Claire Danes and Matthew Rhys, it holds a solid 7.5 IMDb rating from over 21,000 votes and a good 71 Metacritic score."
   }
 ]

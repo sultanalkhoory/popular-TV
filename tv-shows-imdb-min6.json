@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ show has garnered exceptional critical praise with an 87 Metacritic score and an 8.6 IMDb rating from over 26,000 votes, indicating widespread acclaim."
+    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ drama is critically acclaimed with an outstanding 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score."
   },
   {
     "title": "The Last Frontier",
@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix mystery benefits from a strong cast including Emmy winners Claire Danes and Matthew Rhys. It holds a good 71 Metacritic score and a 7.5 IMDb rating from over 21,000 votes."
+    "reason": "A Netflix mystery drama featuring acclaimed actors Claire Danes and Matthew Rhys, it holds a solid 7.5 IMDb rating from over 21,000 votes and a good 71 Metacritic score."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -75,8 +75,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "As a continuation of the popular 'The Terminal List' series, this Prime Video show brings back Taylor Kitsch and maintains strong audience engagement with a 7.6 IMDb rating from over 20,000 votes."
+    "imdbRating": 7.6
   },
   {
     "title": "Task",
@@ -96,7 +95,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "This HBO series is highly anticipated, featuring A-list actor Mark Ruffalo and acclaimed creator Brad Ingelsby. It boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
+    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo, boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
   },
   {
     "title": "Black Rabbit",
@@ -116,6 +115,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix drama features A-list stars Jason Bateman and Jude Law, who are also involved in production. It has attracted significant audience interest with a 7.4 IMDb rating from over 35,000 votes."
+    "reason": "This Netflix crime drama features A-list stars Jason Bateman and Jude Law, attracting significant attention with a 7.4 IMDb rating from over 35,000 votes."
   }
 ]
