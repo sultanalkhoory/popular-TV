@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ drama is critically acclaimed with an outstanding 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score."
+    "reason": "Boasts phenomenal critical acclaim with an 87 Metacritic score and 8.6 IMDb rating from over 26K votes. Helmed by acclaimed creator Vince Gilligan, known for 'Breaking Bad' and 'Better Call Saul'."
   },
   {
     "title": "The Beast in Me",
@@ -37,46 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix mystery drama featuring acclaimed actors Claire Danes and Matthew Rhys, it holds a solid 7.5 IMDb rating from over 21,000 votes and a good 71 Metacritic score."
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo, boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
+    "reason": "Strong critical reception with a 71 Metacritic score and a 7.5 IMDb rating from over 21K votes. Features Emmy-winning actors Claire Danes and Matthew Rhys on Netflix."
   },
   {
     "title": "Boots",
@@ -97,5 +58,44 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null
+  },
+  {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Exceptional critical reception (Metacritic 77, IMDb 8.0) backed by an outstanding 45K+ IMDb votes. Features A-list actor Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby on prestigious HBO."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
   }
 ]

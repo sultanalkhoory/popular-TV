@@ -16,8 +16,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "High anticipation surrounds this HBO prequel to the popular \"IT\" horror franchise, with the original film directors Andy and Barbara Muschietti returning, reflected in a strong 8.2 TMDB score."
+    "imdbRating": null
   },
   {
     "title": "Pluribus",
@@ -37,7 +36,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From 'Breaking Bad' creator Vince Gilligan, this Apple TV+ drama is critically acclaimed with an outstanding 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score."
+    "reason": "Boasts phenomenal critical acclaim with an 87 Metacritic score and 8.6 IMDb rating from over 26K votes. Helmed by acclaimed creator Vince Gilligan, known for 'Breaking Bad' and 'Better Call Saul'."
+  },
+  {
+    "title": "The Terminal List: Dark Wolf",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "A highly anticipated prequel/spin-off of a popular series on Prime Video, securing a solid 7.6 IMDb rating from over 20K votes. Features returning star Taylor Kitsch."
   },
   {
     "title": "The Beast in Me",
@@ -57,65 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix mystery drama featuring acclaimed actors Claire Danes and Matthew Rhys, it holds a solid 7.5 IMDb rating from over 21,000 votes and a good 71 Metacritic score."
-  },
-  {
-    "title": "The Terminal List: Dark Wolf",
-    "tvdbId": 464185,
-    "tmdbId": 219760,
-    "imdbId": "tt26576161",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-    "firstAirDate": "2025-08-27",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 7.6
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo, boasts an excellent 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
+    "reason": "Strong critical reception with a 71 Metacritic score and a 7.5 IMDb rating from over 21K votes. Features Emmy-winning actors Claire Danes and Matthew Rhys on Netflix."
   },
   {
     "title": "Boots",
@@ -138,6 +99,45 @@
     "imdbRating": null
   },
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Exceptional critical reception (Metacritic 77, IMDb 8.0) backed by an outstanding 45K+ IMDb votes. Features A-list actor Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby on prestigious HBO."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
+  },
+  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -155,6 +155,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama features A-list stars Jason Bateman and Jude Law, attracting significant attention with a 7.4 IMDb rating from over 35,000 votes."
+    "reason": "High anticipation on Netflix, evidenced by over 35K IMDb votes and a 7.4 rating. Stars and is produced by well-known actors Jason Bateman and Jude Law."
   }
 ]
