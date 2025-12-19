@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Boasts phenomenal critical acclaim with an 87 Metacritic score and 8.6 IMDb rating from over 26K votes. Helmed by acclaimed creator Vince Gilligan, known for 'Breaking Bad' and 'Better Call Saul'."
+    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. It marks the highly anticipated return of 'Breaking Bad' creator Vince Gilligan with lead Rhea Seehorn."
   },
   {
     "title": "The Terminal List: Dark Wolf",
@@ -55,8 +55,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
-    "imdbRating": 7.6,
-    "reason": "A highly anticipated prequel/spin-off of a popular series on Prime Video, securing a solid 7.6 IMDb rating from over 20K votes. Features returning star Taylor Kitsch."
+    "imdbRating": 7.6
   },
   {
     "title": "The Beast in Me",
@@ -76,7 +75,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Strong critical reception with a 71 Metacritic score and a 7.5 IMDb rating from over 21K votes. Features Emmy-winning actors Claire Danes and Matthew Rhys on Netflix."
+    "reason": "This Netflix mystery drama boasts an acclaimed cast, including Emmy winners Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes."
   },
   {
     "title": "Boots",
@@ -99,26 +98,6 @@
     "imdbRating": null
   },
   {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Exceptional critical reception (Metacritic 77, IMDb 8.0) backed by an outstanding 45K+ IMDb votes. Features A-list actor Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby on prestigious HBO."
-  },
-  {
     "title": "Wayward",
     "tvdbId": 433309,
     "tmdbId": 255859,
@@ -138,6 +117,26 @@
     "imdbRating": 5.9
   },
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "This HBO drama is highly anticipated, boasting an excellent 8.0 IMDb rating from over 45,000 votes, and features major star Mark Ruffalo under the direction of 'Mare of Easttown' creator Brad Ingelsby."
+  },
+  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -155,6 +154,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "High anticipation on Netflix, evidenced by over 35K IMDb votes and a 7.4 rating. Stars and is produced by well-known actors Jason Bateman and Jude Law."
+    "reason": "Drawing significant attention on Netflix with over 35,000 IMDb votes and a 7.4 rating. This crime drama features two major Hollywood stars, Jason Bateman and Jude Law, who also serve as producers."
   }
 ]
