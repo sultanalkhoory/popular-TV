@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. It marks the highly anticipated return of 'Breaking Bad' creator Vince Gilligan with lead Rhea Seehorn."
+    "reason": "Highly anticipated with an excellent 8.6 IMDb rating from over 26,000 votes. Created by the acclaimed Vince Gilligan and starring Rhea Seehorn, it's a prestige drama on Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix mystery drama boasts an acclaimed cast, including Emmy winners Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes."
+    "reason": "This Netflix mystery-drama stars acclaimed actors Claire Danes and Matthew Rhys, earning a solid 7.5 IMDb rating from over 21,000 viewers."
   },
   {
     "title": "Boots",
@@ -60,25 +60,6 @@
     "imdbRating": null
   },
   {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
-  },
-  {
     "title": "Task",
     "tvdbId": 451873,
     "tmdbId": 228305,
@@ -96,6 +77,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "This HBO drama is highly anticipated, boasting an excellent 8.0 IMDb rating from over 45,000 votes, and features major star Mark Ruffalo under the direction of 'Mare of Easttown' creator Brad Ingelsby."
+    "reason": "Boasting an impressive 8.0 IMDb rating from over 45,000 votes, this HBO series features Emmy-winning Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
   }
 ]

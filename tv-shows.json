@@ -1,25 +1,5 @@
 [
   {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "This HBO drama is highly anticipated, boasting an excellent 8.0 IMDb rating from over 45,000 votes, and features major star Mark Ruffalo under the direction of 'Mare of Easttown' creator Brad Ingelsby."
-  },
-  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -37,7 +17,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. It marks the highly anticipated return of 'Breaking Bad' creator Vince Gilligan with lead Rhea Seehorn."
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.6 IMDb rating from over 26K votes. Helmed by renowned creator Vince Gilligan, ensuring high anticipation and quality."
+  },
+  {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Boasts an impressive 8.0 IMDb rating from over 45K votes and a 77 Metacritic score. Features A-list actor Mark Ruffalo and comes from the creator of the acclaimed HBO series 'Mare of Easttown'."
   },
   {
     "title": "Black Rabbit",
@@ -57,26 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Drawing significant attention on Netflix with over 35,000 IMDb votes and a 7.4 rating. This crime drama features two major Hollywood stars, Jason Bateman and Jude Law, who also serve as producers."
-  },
-  {
-    "title": "Monster: The Ed Gein Story",
-    "tvdbId": null,
-    "tmdbId": 286801,
-    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-    "firstAirDate": "2025-10-03",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "Part of Ryan Murphy's highly popular 'Monster' anthology series on Netflix, which has a proven track record of generating significant cultural buzz and viewership for its true-crime narratives."
+    "reason": "Attracts significant attention with over 35K IMDb votes and a 7.4 rating, driven by the star power of lead actors Jason Bateman and Jude Law. Released on the widely accessible Netflix platform."
   },
   {
     "title": "The Beast in Me",
@@ -96,6 +77,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix mystery drama boasts an acclaimed cast, including Emmy winners Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes."
+    "reason": "Features Emmy-winning actors Claire Danes and Matthew Rhys, contributing to its 7.5 IMDb rating from over 21K votes. Its release on Netflix ensures broad viewership and accessibility."
+  },
+  {
+    "title": "The Terminal List: Dark Wolf",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "A highly anticipated spin-off from 'The Terminal List,' featuring popular actor Taylor Kitsch, and holding a solid 7.6 IMDb rating from over 20K votes on Prime Video."
   }
 ]

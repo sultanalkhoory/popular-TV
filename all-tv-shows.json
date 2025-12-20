@@ -9,7 +9,7 @@
       "drama",
       "mystery"
     ],
-    "overview": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, terrible things begin to happen in the town.",
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
     "firstAirDate": "2025-10-26",
     "networks": [
       "HBO"
@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. It marks the highly anticipated return of 'Breaking Bad' creator Vince Gilligan with lead Rhea Seehorn."
+    "reason": "Highly anticipated with an excellent 8.6 IMDb rating from over 26,000 votes. Created by the acclaimed Vince Gilligan and starring Rhea Seehorn, it's a prestige drama on Apple TV."
   },
   {
     "title": "The Last Frontier",
@@ -58,25 +58,6 @@
     "imdbRating": 6.8
   },
   {
-    "title": "The Terminal List: Dark Wolf",
-    "tvdbId": 464185,
-    "tmdbId": 219760,
-    "imdbId": "tt26576161",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
-    "genres": [
-      "action_adventure",
-      "drama"
-    ],
-    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-    "firstAirDate": "2025-08-27",
-    "networks": [
-      "Prime Video"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 7.6
-  },
-  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -94,7 +75,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix mystery drama boasts an acclaimed cast, including Emmy winners Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes."
+    "reason": "This Netflix mystery-drama stars acclaimed actors Claire Danes and Matthew Rhys, earning a solid 7.5 IMDb rating from over 21,000 viewers."
+  },
+  {
+    "title": "The Terminal List: Dark Wolf",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+    "genres": [
+      "action_adventure",
+      "drama"
+    ],
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
+    "networks": [
+      "Prime Video"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "A highly anticipated spinoff from the popular 'The Terminal List' franchise, starring Taylor Kitsch and maintaining strong audience interest with a 7.6 IMDb rating from over 20,000 votes on Prime Video."
   },
   {
     "title": "Boots",
@@ -117,6 +118,26 @@
     "imdbRating": null
   },
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Boasting an impressive 8.0 IMDb rating from over 45,000 votes, this HBO series features Emmy-winning Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby."
+  },
+  {
     "title": "Wayward",
     "tvdbId": 433309,
     "tmdbId": 255859,
@@ -136,26 +157,6 @@
     "imdbRating": 5.9
   },
   {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "This HBO drama is highly anticipated, boasting an excellent 8.0 IMDb rating from over 45,000 votes, and features major star Mark Ruffalo under the direction of 'Mare of Easttown' creator Brad Ingelsby."
-  },
-  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -173,6 +174,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Drawing significant attention on Netflix with over 35,000 IMDb votes and a 7.4 rating. This crime drama features two major Hollywood stars, Jason Bateman and Jude Law, who also serve as producers."
+    "reason": "A star-powered Netflix original with Jason Bateman and Jude Law, drawing significant attention with a 7.4 IMDb rating from over 35,000 votes."
   }
 ]
