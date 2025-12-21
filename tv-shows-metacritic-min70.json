@@ -7,7 +7,8 @@
     "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
       "drama",
-      "sci_fi_fantasy"
+      "sci_fi_fantasy",
+      "comedy"
     ],
     "overview": "The most miserable person on Earth must save the world from happiness.",
     "firstAirDate": "2025-11-06",
@@ -17,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly anticipated with an excellent 8.6 IMDb rating from over 26,000 votes. Created by the acclaimed Vince Gilligan and starring Rhea Seehorn, it's a prestige drama on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. Created by 'Breaking Bad' mastermind Vince Gilligan for Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -37,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix mystery-drama stars acclaimed actors Claire Danes and Matthew Rhys, earning a solid 7.5 IMDb rating from over 21,000 viewers."
+    "reason": "This Netflix mystery features Emmy-winning actors Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes and a good Metacritic score of 71."
   },
   {
     "title": "Boots",
@@ -77,7 +78,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Boasting an impressive 8.0 IMDb rating from over 45,000 votes, this HBO series features Emmy-winning Mark Ruffalo and comes from 'Mare of Easttown' creator Brad Ingelsby."
+    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo, with an excellent 8.0 IMDb rating from over 45,000 votes."
   },
   {
     "title": "Wayward",
