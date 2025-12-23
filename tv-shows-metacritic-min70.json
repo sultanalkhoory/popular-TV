@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "From 'Breaking Bad' creator Vince Gilligan and starring Rhea Seehorn, this Apple TV+ drama is critically acclaimed with an 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score."
+    "reason": "Critically lauded with an exceptional 87 Metacritic score and 8.6 IMDb rating. Created by the renowned Vince Gilligan (Breaking Bad, Better Call Saul) for Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -38,7 +38,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix mystery drama starring Emmy winners Claire Danes and Matthew Rhys, with a solid 7.5 IMDb rating from over 21,000 votes and a 71 Metacritic score."
+    "reason": "A compelling Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys. It boasts a solid 7.5 IMDb rating from over 21,000 votes and a good 71 Metacritic score."
+  },
+  {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Highly anticipated on HBO with a strong 8.0 IMDb rating from over 45,000 votes. Features A-list actor Mark Ruffalo and acclaimed creator Brad Ingelsby (Mare of Easttown)."
   },
   {
     "title": "Boots",
@@ -59,26 +79,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo, boasts an impressive 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score."
   },
   {
     "title": "Wayward",
