@@ -1,5 +1,25 @@
 [
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring Mark Ruffalo. It boasts an 8.0 IMDb rating with over 45,000 votes and a 77 Metacritic score."
+  },
+  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -18,27 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically acclaimed with an 8.6 IMDb rating and 26K+ votes, this Apple TV series is created by renowned showrunner Vince Gilligan."
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "Highly rated with an 8.0 IMDb score and over 45K votes, this HBO drama features Mark Ruffalo and comes from the acclaimed creator of 'Mare of Easttown'."
+    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and 8.6 IMDb rating from over 26,000 votes. Created by 'Breaking Bad' mastermind Vince Gilligan, ensuring high quality and buzz."
   },
   {
     "title": "Black Rabbit",
@@ -58,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Popular on Netflix with a 7.4 IMDb rating and 35K+ votes, this series stars and is produced by well-known actors Jason Bateman and Jude Law."
+    "reason": "A Netflix drama featuring popular stars Jason Bateman and Jude Law, attracting significant attention. It has a strong 7.4 IMDb rating with over 35,000 votes, indicating high audience engagement."
   },
   {
     "title": "The Beast in Me",
@@ -78,25 +78,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix drama with a 7.5 IMDb rating and 21K+ votes, it is led by Emmy-winning actors Claire Danes and Matthew Rhys."
+    "reason": "This Netflix mystery features Emmy-winning actors Claire Danes and Matthew Rhys, drawing a strong audience. It holds a solid 7.5 IMDb rating with over 21,000 votes and a 71 Metacritic score."
   },
   {
-    "title": "Monster: The Ed Gein Story",
-    "tvdbId": null,
-    "tmdbId": 286801,
-    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "title": "The Terminal List: Dark Wolf",
+    "tvdbId": 464185,
+    "tmdbId": 219760,
+    "imdbId": "tt26576161",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
     "genres": [
-      "drama",
-      "crime"
+      "action_adventure",
+      "drama"
     ],
-    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-    "firstAirDate": "2025-10-03",
+    "overview": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+    "firstAirDate": "2025-08-27",
     "networks": [
-      "Netflix"
+      "Prime Video"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "Part of Netflix's highly successful 'Monster' anthology series, this show is created by hitmaker Ryan Murphy and stars Charlie Hunnam, ensuring significant cultural buzz."
+    "numberOfEpisodes": 7,
+    "imdbRating": 7.6,
+    "reason": "A highly anticipated spin-off of the popular 'The Terminal List' franchise on Prime Video. It maintains strong audience interest with a 7.6 IMDb rating from over 20,000 votes."
   }
 ]
