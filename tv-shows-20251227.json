@@ -1,5 +1,25 @@
 [
   {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Critically acclaimed with a 77 Metacritic score and an 8.0 IMDb rating from over 45K votes, featuring A-list actor Mark Ruffalo on HBO."
+  },
+  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -18,27 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly anticipated and critically acclaimed with an 8.6 IMDb rating and 87 Metascore. It's helmed by renowned creator Vince Gilligan on the prestigious Apple TV platform."
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "A critically lauded HBO drama boasting an 8.0 IMDb rating from over 45,000 votes. It features an A-list cast led by Emmy winner Mark Ruffalo and comes from the creator of 'Mare of Easttown'."
+    "reason": "Highly praised by critics with an 87 Metacritic score and an excellent 8.6 IMDb rating from over 26K votes, created by the renowned Vince Gilligan for Apple TV."
   },
   {
     "title": "Black Rabbit",
@@ -58,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama has generated significant buzz, accumulating over 35,000 IMDb votes with a 7.4 rating. It stars and is produced by A-list actors Jason Bateman and Jude Law."
+    "reason": "A star-studded Netflix crime drama featuring Jason Bateman and Jude Law, earning a strong 7.4 IMDb rating from over 35K votes."
   },
   {
     "title": "The Beast in Me",
@@ -78,7 +78,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix mystery with strong critical reception, evidenced by a 7.5 IMDb rating from over 21,000 votes and a 71 Metascore. It features Emmy-winning leads Claire Danes and Matthew Rhys."
+    "reason": "This Netflix drama is well-received with a 7.5 IMDb rating from over 21K votes, led by Emmy-winning actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -98,6 +98,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null,
-    "reason": "This highly anticipated prequel series on HBO leverages the popular 'IT' franchise with its original film creators, Andy and Barbara Muschietti. It shows strong early buzz with an 8.25 TMDB score from over 1,000 votes."
+    "reason": "A highly anticipated HBO prequel to the popular 'IT' franchise, from its original film creators, showing strong early audience interest with an 8.2 TMDB score."
   }
 ]

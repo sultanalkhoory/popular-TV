@@ -16,7 +16,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": null
+    "imdbRating": null,
+    "reason": "A highly anticipated HBO prequel to the popular 'IT' franchise, from its original film creators, showing strong early audience interest with an 8.2 TMDB score."
   },
   {
     "title": "Pluribus",
@@ -37,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "A critically acclaimed Apple TV+ series from 'Breaking Bad' creator Vince Gilligan, featuring Rhea Seehorn. It holds an exceptional 8.6 IMDb rating from over 26,000 votes and an 87 Metacritic score."
+    "reason": "Highly praised by critics with an 87 Metacritic score and an excellent 8.6 IMDb rating from over 26K votes, created by the renowned Vince Gilligan for Apple TV."
   },
   {
     "title": "Man vs Baby",
@@ -95,7 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix mystery drama starring Emmy winners Claire Danes and Matthew Rhys. It has a solid 7.5 IMDb rating from over 21,000 votes and a good 71 Metacritic score."
+    "reason": "This Netflix drama is well-received with a 7.5 IMDb rating from over 21K votes, led by Emmy-winning actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "Task",
@@ -115,7 +116,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Highly anticipated HBO crime drama from 'Mare of Easttown' creator Brad Ingelsby, starring A-lister Mark Ruffalo. Boasts an 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score."
+    "reason": "Critically acclaimed with a 77 Metacritic score and an 8.0 IMDb rating from over 45K votes, featuring A-list actor Mark Ruffalo on HBO."
   },
   {
     "title": "Black Rabbit",
@@ -135,7 +136,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama features A-list actors Jason Bateman and Jude Law, who also serve as producers. It has garnered significant audience engagement with a 7.4 IMDb rating from over 35,000 votes."
+    "reason": "A star-studded Netflix crime drama featuring Jason Bateman and Jude Law, earning a strong 7.4 IMDb rating from over 35K votes."
   },
   {
     "title": "Boots",
