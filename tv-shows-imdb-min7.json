@@ -7,8 +7,7 @@
     "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
       "drama",
-      "sci_fi_fantasy",
-      "comedy"
+      "sci_fi_fantasy"
     ],
     "overview": "The most miserable person on Earth must save the world from happiness.",
     "firstAirDate": "2025-11-06",
@@ -18,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Highly praised by critics with an 87 Metacritic score and an excellent 8.6 IMDb rating from over 26K votes, created by the renowned Vince Gilligan for Apple TV."
+    "reason": "Critically lauded with an 8.6 IMDb rating from over 26K votes and an 87 Metacritic score, created by 'Breaking Bad's Vince Gilligan for Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -38,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Netflix drama is well-received with a 7.5 IMDb rating from over 21K votes, led by Emmy-winning actors Claire Danes and Matthew Rhys."
+    "reason": "A compelling Netflix mystery with a 7.5 IMDb rating from over 21K votes, starring Emmy winners Claire Danes and Matthew Rhys."
   },
   {
     "title": "Task",
@@ -58,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with a 77 Metacritic score and an 8.0 IMDb rating from over 45K votes, featuring A-list actor Mark Ruffalo on HBO."
+    "reason": "Highly acclaimed with an 8.0 IMDb rating from over 45K votes, backed by HBO, and starring Mark Ruffalo from the creator of 'Mare of Easttown'."
   },
   {
     "title": "Black Rabbit",
@@ -78,6 +77,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A star-studded Netflix crime drama featuring Jason Bateman and Jude Law, earning a strong 7.4 IMDb rating from over 35K votes."
+    "reason": "A popular Netflix drama with a 7.4 IMDb rating from over 35K votes, featuring well-known actors Jason Bateman and Jude Law."
   }
 ]
