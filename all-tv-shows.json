@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null,
-    "reason": "Highly anticipated HBO series expanding the popular 'IT' franchise, created by Andy Muschietti, and boasting a strong 8.3 TMDB score."
+    "reason": "Benefits from the established and popular *IT* franchise, with the original film directors attached. Premiering on HBO, it has a promising 8.2 TMDB score with over 1K votes."
   },
   {
     "title": "Pluribus",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.6,
-    "reason": "Critically lauded with an 8.6 IMDb rating from over 26K votes and an 87 Metacritic score, created by 'Breaking Bad's Vince Gilligan for Apple TV."
+    "reason": "Boasts an excellent 8.6 IMDb rating from over 26K votes and the highest Metacritic score of 87. It's created by the renowned Vince Gilligan (Breaking Bad) for Apple TV."
   },
   {
     "title": "Man vs Baby",
@@ -95,7 +95,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix mystery with a 7.5 IMDb rating from over 21K votes, starring Emmy winners Claire Danes and Matthew Rhys."
+    "reason": "Achieved a good 7.5 IMDb rating with over 21K votes and a respectable 71 Metacritic score. Stars Emmy-winning actors Claire Danes and Matthew Rhys, indicating strong performances."
   },
   {
     "title": "Task",
@@ -115,7 +115,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Highly acclaimed with an 8.0 IMDb rating from over 45K votes, backed by HBO, and starring Mark Ruffalo from the creator of 'Mare of Easttown'."
+    "reason": "Critically acclaimed with a high 8.0 IMDb rating from over 45K votes and a 77 Metacritic score. Features Oscar-nominated Mark Ruffalo and comes from HBO and acclaimed creator Brad Ingelsby."
   },
   {
     "title": "Black Rabbit",
@@ -135,7 +135,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A popular Netflix drama with a 7.4 IMDb rating from over 35K votes, featuring well-known actors Jason Bateman and Jude Law."
+    "reason": "Features a strong cast including Emmy-winner Jason Bateman and Oscar-nominee Jude Law. It has a solid 7.4 IMDb rating with a very high vote count of over 35K."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
   },
   {
     "title": "Boots",
@@ -156,24 +175,5 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
   }
 ]
