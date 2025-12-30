@@ -20,45 +20,6 @@
     "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76,000 votes and an 87 Metacritic score. Created by the renowned Vince Gilligan, ensuring high anticipation."
   },
   {
-    "title": "The Last Frontier",
-    "tvdbId": 431488,
-    "tmdbId": 221079,
-    "imdbId": "tt26862142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6.8
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Attracts significant attention with acclaimed actors Claire Danes and Matthew Rhys, achieving a strong 7.5 IMDb rating from over 21,000 votes and a good Metacritic score of 71."
-  },
-  {
     "title": "Task",
     "tvdbId": 451873,
     "tmdbId": 228305,
@@ -99,22 +60,43 @@
     "reason": "Features a compelling cast with A-list actors Jason Bateman and Jude Law, backed by Bateman's production company, and has garnered a solid 7.4 IMDb rating from over 35,000 votes on Netflix."
   },
   {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
     "genres": [
       "drama",
       "mystery"
     ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 5.9
+    "imdbRating": 7.5,
+    "reason": "Attracts significant attention with acclaimed actors Claire Danes and Matthew Rhys, achieving a strong 7.5 IMDb rating from over 21,000 votes and a good Metacritic score of 71."
+  },
+  {
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "This HBO prequel benefits from the globally recognized 'IT' franchise and the involvement of original film creators Andy and Barbara Muschietti, alongside a strong 8.26 TMDB score from over 1,000 votes."
   }
 ]
