@@ -1,5 +1,25 @@
 [
   {
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 8,
+    "reason": "A highly anticipated prequel to a popular horror franchise, backed by HBO and the original film's director, with an 8.0 IMDb rating from over 71K votes."
+  },
+  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -17,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76,000 votes and an 87 Metacritic score. Created by the renowned Vince Gilligan, ensuring high anticipation."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan, boasting an exceptional 87 Metacritic score and an 8.1 IMDb rating from over 76K votes on Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -37,27 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Attracts significant attention with acclaimed actors Claire Danes and Matthew Rhys, achieving a strong 7.5 IMDb rating from over 21,000 votes and a good Metacritic score of 71."
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "A highly anticipated HBO series from 'Mare of Easttown' creator Brad Ingelsby, starring A-lister Mark Ruffalo, boasting an excellent 8.0 IMDb rating from over 45,000 votes."
+    "reason": "Features Emmy-winning actors Claire Danes and Matthew Rhys, delivering a compelling drama on Netflix with a strong 7.5 IMDb rating and over 21K votes."
   },
   {
     "title": "Black Rabbit",
@@ -77,6 +77,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Features a compelling cast with A-list actors Jason Bateman and Jude Law, backed by Bateman's production company, and has garnered a solid 7.4 IMDb rating from over 35,000 votes on Netflix."
+    "reason": "Boasts a star-studded cast including Jason Bateman and Jude Law, attracting significant viewership on Netflix with a solid 7.4 IMDb rating from over 35K votes."
+  },
+  {
+    "title": "Task",
+    "tvdbId": 451873,
+    "tmdbId": 228305,
+    "imdbId": "tt28013708",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
+    "firstAirDate": "2025-09-07",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 7,
+    "imdbRating": 8,
+    "reason": "Features acclaimed actor Mark Ruffalo and comes from the creator of 'Mare of Easttown,' garnering strong critical praise (77 Metacritic) and an 8.0 IMDb rating from over 45K votes on HBO."
   }
 ]
