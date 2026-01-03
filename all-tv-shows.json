@@ -17,7 +17,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "This HBO prequel to the popular 'IT' franchise is highly anticipated, boasting an 8.0 IMDb rating from over 71,000 votes and created by the original film director."
+    "reason": "A highly anticipated prequel to the popular 'IT' film franchise, backed by HBO and Warner Bros. Television. It has a strong 8.0 IMDb rating with over 71,000 votes, indicating significant fan interest."
+  },
+  {
+    "title": "Spartacus: House of Ashur",
+    "tvdbId": 465189,
+    "tmdbId": 240459,
+    "imdbId": "tt29921437",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+    "genres": [
+      "drama",
+      "action_adventure"
+    ],
+    "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+    "firstAirDate": "2025-12-05",
+    "networks": [
+      "STARZ"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 10,
+    "imdbRating": 5.6
   },
   {
     "title": "Pluribus",
@@ -37,7 +56,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. It's a highly anticipated series from renowned creator Vince Gilligan on Apple TV."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) and starring Emmy-nominated Rhea Seehorn. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating with over 76,000 votes on Apple TV."
+  },
+  {
+    "title": "Heated Rivalry",
+    "tvdbId": 464461,
+    "tmdbId": 301507,
+    "imdbId": "tt35495073",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+    "genres": [
+      "drama"
+    ],
+    "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+    "firstAirDate": "2025-11-28",
+    "networks": [
+      "Crave"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
+    "imdbRating": 9.2
   },
   {
     "title": "Man vs Baby",
@@ -94,8 +131,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring acclaimed actors Claire Danes and Matthew Rhys, this Netflix mystery has a solid 71 Metacritic score and a 7.5 IMDb rating with over 21,000 votes."
+    "imdbRating": 7.5
   },
   {
     "title": "Task",
@@ -115,7 +151,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "From the acclaimed creator of 'Mare of Easttown' and starring Mark Ruffalo, this HBO drama holds an 8.0 IMDb rating with over 45,000 votes, indicating strong viewer interest."
+    "reason": "This HBO drama features A-list actor Mark Ruffalo and is created by Brad Ingelsby, known for the critically acclaimed 'Mare of Easttown.' It holds a solid 8.0 IMDb rating with over 45,000 votes."
   },
   {
     "title": "Black Rabbit",
@@ -135,7 +171,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Featuring a strong lead cast including Jason Bateman and Jude Law, this Netflix series has garnered a 7.4 IMDb rating from over 35,000 votes, highlighting its appeal to a wide audience."
+    "reason": "A Netflix series featuring two major stars, Jason Bateman and Jude Law, who also serve as producers. It has a strong 7.4 IMDb rating with over 35,000 votes, driven by its high-profile cast and platform."
   },
   {
     "title": "Boots",
@@ -156,7 +192,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama, starring Vera Farmiga, has a solid 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, demonstrating good critical and audience reception."
+    "reason": "A Netflix drama with a strong 7.9 IMDb rating from over 22,000 votes, featuring Oscar-nominated actress Vera Farmiga."
   },
   {
     "title": "Wayward",
@@ -176,5 +212,24 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 5.9
+  },
+  {
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "genres": [
+      "drama"
+    ],
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4,
+    "reason": "This Netflix historical drama benefits from the involvement of acclaimed creator Steven Knight (Peaky Blinders). It has a good 7.4 IMDb rating with over 21,000 votes, attracting fans of Knight's previous successful work."
   }
 ]

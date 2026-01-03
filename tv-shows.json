@@ -17,27 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV, boasting an excellent 87 Metacritic score and an 8.1 IMDb rating with over 76,000 votes."
-  },
-  {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-    "firstAirDate": "2025-10-26",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 8,
-    "reason": "A highly anticipated prequel to the popular 'IT' film franchise, airing on prestigious HBO. It has a strong 8.0 IMDb rating with over 71,000 votes, indicating significant audience interest."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. It's helmed by renowned creator Vince Gilligan (Breaking Bad) and streams on prestigious Apple TV."
   },
   {
     "title": "Task",
@@ -57,7 +37,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "From 'Mare of Easttown' creator Brad Ingelsby and starring Mark Ruffalo, this HBO series has a strong 77 Metacritic score and an 8.0 IMDb rating with over 45,000 votes."
+    "reason": "This HBO drama boasts an 8.0 IMDb rating from over 45,000 votes and a 77 Metacritic score. It features Oscar-nominated Mark Ruffalo and is created by Brad Ingelsby, known for the hit 'Mare of Easttown'."
+  },
+  {
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 8,
+    "reason": "A highly anticipated HBO prequel to the popular 'IT' franchise, it has garnered an 8.0 IMDb rating from over 71,000 votes. The series is executive produced by the Muschietti siblings, who directed the successful 'IT' films."
   },
   {
     "title": "Black Rabbit",
@@ -77,26 +77,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix crime drama features two A-list actors, Jason Bateman and Jude Law, driving considerable buzz and achieving a 7.4 IMDb rating with over 35,000 votes."
+    "reason": "This Netflix series attracts viewers with an ensemble led by Emmy-winner Jason Bateman and Oscar-nominee Jude Law, achieving a 7.4 IMDb rating from over 35,000 votes."
   },
   {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "title": "Boots",
+    "tvdbId": 434473,
+    "tmdbId": 225647,
+    "imdbId": "tt27987047",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
     "genres": [
+      "comedy",
       "drama",
-      "mystery"
+      "war_politics"
     ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
+    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
+    "firstAirDate": "2025-10-09",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring acclaimed actors Claire Danes and Matthew Rhys, this Netflix mystery has a solid 71 Metacritic score and a 7.5 IMDb rating with over 21,000 votes."
+    "imdbRating": 7.9,
+    "reason": "A Netflix drama with a strong 7.9 IMDb rating from over 22,000 votes, featuring Oscar-nominated actress Vera Farmiga."
   }
 ]
