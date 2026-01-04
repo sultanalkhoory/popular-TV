@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated prequel from 'IT' director Andy Muschietti, boasting an 8.0 IMDb rating from over 71K votes on prestigious HBO."
+    "reason": "A highly anticipated HBO series with an 8.0 IMDb rating from over 71,000 votes and an 8.2 TMDB score. It benefits from the popular 'IT' franchise and the involvement of director Andy Muschietti."
   },
   {
     "title": "Pluribus",
@@ -37,26 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from 76K+ votes. Helmed by renowned creator Vince Gilligan on prestigious Apple TV."
-  },
-  {
-    "title": "Heated Rivalry",
-    "tvdbId": 464461,
-    "tmdbId": 301507,
-    "imdbId": "tt35495073",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
-    "genres": [
-      "drama"
-    ],
-    "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-    "firstAirDate": "2025-11-28",
-    "networks": [
-      "Crave"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": 9.2,
-    "reason": "Achieved an exceptionally high 9.2 IMDb rating from nearly 50K votes, indicating a strong and dedicated fanbase."
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by 'Breaking Bad' mastermind Vince Gilligan and starring Rhea Seehorn, it's a highly anticipated Apple TV series."
   },
   {
     "title": "Task",
@@ -76,6 +57,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "Features A-list actor Mark Ruffalo and acclaimed creator Brad Ingelsby ('Mare of Easttown'), achieving an 8.0 IMDb rating from 45K+ votes on HBO."
+    "reason": "An HBO crime drama boasting an 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score. It features A-list actor Mark Ruffalo and is created by Brad Ingelsby ('Mare of Easttown')."
   }
 ]
