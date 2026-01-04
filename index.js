@@ -233,6 +233,27 @@ const rejectArrayValues = function (key, values) {
   }
 }
 
+const filterAdultContent = function (movies) {
+  const adultKeywords = [
+    'erotic',
+    'heated rivalry',
+    'explicit',
+    'adult',
+    'mature content',
+    'sexual',
+    'xxx'
+  ]
+
+  return _.filter(movies, function (movie) {
+    const title = (movie.title || '').toLowerCase()
+    const overview = (movie.overview || '').toLowerCase()
+    const combined = title + ' ' + overview
+
+    // Exclude if any adult keyword is found
+    return !adultKeywords.some(keyword => combined.includes(keyword))
+  })
+}
+
 const calculateMovieAge = function (movies) {
   return _.map(movies, function (movie) {
     movie.age = moment().diff(movie.release_date, 'days')
@@ -283,6 +304,7 @@ module.exports = (function () {
       .then(filterByMaxValue('age', 120))
       .then(filterByMinValue('age', 0))
       .then(getTmdbDetails)
+      .then(filterAdultContent)
       .then(getMetacriticRatings)
       .then(getOmdbRatings)
       .then(getImdbRatings)
