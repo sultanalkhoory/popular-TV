@@ -1,25 +1,5 @@
 [
   {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-    "firstAirDate": "2025-10-26",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 8,
-    "reason": "A highly anticipated prequel to the popular 'IT' film franchise, backed by HBO and Warner Bros. Television. It has a strong 8.0 IMDb rating with over 71,000 votes, indicating significant fan interest."
-  },
-  {
     "title": "Spartacus: House of Ashur",
     "tvdbId": 465189,
     "tmdbId": 240459,
@@ -39,6 +19,26 @@
     "imdbRating": 5.6
   },
   {
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 8,
+    "reason": "A highly anticipated prequel from 'IT' director Andy Muschietti, boasting an 8.0 IMDb rating from over 71K votes on prestigious HBO."
+  },
+  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) and starring Emmy-nominated Rhea Seehorn. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating with over 76,000 votes on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from 76K+ votes. Helmed by renowned creator Vince Gilligan on prestigious Apple TV."
   },
   {
     "title": "Heated Rivalry",
@@ -74,7 +74,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": 9.2
+    "imdbRating": 9.2,
+    "reason": "Achieved an exceptionally high 9.2 IMDb rating from nearly 50K votes, indicating a strong and dedicated fanbase."
   },
   {
     "title": "The Last Frontier",
@@ -132,7 +133,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 7,
     "imdbRating": 8,
-    "reason": "This HBO drama features A-list actor Mark Ruffalo and is created by Brad Ingelsby, known for the critically acclaimed 'Mare of Easttown.' It holds a solid 8.0 IMDb rating with over 45,000 votes."
+    "reason": "Features A-list actor Mark Ruffalo and acclaimed creator Brad Ingelsby ('Mare of Easttown'), achieving an 8.0 IMDb rating from 45K+ votes on HBO."
   },
   {
     "title": "Black Rabbit",
@@ -152,7 +153,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A Netflix series featuring two major stars, Jason Bateman and Jude Law, who also serve as producers. It has a strong 7.4 IMDb rating with over 35,000 votes, driven by its high-profile cast and platform."
+    "reason": "Stars popular actors Jason Bateman and Jude Law, generating significant buzz with a 7.4 IMDb rating from over 35K votes on Netflix."
   },
   {
     "title": "Boots",
@@ -172,8 +173,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.9,
-    "reason": "A Netflix drama with a strong 7.9 IMDb rating from over 22,000 votes, featuring Oscar-nominated actress Vera Farmiga."
+    "imdbRating": 7.9
   },
   {
     "title": "Wayward",
@@ -210,7 +210,6 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "This Netflix historical drama benefits from the involvement of acclaimed creator Steven Knight (Peaky Blinders). It has a good 7.4 IMDb rating with over 21,000 votes, attracting fans of Knight's previous successful work."
+    "imdbRating": 7.4
   }
 ]
