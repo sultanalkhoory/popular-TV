@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO series with an 8.0 IMDb rating from over 71,000 votes and an 8.2 TMDB score. It benefits from the popular 'IT' franchise and the involvement of director Andy Muschietti."
+    "reason": "A highly anticipated prequel from the creators of the successful 'IT' films, this HBO series has garnered significant audience interest with an 8.0 IMDb rating from over 71K votes."
   },
   {
     "title": "Pluribus",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by 'Breaking Bad' mastermind Vince Gilligan and starring Rhea Seehorn, it's a highly anticipated Apple TV series."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan, boasting excellent critical reception (Metacritic 87) and strong audience scores (IMDb 8.1 with over 76K votes) on Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -56,47 +56,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "An HBO crime drama boasting an 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score. It features A-list actor Mark Ruffalo and is created by Brad Ingelsby ('Mare of Easttown')."
-  },
-  {
-    "title": "Black Rabbit",
-    "tvdbId": 447579,
-    "tmdbId": 249039,
-    "imdbId": "tt23055142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
-    "firstAirDate": "2025-09-18",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "A Netflix drama with a 7.4 IMDb rating from over 35,000 votes, featuring a star-studded cast including Jason Bateman and Jude Law, whose production companies are also involved."
+    "imdbRating": 7.5,
+    "reason": "Starring Emmy winners Claire Danes and Matthew Rhys, this Netflix mystery has attracted a large viewership, reflected in its 7.5 IMDb rating from over 21K votes."
   },
   {
     "title": "Boots",
@@ -116,7 +77,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.9
+    "imdbRating": 7.9,
+    "reason": "This Netflix drama is well-received by audiences, achieving a strong 7.9 IMDb rating from over 22K votes and featuring acclaimed actress Vera Farmiga."
   },
   {
     "title": "House of Guinness",
@@ -135,5 +97,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4
+  },
+  {
+    "title": "Black Rabbit",
+    "tvdbId": 447579,
+    "tmdbId": 249039,
+    "imdbId": "tt23055142",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+    "firstAirDate": "2025-09-18",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.3,
+    "reason": "This Netflix crime drama features A-list actors Jason Bateman and Jude Law, drawing substantial audience engagement with over 39K IMDb votes and a solid 7.3 rating."
   }
 ]

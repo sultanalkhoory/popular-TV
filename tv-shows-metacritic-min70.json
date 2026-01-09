@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by 'Breaking Bad' mastermind Vince Gilligan and starring Rhea Seehorn, it's a highly anticipated Apple TV series."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan, boasting excellent critical reception (Metacritic 87) and strong audience scores (IMDb 8.1 with over 76K votes) on Apple TV."
   },
   {
     "title": "Man vs Baby",
@@ -74,47 +74,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Task",
-    "tvdbId": 451873,
-    "tmdbId": 228305,
-    "imdbId": "tt28013708",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/1st54ceDVocWItwsfWQbGCh5vxa.jpg",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "overview": "In the working-class suburbs of Philadelphia, an FBI agent heads a task force assembled to put an end to a string of violent robberies led by an unsuspecting family man.",
-    "firstAirDate": "2025-09-07",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 7,
-    "imdbRating": 8,
-    "reason": "An HBO crime drama boasting an 8.0 IMDb rating from over 45,000 votes and a strong 77 Metacritic score. It features A-list actor Mark Ruffalo and is created by Brad Ingelsby ('Mare of Easttown')."
-  },
-  {
-    "title": "Boots",
-    "tvdbId": 434473,
-    "tmdbId": 225647,
-    "imdbId": "tt27987047",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
-    "genres": [
-      "comedy",
-      "drama",
-      "war_politics"
-    ],
-    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.9
+    "imdbRating": 7.5,
+    "reason": "Starring Emmy winners Claire Danes and Matthew Rhys, this Netflix mystery has attracted a large viewership, reflected in its 7.5 IMDb rating from over 21K votes."
   },
   {
     "title": "Wayward",
@@ -134,6 +95,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 5.9
+  },
+  {
+    "title": "Boots",
+    "tvdbId": 434473,
+    "tmdbId": 225647,
+    "imdbId": "tt27987047",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "genres": [
+      "comedy",
+      "drama",
+      "war_politics"
+    ],
+    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
+    "firstAirDate": "2025-10-09",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.9,
+    "reason": "This Netflix drama is well-received by audiences, achieving a strong 7.9 IMDb rating from over 22K votes and featuring acclaimed actress Vera Farmiga."
   },
   {
     "title": "House of Guinness",
