@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated prequel from the creators of the successful 'IT' films, this HBO series has garnered significant audience interest with an 8.0 IMDb rating from over 71K votes."
+    "reason": "A prequel to the popular 'IT' franchise on HBO, helmed by the original film's director, Andy Muschietti. It has garnered significant audience interest with an 8.0 IMDb rating from over 71,000 votes."
   },
   {
     "title": "Pluribus",
@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan, boasting excellent critical reception (Metacritic 87) and strong audience scores (IMDb 8.1 with over 76K votes) on Apple TV."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV, boasting an excellent Metacritic score of 87 and an 8.1 IMDb rating from over 76,000 votes."
   },
   {
     "title": "Robin Hood",
@@ -78,25 +78,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Man vs Baby",
-    "tvdbId": 457885,
-    "tmdbId": 279601,
-    "imdbId": "tt35047134",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-    "genres": [
-      "comedy",
-      "family"
-    ],
-    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
-    "firstAirDate": "2025-12-11",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 4,
-    "imdbRating": null
-  },
-  {
     "title": "The Last Frontier",
     "tvdbId": 431488,
     "tmdbId": 221079,
@@ -116,6 +97,25 @@
     "imdbRating": 6.8
   },
   {
+    "title": "Man vs Baby",
+    "tvdbId": 457885,
+    "tmdbId": 279601,
+    "imdbId": "tt35047134",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "genres": [
+      "comedy",
+      "family"
+    ],
+    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+    "firstAirDate": "2025-12-11",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 4,
+    "imdbRating": null
+  },
+  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -132,8 +132,46 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring Emmy winners Claire Danes and Matthew Rhys, this Netflix mystery has attracted a large viewership, reflected in its 7.5 IMDb rating from over 21K votes."
+    "imdbRating": 7.5
+  },
+  {
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "genres": [
+      "drama"
+    ],
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4,
+    "reason": "Created by Steven Knight, known for the hit series 'Peaky Blinders,' this Netflix drama has a solid 7.4 IMDb rating from over 21,000 votes, indicating a strong following for its creator and genre."
+  },
+  {
+    "title": "Boots",
+    "tvdbId": 434473,
+    "tmdbId": 225647,
+    "imdbId": "tt27987047",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "genres": [
+      "comedy",
+      "drama",
+      "war_politics"
+    ],
+    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
+    "firstAirDate": "2025-10-09",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.9
   },
   {
     "title": "Wayward",
@@ -155,45 +193,6 @@
     "imdbRating": 5.9
   },
   {
-    "title": "Boots",
-    "tvdbId": 434473,
-    "tmdbId": 225647,
-    "imdbId": "tt27987047",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
-    "genres": [
-      "comedy",
-      "drama",
-      "war_politics"
-    ],
-    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.9,
-    "reason": "This Netflix drama is well-received by audiences, achieving a strong 7.9 IMDb rating from over 22K votes and featuring acclaimed actress Vera Farmiga."
-  },
-  {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
-    "genres": [
-      "drama"
-    ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4
-  },
-  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -211,6 +210,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "This Netflix crime drama features A-list actors Jason Bateman and Jude Law, drawing substantial audience engagement with over 39K IMDb votes and a solid 7.3 rating."
+    "reason": "This Netflix series features major stars Jason Bateman and Jude Law, who are also involved in production. It shows strong audience engagement with a 7.3 IMDb rating from nearly 40,000 votes."
   }
 ]

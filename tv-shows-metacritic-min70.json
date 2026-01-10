@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan, boasting excellent critical reception (Metacritic 87) and strong audience scores (IMDb 8.1 with over 76K votes) on Apple TV."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV, boasting an excellent Metacritic score of 87 and an 8.1 IMDb rating from over 76,000 votes."
   },
   {
     "title": "Man vs Baby",
@@ -74,27 +74,26 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring Emmy winners Claire Danes and Matthew Rhys, this Netflix mystery has attracted a large viewership, reflected in its 7.5 IMDb rating from over 21K votes."
+    "imdbRating": 7.5
   },
   {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
     "genres": [
-      "drama",
-      "mystery"
+      "drama"
     ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
     "firstAirDate": "2025-09-25",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 5.9
+    "imdbRating": 7.4,
+    "reason": "Created by Steven Knight, known for the hit series 'Peaky Blinders,' this Netflix drama has a solid 7.4 IMDb rating from over 21,000 votes, indicating a strong following for its creator and genre."
   },
   {
     "title": "Boots",
@@ -114,25 +113,25 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.9,
-    "reason": "This Netflix drama is well-received by audiences, achieving a strong 7.9 IMDb rating from over 22K votes and featuring acclaimed actress Vera Farmiga."
+    "imdbRating": 7.9
   },
   {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
     "genres": [
-      "drama"
+      "drama",
+      "mystery"
     ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
     "firstAirDate": "2025-09-25",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.4
+    "imdbRating": 5.9
   }
 ]
