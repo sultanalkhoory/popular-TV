@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV, boasting an excellent Metacritic score of 87 and an 8.1 IMDb rating from over 76,000 votes."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from 76K+ votes. Created by Vince Gilligan (Breaking Bad), ensuring high quality and anticipation on Apple TV."
   },
   {
     "title": "Man vs Baby",
@@ -92,8 +92,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "Created by Steven Knight, known for the hit series 'Peaky Blinders,' this Netflix drama has a solid 7.4 IMDb rating from over 21,000 votes, indicating a strong following for its creator and genre."
+    "imdbRating": 7.4
   },
   {
     "title": "Boots",
@@ -113,7 +112,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.9
+    "imdbRating": 7.9,
+    "reason": "A well-received Netflix drama with a 7.9 IMDb rating from over 22K votes. Features recognizable actress Vera Farmiga, contributing to its broad appeal on a popular streaming platform."
   },
   {
     "title": "Wayward",

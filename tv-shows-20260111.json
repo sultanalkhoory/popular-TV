@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Created by Vince Gilligan (Breaking Bad, Better Call Saul) and starring Emmy-nominated Rhea Seehorn, this Apple TV+ series boasts exceptional critical acclaim with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from 76K+ votes. Created by Vince Gilligan (Breaking Bad), ensuring high quality and anticipation on Apple TV."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO prequel to the popular 'IT' film franchise, it features acclaimed creators Andy and Barbara Muschietti and has garnered strong audience reception with an 8.0 IMDb rating from over 71,000 votes."
+    "reason": "Highly anticipated prequel on HBO, boasting an 8.0 IMDb rating from 71K+ votes. From the creators of the successful 'IT' film franchise, leveraging a strong horror brand."
   },
   {
     "title": "Black Rabbit",
@@ -57,26 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "This Netflix crime drama features A-list stars Jason Bateman and Jude Law, who also serve as producers, attracting significant attention with a 7.3 IMDb rating and nearly 40,000 votes."
-  },
-  {
-    "title": "Monster: The Ed Gein Story",
-    "tvdbId": null,
-    "tmdbId": 286801,
-    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-    "firstAirDate": "2025-10-03",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "Part of Ryan Murphy's highly successful 'Monster' anthology for Netflix, this series stars Charlie Hunnam and benefits from the creator's proven track record for generating massive cultural buzz and viewership."
+    "reason": "A Netflix crime drama featuring major stars Jason Bateman and Jude Law, who also produce. It has garnered a strong 7.3 IMDb rating from nearly 40K votes, indicating significant audience engagement."
   },
   {
     "title": "Boots",
@@ -97,6 +78,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama has strong audience approval, evidenced by its 7.9 IMDb rating from over 22,000 votes, and features recognizable actress Vera Farmiga, indicating solid viewer engagement."
+    "reason": "A well-received Netflix drama with a 7.9 IMDb rating from over 22K votes. Features recognizable actress Vera Farmiga, contributing to its broad appeal on a popular streaming platform."
+  },
+  {
+    "title": "Monster: The Ed Gein Story",
+    "tvdbId": null,
+    "tmdbId": 286801,
+    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "firstAirDate": "2025-10-03",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "Part of Ryan Murphy's highly popular 'Monster' anthology series on Netflix, known for generating significant cultural buzz. Its predecessor, 'Dahmer,' was a massive hit, setting high expectations for this installment."
   }
 ]
