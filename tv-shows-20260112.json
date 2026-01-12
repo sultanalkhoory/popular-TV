@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Helmed by acclaimed creator Vince Gilligan and starring Emmy-nominated Rhea Seehorn, this Apple TV series boasts exceptional critical reception (Metacritic 87) and an 8.1 IMDb rating from over 76,000 votes."
+    "reason": "Critically anticipated with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. It's helmed by acclaimed creator Vince Gilligan and features a strong cast on the prestigious Apple TV platform."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Building on a globally recognized horror franchise, this HBO series from director Andy Muschietti has garnered an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant anticipation and viewership."
+    "reason": "Highly anticipated prequel on HBO, leveraging the popular 'IT' franchise with director Andy Muschietti. It boasts an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant pre-release buzz."
   },
   {
     "title": "Black Rabbit",
@@ -57,26 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "Featuring a powerful duo of stars, Jason Bateman and Jude Law, this Netflix series has attracted substantial attention, reflected in its 7.3 IMDb rating from nearly 40,000 votes."
-  },
-  {
-    "title": "Monster: The Ed Gein Story",
-    "tvdbId": null,
-    "tmdbId": 286801,
-    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-    "firstAirDate": "2025-10-03",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "As part of Ryan Murphy's successful \"Monster\" anthology on Netflix, this series benefits from a strong brand following and features a recognizable lead in Charlie Hunnam, ensuring high viewership."
+    "reason": "This Netflix series features A-list stars Jason Bateman and Jude Law, who also produce, generating substantial interest. It has a solid 7.3 IMDb rating from nearly 40,000 votes."
   },
   {
     "title": "Boots",
@@ -97,6 +78,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama stands out with an excellent 7.9 IMDb rating from over 22,000 votes and features acclaimed actress Vera Farmiga, signaling strong positive reception."
+    "reason": "A promising Netflix drama with a high 7.9 IMDb rating from over 22,000 votes. It features acclaimed actress Vera Farmiga, contributing to its strong anticipated appeal."
+  },
+  {
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "genres": [
+      "drama"
+    ],
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4,
+    "reason": "This Netflix drama benefits from the involvement of renowned creator Steven Knight (Peaky Blinders). It has a strong 7.4 IMDb rating from over 21,000 votes, indicating high expectations."
   }
 ]
