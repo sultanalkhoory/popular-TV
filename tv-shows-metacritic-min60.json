@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel on HBO, leveraging the popular 'IT' franchise with director Andy Muschietti. It boasts an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant pre-release buzz."
+    "reason": "Highly anticipated prequel on HBO with an 8.0 IMDb rating from over 71K votes and a strong 8.2 TMDB score from 1.1K+ votes, leveraging a popular horror IP."
   },
   {
     "title": "Pluribus",
@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically anticipated with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. It's helmed by acclaimed creator Vince Gilligan and features a strong cast on the prestigious Apple TV platform."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Features renowned creator Vince Gilligan on the prestigious Apple TV platform."
   },
   {
     "title": "Man vs Baby",
@@ -97,23 +97,23 @@
     "imdbRating": 7.5
   },
   {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
     "genres": [
-      "drama"
+      "drama",
+      "mystery"
     ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
     "firstAirDate": "2025-09-25",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "This Netflix drama benefits from the involvement of renowned creator Steven Knight (Peaky Blinders). It has a strong 7.4 IMDb rating from over 21,000 votes, indicating high expectations."
+    "imdbRating": 5.9
   },
   {
     "title": "Boots",
@@ -134,26 +134,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A promising Netflix drama with a high 7.9 IMDb rating from over 22,000 votes. It features acclaimed actress Vera Farmiga, contributing to its strong anticipated appeal."
+    "reason": "A well-received Netflix drama with a 7.9 IMDb rating from over 22K votes and a 73 Metacritic score, featuring known actress Vera Farmiga."
   },
   {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
     "genres": [
-      "drama",
-      "mystery"
+      "drama"
     ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
     "firstAirDate": "2025-09-25",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 5.9
+    "imdbRating": 7.4
   },
   {
     "title": "Black Rabbit",
@@ -173,6 +172,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "This Netflix series features A-list stars Jason Bateman and Jude Law, who also produce, generating substantial interest. It has a solid 7.3 IMDb rating from nearly 40,000 votes."
+    "reason": "A high-profile Netflix crime drama featuring A-list actors Jason Bateman and Jude Law, garnering a 7.3 IMDb rating from over 39K votes."
   }
 ]
