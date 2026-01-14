@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel on HBO with an 8.0 IMDb rating from over 71K votes and a strong 8.2 TMDB score from 1.1K+ votes, leveraging a popular horror IP."
+    "reason": "Highly anticipated due to its connection to the popular 'IT' franchise, boasting an 8.0 IMDb rating from over 71K votes. It's a major HBO production from the franchise's established creators."
   },
   {
     "title": "Pluribus",
@@ -56,7 +56,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Features renowned creator Vince Gilligan on the prestigious Apple TV platform."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. It's helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn on prestigious Apple TV."
+  },
+  {
+    "title": "All Her Fault",
+    "tvdbId": 446149,
+    "tmdbId": 246386,
+    "imdbId": "tt31314751",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "genres": [
+      "drama",
+      "mystery",
+      "crime"
+    ],
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "firstAirDate": "2025-11-07",
+    "networks": [
+      "Sky Atlantic"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5
   },
   {
     "title": "Robin Hood",
@@ -75,7 +95,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 10,
-    "imdbRating": 6.3
+    "imdbRating": 6.7
   },
   {
     "title": "The Last Frontier",
@@ -132,26 +152,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Wayward",
-    "tvdbId": 433309,
-    "tmdbId": 255859,
-    "imdbId": "tt27427326",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 5.9
+    "imdbRating": 7.5,
+    "reason": "Attracts viewers with Emmy-winning leads Claire Danes and Matthew Rhys, earning a 7.5 IMDb rating from over 21K votes. This mystery drama is available on Netflix."
   },
   {
     "title": "Boots",
@@ -172,7 +174,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A well-received Netflix drama with a 7.9 IMDb rating from over 22K votes and a 73 Metacritic score, featuring known actress Vera Farmiga."
+    "reason": "Achieved a strong 7.9 IMDb rating from over 22K votes, indicating high audience satisfaction. This Netflix drama also features known actress Vera Farmiga."
+  },
+  {
+    "title": "Wayward",
+    "tvdbId": 433309,
+    "tmdbId": 255859,
+    "imdbId": "tt27427326",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 5.9
   },
   {
     "title": "House of Guinness",
@@ -210,6 +231,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "A high-profile Netflix crime drama featuring A-list actors Jason Bateman and Jude Law, garnering a 7.3 IMDb rating from over 39K votes."
+    "reason": "Features A-list stars Jason Bateman and Jude Law, contributing to its 7.3 IMDb rating from nearly 40K votes. This Netflix series benefits from the involvement of its popular lead actors in production."
   }
 ]
