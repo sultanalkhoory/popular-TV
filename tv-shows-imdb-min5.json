@@ -36,27 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated due to its connection to the popular 'IT' franchise, boasting an 8.0 IMDb rating from over 71K votes. It's a major HBO production from the franchise's established creators."
-  },
-  {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. It's helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn on prestigious Apple TV."
+    "reason": "A highly anticipated prequel to the popular 'IT' films, this HBO series from director Andy Muschietti has garnered an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant fan engagement."
   },
   {
     "title": "All Her Fault",
@@ -76,7 +56,28 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "Featuring an acclaimed cast led by Emmy-winner Sarah Snook, this mystery drama has achieved a strong 7.5 IMDb rating from over 21,000 votes, signaling critical and audience approval."
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.1,
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) and starring Emmy-nominated Rhea Seehorn. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes on Apple TV."
   },
   {
     "title": "Robin Hood",
@@ -133,8 +134,25 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Attracts viewers with Emmy-winning leads Claire Danes and Matthew Rhys, earning a 7.5 IMDb rating from over 21K votes. This mystery drama is available on Netflix."
+    "imdbRating": 7.5
+  },
+  {
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "genres": [
+      "drama"
+    ],
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4
   },
   {
     "title": "Boots",
@@ -155,7 +173,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "Achieved a strong 7.9 IMDb rating from over 22K votes, indicating high audience satisfaction. This Netflix drama also features known actress Vera Farmiga."
+    "reason": "This Netflix drama, starring Vera Farmiga, has resonated with audiences, earning a very good 7.9 IMDb rating from over 22,000 votes."
   },
   {
     "title": "Wayward",
@@ -177,24 +195,6 @@
     "imdbRating": 5.9
   },
   {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
-    "genres": [
-      "drama"
-    ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4
-  },
-  {
     "title": "Black Rabbit",
     "tvdbId": 447579,
     "tmdbId": 249039,
@@ -212,6 +212,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "Features A-list stars Jason Bateman and Jude Law, contributing to its 7.3 IMDb rating from nearly 40K votes. This Netflix series benefits from the involvement of its popular lead actors in production."
+    "reason": "This Netflix crime drama features a star-studded cast including Jason Bateman and Jude Law, attracting substantial attention with a 7.3 IMDb rating from nearly 40,000 votes."
   }
 ]

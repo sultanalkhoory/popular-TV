@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with an 8.1 IMDb rating and over 76K votes, this Apple TV+ series is helmed by acclaimed creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) and starring Emmy-nominated Rhea Seehorn. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes on Apple TV."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO series with an 8.0 IMDb rating and over 71K votes, it benefits from the established 'IT' franchise and acclaimed director Andy Muschietti."
+    "reason": "A highly anticipated prequel to the popular 'IT' films, this HBO series from director Andy Muschietti has garnered an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant fan engagement."
   },
   {
     "title": "Black Rabbit",
@@ -57,7 +57,28 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.3,
-    "reason": "This Netflix crime drama boasts a strong 7.3 IMDb rating with nearly 40K votes, featuring popular stars Jason Bateman and Jude Law."
+    "reason": "This Netflix crime drama features a star-studded cast including Jason Bateman and Jude Law, attracting substantial attention with a 7.3 IMDb rating from nearly 40,000 votes."
+  },
+  {
+    "title": "All Her Fault",
+    "tvdbId": 446149,
+    "tmdbId": 246386,
+    "imdbId": "tt31314751",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "genres": [
+      "drama",
+      "mystery",
+      "crime"
+    ],
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "firstAirDate": "2025-11-07",
+    "networks": [
+      "Sky Atlantic"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Featuring an acclaimed cast led by Emmy-winner Sarah Snook, this mystery drama has achieved a strong 7.5 IMDb rating from over 21,000 votes, signaling critical and audience approval."
   },
   {
     "title": "Boots",
@@ -78,25 +99,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "Critically well-received with a 7.9 IMDb rating and over 22K votes, this Netflix drama also holds a solid 73 Metacritic score."
-  },
-  {
-    "title": "Monster: The Ed Gein Story",
-    "tvdbId": null,
-    "tmdbId": 286801,
-    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-    "firstAirDate": "2025-10-03",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": null,
-    "reason": "Part of a highly popular Netflix anthology, this series is executive produced by hitmaker Ryan Murphy and stars Charlie Hunnam, ensuring significant cultural buzz."
+    "reason": "This Netflix drama, starring Vera Farmiga, has resonated with audiences, earning a very good 7.9 IMDb rating from over 22,000 votes."
   }
 ]
