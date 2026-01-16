@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) and starring Emmy-nominated Rhea Seehorn. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes on Apple TV."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV+, boasting an excellent Metacritic score of 87 and a strong 8.1 IMDb rating from over 76,000 votes."
   },
   {
     "title": "Man vs Baby",
@@ -74,7 +74,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "Drawing on the star power of acclaimed actors Claire Danes and Matthew Rhys, this Netflix mystery drama has earned a solid 7.5 IMDb rating from over 21,000 votes."
   },
   {
     "title": "House of Guinness",
@@ -113,7 +114,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama, starring Vera Farmiga, has resonated with audiences, earning a very good 7.9 IMDb rating from over 22,000 votes."
+    "reason": "This Netflix drama stands out with a very strong 7.9 IMDb rating from over 22,000 votes, featuring the well-known actress Vera Farmiga."
   },
   {
     "title": "Wayward",
