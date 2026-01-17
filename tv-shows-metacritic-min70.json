@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV+, boasting an excellent Metacritic score of 87 and a strong 8.1 IMDb rating from over 76,000 votes."
+    "reason": "Highly anticipated with acclaimed creator Vince Gilligan and Emmy-nominated Rhea Seehorn. Boasts an exceptional 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes on Apple TV."
   },
   {
     "title": "Man vs Baby",
@@ -58,6 +58,24 @@
     "imdbRating": null
   },
   {
+    "title": "House of Guinness",
+    "tvdbId": 447594,
+    "tmdbId": 250988,
+    "imdbId": "tt13542714",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "genres": [
+      "drama"
+    ],
+    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
+    "firstAirDate": "2025-09-25",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4
+  },
+  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -75,25 +93,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Drawing on the star power of acclaimed actors Claire Danes and Matthew Rhys, this Netflix mystery drama has earned a solid 7.5 IMDb rating from over 21,000 votes."
-  },
-  {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
-    "genres": [
-      "drama"
-    ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4
+    "reason": "Attracting strong viewership on Netflix with a 7.5 IMDb rating from over 21K votes. The show features an acclaimed cast including Emmy winners Claire Danes and Matthew Rhys."
   },
   {
     "title": "Boots",
@@ -114,7 +114,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama stands out with a very strong 7.9 IMDb rating from over 22,000 votes, featuring the well-known actress Vera Farmiga."
+    "reason": "A Netflix series starring well-known actress Vera Farmiga, achieving a strong 7.9 IMDb rating from over 22,000 votes, demonstrating significant audience approval."
   },
   {
     "title": "Wayward",

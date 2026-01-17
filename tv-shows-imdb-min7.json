@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A prequel to the popular 'IT' franchise, this HBO series benefits from the involvement of director Andy Muschietti and has garnered an impressive 8.0 IMDb rating from over 71,000 votes."
+    "reason": "Part of the popular 'IT' franchise on HBO, helmed by successful director Andy Muschietti. It holds an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant audience interest."
   },
   {
     "title": "All Her Fault",
@@ -37,7 +37,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "Features Emmy-winning actress Sarah Snook and popular actor Jake Lacy. It has a solid 7.5 IMDb rating with over 21,000 votes, indicating strong viewer engagement."
   },
   {
     "title": "Pluribus",
@@ -57,27 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV+, boasting an excellent Metacritic score of 87 and a strong 8.1 IMDb rating from over 76,000 votes."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Drawing on the star power of acclaimed actors Claire Danes and Matthew Rhys, this Netflix mystery drama has earned a solid 7.5 IMDb rating from over 21,000 votes."
+    "reason": "Highly anticipated with acclaimed creator Vince Gilligan and Emmy-nominated Rhea Seehorn. Boasts an exceptional 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes on Apple TV."
   },
   {
     "title": "House of Guinness",
@@ -98,6 +79,26 @@
     "imdbRating": 7.4
   },
   {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Attracting strong viewership on Netflix with a 7.5 IMDb rating from over 21K votes. The show features an acclaimed cast including Emmy winners Claire Danes and Matthew Rhys."
+  },
+  {
     "title": "Boots",
     "tvdbId": 434473,
     "tmdbId": 225647,
@@ -116,26 +117,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama stands out with a very strong 7.9 IMDb rating from over 22,000 votes, featuring the well-known actress Vera Farmiga."
-  },
-  {
-    "title": "Black Rabbit",
-    "tvdbId": 447579,
-    "tmdbId": 249039,
-    "imdbId": "tt23055142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
-    "firstAirDate": "2025-09-18",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.3,
-    "reason": "This Netflix crime drama features major stars Jason Bateman and Jude Law, who also have production involvement, and has a solid 7.3 IMDb rating with nearly 40,000 votes."
+    "reason": "A Netflix series starring well-known actress Vera Farmiga, achieving a strong 7.9 IMDb rating from over 22,000 votes, demonstrating significant audience approval."
   }
 ]

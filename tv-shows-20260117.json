@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76K votes and a Metacritic score of 87. It's helmed by renowned creator Vince Gilligan on Apple TV."
+    "reason": "Highly anticipated with acclaimed creator Vince Gilligan and Emmy-nominated Rhea Seehorn. Boasts an exceptional 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes on Apple TV."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated prequel to a popular horror franchise, boasting an 8.0 IMDb rating from over 71K votes and airing on the prestigious HBO network."
+    "reason": "Part of the popular 'IT' franchise on HBO, helmed by successful director Andy Muschietti. It holds an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant audience interest."
   },
   {
     "title": "Monster: The Ed Gein Story",
@@ -56,7 +56,28 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": null,
-    "reason": "Part of Netflix's highly popular 'Monster' anthology series from hitmaker Ryan Murphy, featuring popular actor Charlie Hunnam, ensuring significant cultural buzz."
+    "reason": "From prolific creator Ryan Murphy, known for Netflix's highly popular 'Monster' anthology, and starring Charlie Hunnam. This series benefits from a strong brand and creator track record on a major streaming platform."
+  },
+  {
+    "title": "All Her Fault",
+    "tvdbId": 446149,
+    "tmdbId": 246386,
+    "imdbId": "tt31314751",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "genres": [
+      "drama",
+      "mystery",
+      "crime"
+    ],
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "firstAirDate": "2025-11-07",
+    "networks": [
+      "Sky Atlantic"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Features Emmy-winning actress Sarah Snook and popular actor Jake Lacy. It has a solid 7.5 IMDb rating with over 21,000 votes, indicating strong viewer engagement."
   },
   {
     "title": "Boots",
@@ -77,26 +98,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes. It also features well-known actress Vera Farmiga."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Attracting strong viewership on Netflix with a 7.5 IMDb rating from over 21K votes. The show features an acclaimed cast including Emmy winners Claire Danes and Matthew Rhys."
+    "reason": "A Netflix series starring well-known actress Vera Farmiga, achieving a strong 7.9 IMDb rating from over 22,000 votes, demonstrating significant audience approval."
   }
 ]
