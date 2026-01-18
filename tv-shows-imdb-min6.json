@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Part of the popular 'IT' franchise on HBO, helmed by successful director Andy Muschietti. It holds an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant audience interest."
+    "reason": "As a highly anticipated prequel to a popular horror franchise on HBO, it has garnered an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant pre-release buzz."
   },
   {
     "title": "All Her Fault",
@@ -37,8 +37,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actress Sarah Snook and popular actor Jake Lacy. It has a solid 7.5 IMDb rating with over 21,000 votes, indicating strong viewer engagement."
+    "imdbRating": 7.5
   },
   {
     "title": "Pluribus",
@@ -58,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with acclaimed creator Vince Gilligan and Emmy-nominated Rhea Seehorn. Boasts an exceptional 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes on Apple TV."
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this Apple TV+ series boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 anticipatory votes."
   },
   {
     "title": "Robin Hood",
@@ -134,7 +133,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Attracting strong viewership on Netflix with a 7.5 IMDb rating from over 21K votes. The show features an acclaimed cast including Emmy winners Claire Danes and Matthew Rhys."
+    "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix mystery has a solid 7.5 IMDb rating with over 21,000 votes, highlighting its strong cast appeal."
   },
   {
     "title": "Boots",
@@ -155,6 +154,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A Netflix series starring well-known actress Vera Farmiga, achieving a strong 7.9 IMDb rating from over 22,000 votes, demonstrating significant audience approval."
+    "reason": "This Netflix drama features Vera Farmiga and holds a very strong 7.9 IMDb rating with over 22,000 votes, reflecting high viewer interest."
   }
 ]
