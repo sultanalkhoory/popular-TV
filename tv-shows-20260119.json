@@ -1,45 +1,5 @@
 [
   {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-    "firstAirDate": "2025-10-26",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 8,
-    "reason": "Boasts an excellent 8.0 IMDb rating from over 71K votes and is backed by the prestigious HBO network. It's a highly anticipated horror series from the creators of the 'IT' film franchise."
-  },
-  {
-    "title": "All Her Fault",
-    "tvdbId": 446149,
-    "tmdbId": 246386,
-    "imdbId": "tt31314751",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-    "genres": [
-      "drama",
-      "mystery",
-      "crime"
-    ],
-    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
-    "firstAirDate": "2025-11-07",
-    "networks": [
-      "Sky Atlantic"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5
-  },
-  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -60,23 +20,43 @@
     "reason": "Highly acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan and starring Rhea Seehorn, both known for 'Breaking Bad' and 'Better Call Saul'."
   },
   {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
     "genres": [
-      "drama"
+      "drama",
+      "mystery"
     ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
-    "firstAirDate": "2025-09-25",
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 8,
+    "reason": "Boasts an excellent 8.0 IMDb rating from over 71K votes and is backed by the prestigious HBO network. It's a highly anticipated horror series from the creators of the 'IT' film franchise."
+  },
+  {
+    "title": "Monster: The Ed Gein Story",
+    "tvdbId": null,
+    "tmdbId": 286801,
+    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "firstAirDate": "2025-10-03",
     "networks": [
       "Netflix"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "From acclaimed creator Steven Knight ('Peaky Blinders') and distributed by Netflix, 'House of Guinness' has a good 7.4 IMDb rating with over 21,000 votes, indicating a strong following for its historical drama."
+    "imdbRating": null,
+    "reason": "Part of the popular 'Monster' anthology series on Netflix, created by prolific showrunner Ryan Murphy and starring well-known actor Charlie Hunnam, ensuring significant buzz and viewership."
   },
   {
     "title": "The Beast in Me",
