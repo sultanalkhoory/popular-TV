@@ -19,26 +19,6 @@
     "imdbRating": 5.6
   },
   {
-    "title": "HIS & HERS",
-    "tvdbId": 452521,
-    "tmdbId": 259731,
-    "imdbId": "tt33035373",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
-    "genres": [
-      "drama",
-      "crime",
-      "mystery"
-    ],
-    "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
-    "firstAirDate": "2026-01-08",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null
-  },
-  {
     "title": "IT: Welcome to Derry",
     "tvdbId": 418424,
     "tmdbId": 200875,
@@ -56,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel on HBO, boasting an 8.0 IMDb rating from over 71K votes, and helmed by the acclaimed creators of the 'IT' film franchise."
+    "reason": "This HBO series leverages the popular \"IT\" franchise, drawing significant audience engagement with an 8.0 IMDb rating from over 71,000 votes."
   },
   {
     "title": "All Her Fault",
@@ -77,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actress Sarah Snook, achieving a 7.5 IMDb rating from over 21K votes, making it a highly anticipated drama."
+    "reason": "Featuring Emmy-winning actress Sarah Snook, this series has a good 7.5 IMDb rating with over 21,000 votes, reflecting strong audience interest."
   },
   {
     "title": "Pluribus",
@@ -97,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad) and starring Rhea Seehorn (Better Call Saul) on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes, this Apple TV+ series benefits from creator Vince Gilligan's esteemed reputation."
   },
   {
     "title": "Robin Hood",
@@ -156,25 +136,6 @@
     "imdbRating": 7.4
   },
   {
-    "title": "Man vs Baby",
-    "tvdbId": 457885,
-    "tmdbId": 279601,
-    "imdbId": "tt35047134",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-    "genres": [
-      "comedy",
-      "family"
-    ],
-    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
-    "firstAirDate": "2025-12-11",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 4,
-    "imdbRating": null
-  },
-  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -192,7 +153,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Attracts significant attention with Emmy-winning leads Claire Danes and Matthew Rhys, achieving a 7.5 IMDb rating from over 21K votes on Netflix."
+    "reason": "Starring Emmy winners Claire Danes and Matthew Rhys, this Netflix mystery achieved a good 7.5 IMDb rating with over 21,000 votes, appealing to fans of prestige dramas."
   },
   {
     "title": "Boots",
@@ -213,7 +174,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes and a 73 Metacritic score, featuring well-known actress Vera Farmiga."
+    "reason": "This Netflix drama boasts a strong 7.9 IMDb rating from over 22,000 votes and features well-known actress Vera Farmiga, indicating solid audience approval."
   },
   {
     "title": "Wayward",
