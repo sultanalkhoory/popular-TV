@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with an exceptional 8.1 IMDb rating from over 76K votes and a Metacritic score of 87. Created by acclaimed showrunner Vince Gilligan and airing on prestigious Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes, this Apple TV series is from renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Generating significant buzz with an 8.0 IMDb rating from over 71K votes. This HBO series is based on a popular IP and helmed by the creators of the successful 'IT' film franchise."
+    "reason": "A highly anticipated prequel to the popular 'IT' franchise, this HBO series boasts an 8.0 IMDb rating from over 71K votes and is helmed by the film's director, Andy Muschietti."
+  },
+  {
+    "title": "Monster: The Ed Gein Story",
+    "tvdbId": null,
+    "tmdbId": 286801,
+    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "firstAirDate": "2025-10-03",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "Leveraging the successful 'Monster' anthology brand, this Netflix series from prolific creator Ryan Murphy and starring Charlie Hunnam generates significant buzz and anticipation."
   },
   {
     "title": "Boots",
@@ -58,27 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A strong contender on Netflix with a very good 7.9 IMDb rating from over 22K votes and a Metacritic score of 73. Features well-known actress Vera Farmiga."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Popular Netflix mystery with a 7.5 IMDb rating from over 21K votes and a Metacritic score of 71. Stars Emmy-winning actors Claire Danes and Matthew Rhys."
+    "reason": "This Netflix drama features strong critical and audience reception, with a 73 Metacritic score and a 7.9 IMDb rating from over 22K votes, starring Vera Farmiga."
   },
   {
     "title": "All Her Fault",
@@ -99,6 +98,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Drawing attention with a 7.5 IMDb rating from over 21K votes. This Sky Atlantic drama features Emmy-winning lead actress Sarah Snook, indicating strong critical and audience appeal."
+    "reason": "Starring Emmy-winning actress Sarah Snook, this mystery drama has a solid 7.5 IMDb rating from over 21K votes, indicating strong audience engagement."
   }
 ]

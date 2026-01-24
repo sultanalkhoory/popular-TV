@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel with a strong 8.0 IMDb rating from over 71K votes. Produced by HBO and helmed by the acclaimed creators of the 'IT' film franchise."
+    "reason": "A highly anticipated prequel to the popular 'IT' franchise, this HBO series boasts an 8.0 IMDb rating from over 71K votes and is helmed by the film's director, Andy Muschietti."
   },
   {
     "title": "All Her Fault",
@@ -38,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling mystery drama with a 7.5 IMDb rating from over 21K votes. Features Emmy-winning actress Sarah Snook and is backed by reputable production companies."
+    "reason": "Starring Emmy-winning actress Sarah Snook, this mystery drama has a solid 7.5 IMDb rating from over 21K votes, indicating strong audience engagement."
   },
   {
     "title": "Pluribus",
@@ -58,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an outstanding Metacritic score of 87 and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan and stars Emmy-nominated Rhea Seehorn on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes, this Apple TV series is from renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
   },
   {
     "title": "Robin Hood",
@@ -99,24 +99,6 @@
     "imdbRating": 6.8
   },
   {
-    "title": "House of Guinness",
-    "tvdbId": 447594,
-    "tmdbId": 250988,
-    "imdbId": "tt13542714",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
-    "genres": [
-      "drama"
-    ],
-    "overview": "Dublin, 1868. The Guinness family patriarch is dead, and his four children — each with dark secrets to hide — hold the brewery's fate in their hands.",
-    "firstAirDate": "2025-09-25",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4
-  },
-  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -134,7 +116,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Popular Netflix series boasting a 7.5 IMDb rating from over 21K votes and a Metacritic score of 71. Stars Emmy-winning actors Claire Danes and Matthew Rhys."
+    "reason": "Popular Netflix mystery with a 7.5 IMDb rating from over 21K votes and a Metacritic score of 71. Stars Emmy-winning actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "Boots",
@@ -155,6 +137,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A well-received Netflix drama with a 7.9 IMDb rating from over 22K votes and a Metacritic score of 73. Features well-known actress Vera Farmiga."
+    "reason": "This Netflix drama features strong critical and audience reception, with a 73 Metacritic score and a 7.9 IMDb rating from over 22K votes, starring Vera Farmiga."
   }
 ]
