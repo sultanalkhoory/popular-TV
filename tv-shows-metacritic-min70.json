@@ -36,7 +36,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes, this Apple TV series is from renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan ('Breaking Bad') on Apple TV, boasting an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76K votes."
+  },
+  {
+    "title": "Man vs Baby",
+    "tvdbId": 457885,
+    "tmdbId": 279601,
+    "imdbId": "tt35047134",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "genres": [
+      "comedy",
+      "family"
+    ],
+    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+    "firstAirDate": "2025-12-11",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 4,
+    "imdbRating": null
   },
   {
     "title": "The Beast in Me",
@@ -56,7 +75,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Popular Netflix mystery with a 7.5 IMDb rating from over 21K votes and a Metacritic score of 71. Stars Emmy-winning actors Claire Danes and Matthew Rhys."
+    "reason": "A Netflix drama starring Emmy winners Claire Danes and Matthew Rhys, with a good 7.5 IMDb rating from over 21K votes, attracting a strong viewership and critical attention."
   },
   {
     "title": "Boots",
@@ -77,6 +96,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama features strong critical and audience reception, with a 73 Metacritic score and a 7.9 IMDb rating from over 22K votes, starring Vera Farmiga."
+    "reason": "A Netflix production featuring well-known actress Vera Farmiga, with a strong 7.9 IMDb rating from over 22K votes, demonstrating solid audience approval and engagement."
   }
 ]

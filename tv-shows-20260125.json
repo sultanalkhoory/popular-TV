@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.1,
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan ('Breaking Bad') on Apple TV, boasting an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76K votes."
+  },
+  {
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 8,
+    "reason": "A highly anticipated HBO series expanding the popular 'IT' universe, with a strong 8.0 IMDb rating from over 71K votes, indicating massive audience interest and franchise appeal."
+  },
+  {
+    "title": "Monster: The Ed Gein Story",
+    "tvdbId": null,
+    "tmdbId": 286801,
+    "posterUrl": "http://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "firstAirDate": "2025-10-03",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": null,
+    "reason": "Part of Ryan Murphy's hugely popular 'Monster' anthology on Netflix, featuring Charlie Hunnam, guaranteeing significant cultural buzz and viewership despite limited public ratings."
+  },
+  {
+    "title": "Boots",
+    "tvdbId": 434473,
+    "tmdbId": 225647,
+    "imdbId": "tt27987047",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "genres": [
+      "comedy",
+      "drama",
+      "war_politics"
+    ],
+    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
+    "firstAirDate": "2025-10-09",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.9,
+    "reason": "A Netflix production featuring well-known actress Vera Farmiga, with a strong 7.9 IMDb rating from over 22K votes, demonstrating solid audience approval and engagement."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "A Netflix drama starring Emmy winners Claire Danes and Matthew Rhys, with a good 7.5 IMDb rating from over 21K votes, attracting a strong viewership and critical attention."
+  }
+]

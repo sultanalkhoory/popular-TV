@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with an exceptional 8.1 IMDb rating from over 76K votes and a Metacritic score of 87. Created by acclaimed showrunner Vince Gilligan and airing on prestigious Apple TV."
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this Apple TV series boasts an outstanding 8.1 IMDb rating from over 76,000 votes and an 87 Metacritic score, featuring Emmy-nominated Rhea Seehorn."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,48 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Generating significant buzz with an 8.0 IMDb rating from over 71K votes. This HBO series is based on a popular IP and helmed by the creators of the successful 'IT' film franchise."
-  },
-  {
-    "title": "Boots",
-    "tvdbId": 434473,
-    "tmdbId": 225647,
-    "imdbId": "tt27987047",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
-    "genres": [
-      "comedy",
-      "drama",
-      "war_politics"
-    ],
-    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.9,
-    "reason": "A strong contender on Netflix with a very good 7.9 IMDb rating from over 22K votes and a Metacritic score of 73. Features well-known actress Vera Farmiga."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Popular Netflix mystery with a 7.5 IMDb rating from over 21K votes and a Metacritic score of 71. Stars Emmy-winning actors Claire Danes and Matthew Rhys."
+    "reason": "As a highly anticipated prequel to the popular 'IT' franchise, this HBO series is helmed by the original film creators and has garnered significant buzz, reflected in its 8.0 IMDb rating from over 71,000 votes."
   },
   {
     "title": "All Her Fault",
@@ -99,6 +58,47 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Drawing attention with a 7.5 IMDb rating from over 21K votes. This Sky Atlantic drama features Emmy-winning lead actress Sarah Snook, indicating strong critical and audience appeal."
+    "reason": "Featuring an acclaimed cast led by Emmy-winner Sarah Snook and Jake Lacy, this drama has achieved a strong 7.5 IMDb rating from over 21,000 votes, backed by reputable production company Carnival Films."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "This Netflix mystery benefits from a critically acclaimed cast including Emmy winners Claire Danes and Matthew Rhys, reflected in its solid 7.5 IMDb rating from over 21,000 votes and 71 Metacritic score."
+  },
+  {
+    "title": "Boots",
+    "tvdbId": 434473,
+    "tmdbId": 225647,
+    "imdbId": "tt27987047",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "genres": [
+      "comedy",
+      "drama",
+      "war_politics"
+    ],
+    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
+    "firstAirDate": "2025-10-09",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.9,
+    "reason": "A Netflix drama with a strong 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, featuring veteran actress Vera Farmiga, indicating significant viewer engagement and critical approval."
   }
 ]
