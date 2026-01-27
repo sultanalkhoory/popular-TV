@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with an 8.1 IMDb rating from 76K+ votes and an 87 Metacritic score. Created by Vince Gilligan and starring Rhea Seehorn, it boasts critical acclaim and major talent on Apple TV."
+    "reason": "Created by acclaimed showrunner Vince Gilligan and starring Rhea Seehorn, this Apple TV+ series boasts an excellent 87 Metacritic score and a strong 8.1 IMDb rating from over 76,000 votes."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO prequel to the popular 'IT' franchise, boasting an 8.0 IMDb rating from over 71K votes and strong TMDB scores, driven by the original film's creators."
+    "reason": "This HBO prequel to the popular \"IT\" franchise is highly anticipated, evidenced by its strong 8.0 IMDb rating from over 71,000 votes and a solid 8.2 TMDB score."
   },
   {
     "title": "A Knight of the Seven Kingdoms",
@@ -58,7 +58,7 @@
     "numberOfSeasons": 2,
     "numberOfEpisodes": 7,
     "imdbRating": null,
-    "reason": "Set in the beloved Game of Thrones universe, this HBO series is highly anticipated due to its connection to George R. R. Martin and the prestigious network, promising significant cultural impact."
+    "reason": "Set in the beloved \"Game of Thrones\" universe and created by George R. R. Martin for HBO, this series carries immense cultural weight and anticipation, reflected in its good 74 Metacritic score."
   },
   {
     "title": "Boots",
@@ -79,26 +79,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes and a 73 Metacritic score. Features well-known actress Vera Farmiga and is backed by Sony Pictures Television."
+    "reason": "This Netflix drama, featuring Vera Farmiga, has earned a very good 7.9 IMDb rating from over 22,000 votes and a solid 73 Metacritic score, indicating strong critical and audience reception."
   },
   {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "title": "All Her Fault",
+    "tvdbId": 446149,
+    "tmdbId": 246386,
+    "imdbId": "tt31314751",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
     "genres": [
       "drama",
-      "mystery"
+      "mystery",
+      "crime"
     ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "firstAirDate": "2025-11-07",
     "networks": [
-      "Netflix"
+      "Sky Atlantic"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix drama with a 7.5 IMDb rating from 21K+ votes and a 71 Metacritic score. Stars Emmy-winning actors Claire Danes and Matthew Rhys, ensuring high-quality performances."
+    "reason": "Starring Emmy-winning actress Sarah Snook, this mystery drama has garnered a strong 7.5 IMDb rating from over 21,000 votes, indicating significant audience engagement."
   }
 ]
