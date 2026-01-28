@@ -18,7 +18,7 @@
     "numberOfSeasons": 2,
     "numberOfEpisodes": 7,
     "imdbRating": null,
-    "reason": "Set in the beloved \"Game of Thrones\" universe and created by George R. R. Martin for HBO, this series carries immense cultural weight and anticipation, reflected in its good 74 Metacritic score."
+    "reason": "As a highly anticipated HBO series set in the Game of Thrones universe and co-created by George R. R. Martin, it carries immense cultural relevance and brand power."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "This HBO prequel to the popular \"IT\" franchise is highly anticipated, evidenced by its strong 8.0 IMDb rating from over 71,000 votes and a solid 8.2 TMDB score."
+    "reason": "This HBO prequel to the popular IT franchise boasts an impressive 8.0 IMDb rating from over 71,000 votes, driven by its established brand and acclaimed creators."
   },
   {
     "title": "All Her Fault",
@@ -77,8 +77,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring Emmy-winning actress Sarah Snook, this mystery drama has garnered a strong 7.5 IMDb rating from over 21,000 votes, indicating significant audience engagement."
+    "imdbRating": 7.5
   },
   {
     "title": "Pluribus",
@@ -98,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Created by acclaimed showrunner Vince Gilligan and starring Rhea Seehorn, this Apple TV+ series boasts an excellent 87 Metacritic score and a strong 8.1 IMDb rating from over 76,000 votes."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes, this Apple TV series is from renowned creator Vince Gilligan."
   },
   {
     "title": "Man vs Baby",
@@ -136,8 +135,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "A compelling Netflix drama with a 7.5 IMDb rating from 21K+ votes and a 71 Metacritic score. Stars Emmy-winning actors Claire Danes and Matthew Rhys, ensuring high-quality performances."
+    "imdbRating": 7.5
   },
   {
     "title": "Boots",
@@ -158,6 +156,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama, featuring Vera Farmiga, has earned a very good 7.9 IMDb rating from over 22,000 votes and a solid 73 Metacritic score, indicating strong critical and audience reception."
+    "reason": "A Netflix drama with strong audience and critical reception, evidenced by a 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score."
   }
 ]
