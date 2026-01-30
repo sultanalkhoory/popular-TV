@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "As an HBO prequel to the popular 'IT' franchise, it boasts an impressive 8.0 IMDb rating from over 71,000 votes, driven by the established success of its source material and creators."
+    "reason": "Generating massive buzz with an 8.0 IMDb rating from over 71K votes, leveraging the popular IT franchise on HBO with director Andy Muschietti."
   },
   {
     "title": "All Her Fault",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes, this Apple TV+ series is from acclaimed creator Vince Gilligan and stars Rhea Seehorn."
+    "reason": "Highly anticipated with an 8.1 IMDb rating from over 76K votes, driven by acclaimed creator Vince Gilligan (Breaking Bad) and premium network Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -76,8 +76,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "This Netflix drama features Emmy-winning actors Claire Danes and Matthew Rhys, contributing to its strong 7.5 IMDb rating from over 21,000 votes and widespread appeal on the platform."
+    "imdbRating": 7.5
   },
   {
     "title": "Boots",
@@ -98,6 +97,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama features well-known actress Vera Farmiga and has garnered a strong 7.9 IMDb rating from over 22,000 votes, indicating significant audience approval and engagement."
+    "reason": "Strongly rated with a 7.9 IMDb score from over 22K votes on Netflix, featuring recognizable actress Vera Farmiga."
   }
 ]
