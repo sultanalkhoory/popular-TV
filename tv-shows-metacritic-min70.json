@@ -18,7 +18,7 @@
     "numberOfSeasons": 2,
     "numberOfEpisodes": 7,
     "imdbRating": null,
-    "reason": "Immense anticipation for this HBO prequel set in the Game of Thrones universe, created by George R. R. Martin, ensuring significant cultural impact."
+    "reason": "Set in the highly popular Game of Thrones universe and created by George R. R. Martin for HBO, this series has high anticipation and a solid 74 Metacritic score, promising significant cultural impact."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -57,26 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with an 8.1 IMDb rating from over 76K votes, driven by acclaimed creator Vince Gilligan (Breaking Bad) and premium network Apple TV."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this Apple TV+ series boasts an exceptional 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes, indicating strong critical and audience reception."
   },
   {
     "title": "Man vs Baby",
@@ -98,6 +79,25 @@
     "imdbRating": null
   },
   {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5
+  },
+  {
     "title": "Boots",
     "tvdbId": 434473,
     "tmdbId": 225647,
@@ -116,6 +116,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "Strongly rated with a 7.9 IMDb score from over 22K votes on Netflix, featuring recognizable actress Vera Farmiga."
+    "reason": "A Netflix original with a strong 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, 'Boots' features well-known actress Vera Farmiga, contributing to its broad appeal."
   }
 ]

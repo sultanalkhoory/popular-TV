@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Generating massive buzz with an 8.0 IMDb rating from over 71K votes, leveraging the popular IT franchise on HBO with director Andy Muschietti."
+    "reason": "This HBO series benefits from the popular 'IT' franchise, achieving an impressive 8.0 IMDb rating from over 71,000 votes and a strong 8.2 TMDB score, demonstrating significant audience engagement."
   },
   {
     "title": "All Her Fault",
@@ -76,7 +76,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with an 8.1 IMDb rating from over 76K votes, driven by acclaimed creator Vince Gilligan (Breaking Bad) and premium network Apple TV."
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this Apple TV+ series boasts an exceptional 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes, indicating strong critical and audience reception."
+  },
+  {
+    "title": "Agatha Christie's Seven Dials",
+    "tvdbId": 448466,
+    "tmdbId": 250505,
+    "imdbId": "tt31974288",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+    "firstAirDate": "2026-01-15",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 3,
+    "imdbRating": 6.3
   },
   {
     "title": "Robin Hood",
@@ -154,6 +173,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "Strongly rated with a 7.9 IMDb score from over 22K votes on Netflix, featuring recognizable actress Vera Farmiga."
+    "reason": "A Netflix original with a strong 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, 'Boots' features well-known actress Vera Farmiga, contributing to its broad appeal."
   }
 ]
