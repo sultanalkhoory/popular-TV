@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO series based on Stephen King's iconic 'IT' IP, boasting an 8.0 IMDb rating from over 71,000 votes and directed by Andy Muschietti."
+    "reason": "A prequel to the popular 'IT' horror franchise, airing on prestigious HBO. It has a strong 8.0 IMDb rating with over 71,000 votes, driven by the involvement of director Andy Muschietti."
   },
   {
     "title": "All Her Fault",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actress Sarah Snook and holds a strong 7.5 IMDb rating from over 21,000 votes, demonstrating its appeal and positive audience response."
+    "reason": "Features an acclaimed cast including Emmy-winner Sarah Snook and Jake Lacy. It holds a strong 7.5 IMDb rating from over 21,000 votes, suggesting significant audience engagement for this mystery drama."
   },
   {
     "title": "Pluribus",
@@ -77,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV+. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes, indicating strong critical and audience reception."
   },
   {
     "title": "Agatha Christie's Seven Dials",
@@ -99,25 +99,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Robin Hood",
-    "tvdbId": 454834,
-    "tmdbId": 272418,
-    "imdbId": "tt33484460",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
-    "genres": [
-      "drama",
-      "action_adventure"
-    ],
-    "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
-    "firstAirDate": "2025-11-02",
-    "networks": [
-      "MGM+"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6.7
-  },
-  {
     "title": "The Last Frontier",
     "tvdbId": 431488,
     "tmdbId": 221079,
@@ -137,6 +118,25 @@
     "imdbRating": 6.8
   },
   {
+    "title": "Robin Hood",
+    "tvdbId": 454834,
+    "tmdbId": 272418,
+    "imdbId": "tt33484460",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+    "genres": [
+      "drama",
+      "action_adventure"
+    ],
+    "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
+    "firstAirDate": "2025-11-02",
+    "networks": [
+      "MGM+"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 10,
+    "imdbRating": 6.7
+  },
+  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -154,7 +154,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Starring acclaimed actors Claire Danes and Matthew Rhys on Netflix, this show has a solid 7.5 IMDb rating with over 21,000 votes, reflecting its popularity and positive reception."
+    "reason": "A Netflix drama starring Emmy winners Claire Danes and Matthew Rhys. It has a solid 7.5 IMDb rating with over 21,000 votes and a 71 Metacritic score, indicating a well-received show with a strong lead cast."
   },
   {
     "title": "Boots",
@@ -175,6 +175,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A Netflix series featuring Vera Farmiga, it has garnered a strong 7.9 IMDb rating from over 22,000 votes, indicating significant audience approval and engagement."
+    "reason": "This Netflix series features Oscar-nominee Vera Farmiga and holds a strong 7.9 IMDb rating from over 22,000 votes, alongside a 73 Metacritic score, demonstrating both critical and popular appeal."
   }
 ]

@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
+    "reason": "Created by Vince Gilligan (Breaking Bad/Better Call Saul), this Apple TV+ series boasts an exceptional 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes, indicating strong critical and audience reception."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,48 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO series based on Stephen King's iconic 'IT' IP, boasting an 8.0 IMDb rating from over 71,000 votes and directed by Andy Muschietti."
+    "reason": "This HBO series leverages the popular 'IT' IP with director Andy Muschietti, achieving an impressive 8.0 IMDb rating from over 71,000 votes, signifying high anticipation and audience engagement."
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "tvdbId": 433631,
+    "tmdbId": 224372,
+    "imdbId": "tt27497448",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy",
+      "action_adventure"
+    ],
+    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+    "firstAirDate": "2026-01-18",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 7,
+    "imdbRating": null,
+    "reason": "Set in the globally popular Game of Thrones universe, this HBO series is created by George R. R. Martin himself, guaranteeing immense cultural relevance and a large built-in fanbase."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix drama holds a strong 7.5 IMDb rating from over 21,000 votes and a 71 Metacritic score, highlighting its critical and audience appeal."
   },
   {
     "title": "Boots",
@@ -58,47 +99,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A Netflix series featuring Vera Farmiga, it has garnered a strong 7.9 IMDb rating from over 22,000 votes, indicating significant audience approval and engagement."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring acclaimed actors Claire Danes and Matthew Rhys on Netflix, this show has a solid 7.5 IMDb rating with over 21,000 votes, reflecting its popularity and positive reception."
-  },
-  {
-    "title": "All Her Fault",
-    "tvdbId": 446149,
-    "tmdbId": 246386,
-    "imdbId": "tt31314751",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-    "genres": [
-      "drama",
-      "mystery",
-      "crime"
-    ],
-    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
-    "firstAirDate": "2025-11-07",
-    "networks": [
-      "Sky Atlantic"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actress Sarah Snook and holds a strong 7.5 IMDb rating from over 21,000 votes, demonstrating its appeal and positive audience response."
+    "reason": "This Netflix series has a very good 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, demonstrating solid critical acclaim and strong viewer engagement on a major streaming platform."
   }
 ]

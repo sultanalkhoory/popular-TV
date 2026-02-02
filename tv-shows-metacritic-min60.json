@@ -17,7 +17,8 @@
     ],
     "numberOfSeasons": 2,
     "numberOfEpisodes": 7,
-    "imdbRating": null
+    "imdbRating": null,
+    "reason": "Set in the globally popular Game of Thrones universe, this HBO series is created by George R. R. Martin himself, guaranteeing immense cultural relevance and a large built-in fanbase."
   },
   {
     "title": "Wonder Man",
@@ -75,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO series based on Stephen King's iconic 'IT' IP, boasting an 8.0 IMDb rating from over 71,000 votes and directed by Andy Muschietti."
+    "reason": "A prequel to the popular 'IT' horror franchise, airing on prestigious HBO. It has a strong 8.0 IMDb rating with over 71,000 votes, driven by the involvement of director Andy Muschietti."
   },
   {
     "title": "All Her Fault",
@@ -96,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actress Sarah Snook and holds a strong 7.5 IMDb rating from over 21,000 votes, demonstrating its appeal and positive audience response."
+    "reason": "Features an acclaimed cast including Emmy-winner Sarah Snook and Jake Lacy. It holds a strong 7.5 IMDb rating from over 21,000 votes, suggesting significant audience engagement for this mystery drama."
   },
   {
     "title": "Pluribus",
@@ -116,7 +117,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
+    "reason": "Highly anticipated series from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV+. It boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes, indicating strong critical and audience reception."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "A Netflix drama starring Emmy winners Claire Danes and Matthew Rhys. It has a solid 7.5 IMDb rating with over 21,000 votes and a 71 Metacritic score, indicating a well-received show with a strong lead cast."
   },
   {
     "title": "Man vs Baby",
@@ -138,26 +159,6 @@
     "imdbRating": null
   },
   {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Starring acclaimed actors Claire Danes and Matthew Rhys on Netflix, this show has a solid 7.5 IMDb rating with over 21,000 votes, reflecting its popularity and positive reception."
-  },
-  {
     "title": "Boots",
     "tvdbId": 434473,
     "tmdbId": 225647,
@@ -176,6 +177,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A Netflix series featuring Vera Farmiga, it has garnered a strong 7.9 IMDb rating from over 22,000 votes, indicating significant audience approval and engagement."
+    "reason": "This Netflix series features Oscar-nominee Vera Farmiga and holds a strong 7.9 IMDb rating from over 22,000 votes, alongside a 73 Metacritic score, demonstrating both critical and popular appeal."
   }
 ]
