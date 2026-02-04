@@ -17,7 +17,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": null
+    "imdbRating": null,
+    "reason": "A highly anticipated HBO series set in the 'Game of Thrones' universe, created by George R. R. Martin, ensuring massive cultural relevance and viewership."
   },
   {
     "title": "Wonder Man",
@@ -37,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "Backed by Marvel Studios and Disney+, this series benefits from a massive built-in fanbase. It holds a solid 7.6 IMDb rating with over 12K votes, indicating strong early audience engagement."
+    "reason": "A Marvel Studios production for Disney+, featuring Yahya Abdul-Mateen II. It has a solid 7.6 IMDb rating from over 12K votes, benefiting from the popular MCU brand."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -96,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated prequel to a major horror franchise, boasting an 8.0 IMDb rating from over 71K votes. Its connection to the 'IT' universe and HBO platform ensures significant cultural relevance."
+    "reason": "Highly anticipated HBO series based on Stephen King's 'IT,' boasting an 8.0 IMDb rating from over 71K votes. Created by the Muschietti siblings, known for the successful 'IT' films."
   },
   {
     "title": "All Her Fault",
@@ -136,7 +137,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by the renowned Vince Gilligan and starring Rhea Seehorn, it's a prestige offering on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
   },
   {
     "title": "Agatha Christie's Seven Dials",
@@ -158,25 +159,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "The Last Frontier",
-    "tvdbId": 431488,
-    "tmdbId": 221079,
-    "imdbId": "tt26862142",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
-    "genres": [
-      "drama",
-      "crime"
-    ],
-    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6.8
-  },
-  {
     "title": "Robin Hood",
     "tvdbId": 454834,
     "tmdbId": 272418,
@@ -196,6 +178,25 @@
     "imdbRating": 6.7
   },
   {
+    "title": "The Last Frontier",
+    "tvdbId": 431488,
+    "tmdbId": 221079,
+    "imdbId": "tt26862142",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
+    "firstAirDate": "2025-10-09",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 10,
+    "imdbRating": 6.8
+  },
+  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -213,7 +214,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Featuring well-known actors Claire Danes and Matthew Rhys, this Netflix series has a respectable 7.5 IMDb rating with over 21K votes. Its strong cast and platform contribute to its broad appeal."
+    "reason": "A Netflix drama starring acclaimed actors Claire Danes and Matthew Rhys, achieving a 7.5 IMDb rating from over 21K votes. Its strong cast and platform contribute to its popularity."
   },
   {
     "title": "Man vs Baby",
@@ -253,6 +254,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama has garnered a strong 7.9 IMDb rating from over 22K votes. Its presence on a global platform like Netflix, combined with positive audience reception, makes it widely popular."
+    "reason": "A Netflix series with a strong 7.9 IMDb rating from over 22K votes, featuring well-known actress Vera Farmiga. Its solid audience reception on a major streaming platform makes it popular."
   }
 ]

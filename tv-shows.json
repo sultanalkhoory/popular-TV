@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by the renowned Vince Gilligan and starring Rhea Seehorn, it's a prestige offering on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad) and starring Rhea Seehorn (Better Call Saul) on Apple TV+."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,28 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated prequel to a major horror franchise, boasting an 8.0 IMDb rating from over 71K votes. Its connection to the 'IT' universe and HBO platform ensures significant cultural relevance."
+    "reason": "Highly anticipated HBO prequel to the popular 'IT' horror franchise, with an 8.0 IMDb rating from over 71K votes, driven by director Andy Muschietti."
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "tvdbId": 433631,
+    "tmdbId": 224372,
+    "imdbId": "tt27497448",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy",
+      "action_adventure"
+    ],
+    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+    "firstAirDate": "2026-01-18",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
+    "imdbRating": null,
+    "reason": "A highly anticipated HBO series set in the 'Game of Thrones' universe, created by George R. R. Martin, ensuring massive cultural relevance and viewership."
   },
   {
     "title": "Wonder Man",
@@ -57,7 +78,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "Backed by Marvel Studios and Disney+, this series benefits from a massive built-in fanbase. It holds a solid 7.6 IMDb rating with over 12K votes, indicating strong early audience engagement."
+    "reason": "A new Marvel Studios series on Disney+, benefiting from the massive MCU franchise and producer Kevin Feige, with a 7.6 IMDb rating from over 12K votes."
   },
   {
     "title": "Boots",
@@ -78,26 +99,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "This Netflix drama has garnered a strong 7.9 IMDb rating from over 22K votes. Its presence on a global platform like Netflix, combined with positive audience reception, makes it widely popular."
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Featuring well-known actors Claire Danes and Matthew Rhys, this Netflix series has a respectable 7.5 IMDb rating with over 21K votes. Its strong cast and platform contribute to its broad appeal."
+    "reason": "A Netflix drama with strong audience anticipation, evidenced by a 7.9 IMDb rating from over 22K votes and a solid 73 Metacritic score."
   }
 ]

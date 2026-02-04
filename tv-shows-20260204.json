@@ -1,23 +1,23 @@
 [
   {
-    "title": "Wonder Man",
-    "tvdbId": 428629,
-    "tmdbId": 198178,
-    "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/2XSHwBHIvIDPpbcH4ntQIItlThG.jpg",
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
     "genres": [
-      "comedy",
-      "drama"
+      "drama",
+      "sci_fi_fantasy"
     ],
-    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-    "firstAirDate": "2026-01-27",
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
     "networks": [
-      "Disney+"
+      "Apple TV"
     ],
     "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.6,
-    "reason": "A Marvel Studios production for Disney+, featuring Yahya Abdul-Mateen II. It has a solid 7.6 IMDb rating from over 12K votes, benefiting from the popular MCU brand."
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.1,
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -40,44 +40,24 @@
     "reason": "Highly anticipated HBO series based on Stephen King's 'IT,' boasting an 8.0 IMDb rating from over 71K votes. Created by the Muschietti siblings, known for the successful 'IT' films."
   },
   {
-    "title": "All Her Fault",
-    "tvdbId": 446149,
-    "tmdbId": 246386,
-    "imdbId": "tt31314751",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "title": "Wonder Man",
+    "tvdbId": 428629,
+    "tmdbId": 198178,
+    "imdbId": "tt21066182",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/2XSHwBHIvIDPpbcH4ntQIItlThG.jpg",
     "genres": [
-      "drama",
-      "mystery",
-      "crime"
+      "comedy",
+      "drama"
     ],
-    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
-    "firstAirDate": "2025-11-07",
+    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+    "firstAirDate": "2026-01-27",
     "networks": [
-      "Sky Atlantic"
+      "Disney+"
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
+    "imdbRating": 7.6,
+    "reason": "A Marvel Studios production for Disney+, featuring Yahya Abdul-Mateen II. It has a solid 7.6 IMDb rating from over 12K votes, benefiting from the popular MCU brand."
   },
   {
     "title": "The Beast in Me",
