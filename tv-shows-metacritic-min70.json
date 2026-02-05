@@ -18,14 +18,14 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "A highly anticipated HBO series set in the 'Game of Thrones' universe, created by George R. R. Martin, ensuring massive cultural relevance and viewership."
+    "reason": "Highly anticipated prequel in the Game of Thrones universe from creator George R. R. Martin, airing on HBO, indicating massive cultural relevance and buzz."
   },
   {
     "title": "Wonder Man",
     "tvdbId": 428629,
     "tmdbId": 198178,
     "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/2XSHwBHIvIDPpbcH4ntQIItlThG.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
     "genres": [
       "comedy",
       "drama"
@@ -38,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A Marvel Studios production for Disney+, featuring Yahya Abdul-Mateen II. It has a solid 7.6 IMDb rating from over 12K votes, benefiting from the popular MCU brand."
+    "reason": "A highly anticipated Marvel Studios series on Disney+, with a solid 7.6 IMDb rating from over 12K votes and featuring a known cast."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -77,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad) and features Rhea Seehorn on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Features renowned creator Vince Gilligan and actor Rhea Seehorn on Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -96,8 +96,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "A Netflix drama starring acclaimed actors Claire Danes and Matthew Rhys, achieving a 7.5 IMDb rating from over 21K votes. Its strong cast and platform contribute to its popularity."
+    "imdbRating": 7.5
   },
   {
     "title": "Man vs Baby",
@@ -137,6 +136,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A Netflix series with a strong 7.9 IMDb rating from over 22K votes, featuring well-known actress Vera Farmiga. Its solid audience reception on a major streaming platform makes it popular."
+    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes, featuring acclaimed actress Vera Farmiga."
   }
 ]

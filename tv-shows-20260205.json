@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by acclaimed showrunner Vince Gilligan and features a strong cast on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Features renowned creator Vince Gilligan and actor Rhea Seehorn on Apple TV."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,28 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel to a popular horror franchise on HBO, boasting an 8.0 IMDb rating from over 71,000 votes and helmed by the Muschietti siblings."
-  },
-  {
-    "title": "A Knight of the Seven Kingdoms",
-    "tvdbId": 433631,
-    "tmdbId": 224372,
-    "imdbId": "tt27497448",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy",
-      "action_adventure"
-    ],
-    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-    "firstAirDate": "2026-01-18",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null,
-    "reason": "Part of the globally popular Game of Thrones universe, created by George R. R. Martin and airing on HBO, ensuring massive cultural relevance and anticipation."
+    "reason": "Highly anticipated prequel to a popular horror franchise, boasting an 8.0 IMDb rating from over 71K votes and airing on prestigious HBO."
   },
   {
     "title": "Wonder Man",
@@ -78,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, benefiting from the immense popularity of the MCU brand and featuring a rising star lead."
+    "reason": "A highly anticipated Marvel Studios series on Disney+, with a solid 7.6 IMDb rating from over 12K votes and featuring a known cast."
   },
   {
     "title": "Boots",
@@ -99,6 +78,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A well-received Netflix drama with a strong 7.9 IMDb rating from over 22,000 votes and featuring acclaimed actress Vera Farmiga."
+    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes, featuring acclaimed actress Vera Farmiga."
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "tvdbId": 433631,
+    "tmdbId": 224372,
+    "imdbId": "tt27497448",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy",
+      "action_adventure"
+    ],
+    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+    "firstAirDate": "2026-01-18",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
+    "imdbRating": null,
+    "reason": "Highly anticipated prequel in the Game of Thrones universe from creator George R. R. Martin, airing on HBO, indicating massive cultural relevance and buzz."
   }
 ]
