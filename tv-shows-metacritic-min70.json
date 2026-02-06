@@ -4,7 +4,7 @@
     "tvdbId": 433631,
     "tmdbId": 224372,
     "imdbId": "tt27497448",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
     "genres": [
       "drama",
       "sci_fi_fantasy",
@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Highly anticipated prequel in the Game of Thrones universe from creator George R. R. Martin, airing on HBO, indicating massive cultural relevance and buzz."
+    "reason": "Part of the beloved 'Game of Thrones' universe, this HBO series is created by George R. R. Martin, ensuring massive cultural relevance and anticipation despite early data."
   },
   {
     "title": "Wonder Man",
@@ -38,14 +38,14 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, with a solid 7.6 IMDb rating from over 12K votes and featuring a known cast."
+    "reason": "A highly anticipated Marvel Studios series on Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II and holding a solid 7.6 IMDb rating from over 12,000 votes."
   },
   {
     "title": "Spartacus: House of Ashur",
     "tvdbId": 465189,
     "tmdbId": 240459,
     "imdbId": "tt29921437",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
     "genres": [
       "drama",
       "action_adventure"
@@ -77,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Features renowned creator Vince Gilligan and actor Rhea Seehorn on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Created by the renowned Vince Gilligan and distributed by prestigious Apple TV."
   },
   {
     "title": "The Beast in Me",
@@ -96,7 +96,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "A compelling drama on Netflix with a strong 7.5 IMDb rating from over 21,000 votes. Features acclaimed, Emmy-winning actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "Man vs Baby",
@@ -136,6 +137,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes, featuring acclaimed actress Vera Farmiga."
+    "reason": "A well-received Netflix series with a 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, indicating strong critical and audience appreciation."
   }
 ]

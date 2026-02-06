@@ -17,14 +17,14 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, with a solid 7.6 IMDb rating from over 12K votes and featuring a known cast."
+    "reason": "A highly anticipated Marvel Studios series on Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II and holding a solid 7.6 IMDb rating from over 12,000 votes."
   },
   {
     "title": "Spartacus: House of Ashur",
     "tvdbId": 465189,
     "tmdbId": 240459,
     "imdbId": "tt29921437",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
     "genres": [
       "drama",
       "action_adventure"
@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel to a popular horror franchise, boasting an 8.0 IMDb rating from over 71K votes and airing on prestigious HBO."
+    "reason": "Highly anticipated prequel to the popular IT films, boasting an 8.0 IMDb rating from over 71,000 votes. Backed by HBO and directed by the successful Muschietti siblings."
   },
   {
     "title": "Pluribus",
@@ -76,7 +76,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Features renowned creator Vince Gilligan and actor Rhea Seehorn on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Created by the renowned Vince Gilligan and distributed by prestigious Apple TV."
+  },
+  {
+    "title": "Star Trek: Starfleet Academy",
+    "tvdbId": 433120,
+    "tmdbId": 223530,
+    "imdbId": "tt8622160",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+    "genres": [
+      "sci_fi_fantasy",
+      "action_adventure"
+    ],
+    "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+    "firstAirDate": "2026-01-15",
+    "networks": [
+      "Paramount+"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 10,
+    "imdbRating": 5
   },
   {
     "title": "All Her Fault",
@@ -96,26 +115,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
-  },
-  {
-    "title": "Agatha Christie's Seven Dials",
-    "tvdbId": 448466,
-    "tmdbId": 250505,
-    "imdbId": "tt31974288",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
-    "firstAirDate": "2026-01-15",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 3,
-    "imdbRating": 6.3
+    "imdbRating": 7.5,
+    "reason": "Features Emmy-winning actress Sarah Snook in a leading role, attracting significant attention with a 7.5 IMDb rating from over 21,000 votes."
   },
   {
     "title": "Robin Hood",
@@ -135,6 +136,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 10,
     "imdbRating": 6.7
+  },
+  {
+    "title": "Agatha Christie's Seven Dials",
+    "tvdbId": 448466,
+    "tmdbId": 250505,
+    "imdbId": "tt31974288",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+    "firstAirDate": "2026-01-15",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 3,
+    "imdbRating": 6.3
   },
   {
     "title": "The Last Frontier",
@@ -172,7 +192,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "A compelling drama on Netflix with a strong 7.5 IMDb rating from over 21,000 votes. Features acclaimed, Emmy-winning actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "Boots",
@@ -193,6 +214,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A strong performer on Netflix with a 7.9 IMDb rating from over 22K votes, featuring acclaimed actress Vera Farmiga."
+    "reason": "A well-received Netflix series with a 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, indicating strong critical and audience appreciation."
   }
 ]

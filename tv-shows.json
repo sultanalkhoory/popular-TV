@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by acclaimed showrunner Vince Gilligan and features a strong cast on Apple TV."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan, boasting an exceptional 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,14 +37,14 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel to a popular horror franchise on HBO, boasting an 8.0 IMDb rating from over 71,000 votes and helmed by the Muschietti siblings."
+    "reason": "A prequel to the popular 'IT' franchise on HBO, it has garnered significant buzz with an 8.0 IMDb rating from over 71,000 votes, indicating strong fan interest."
   },
   {
     "title": "A Knight of the Seven Kingdoms",
     "tvdbId": 433631,
     "tmdbId": 224372,
     "imdbId": "tt27497448",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
     "genres": [
       "drama",
       "sci_fi_fantasy",
@@ -58,27 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Part of the globally popular Game of Thrones universe, created by George R. R. Martin and airing on HBO, ensuring massive cultural relevance and anticipation."
-  },
-  {
-    "title": "Wonder Man",
-    "tvdbId": 428629,
-    "tmdbId": 198178,
-    "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-    "firstAirDate": "2026-01-27",
-    "networks": [
-      "Disney+"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, benefiting from the immense popularity of the MCU brand and featuring a rising star lead."
+    "reason": "Part of the beloved 'Game of Thrones' universe, this HBO series is created by George R. R. Martin, ensuring massive cultural relevance and anticipation despite early data."
   },
   {
     "title": "Boots",
@@ -99,6 +79,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.9,
-    "reason": "A well-received Netflix drama with a strong 7.9 IMDb rating from over 22,000 votes and featuring acclaimed actress Vera Farmiga."
+    "reason": "A strong Netflix offering with a 7.9 IMDb rating from over 22,000 votes and a solid 73 Metacritic score, indicating critical and audience approval."
+  },
+  {
+    "title": "All Her Fault",
+    "tvdbId": 446149,
+    "tmdbId": 246386,
+    "imdbId": "tt31314751",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "genres": [
+      "drama",
+      "mystery",
+      "crime"
+    ],
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "firstAirDate": "2025-11-07",
+    "networks": [
+      "Sky Atlantic"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Features Emmy-winning actress Sarah Snook in a leading role, attracting significant attention with a 7.5 IMDb rating from over 21,000 votes."
   }
 ]
