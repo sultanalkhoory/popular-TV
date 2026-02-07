@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Created by renowned showrunner Vince Gilligan for Apple TV."
+    "reason": "Highly anticipated with exceptional critical buzz (87 Metacritic) and strong audience interest (8.1 IMDb rating with over 76K votes), driven by acclaimed creator Vince Gilligan on Apple TV."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated horror series based on a popular franchise, boasting an 8.0 IMDb rating with over 71,000 votes and airing on prestigious HBO."
+    "reason": "A prequel to a globally popular horror franchise on HBO, boasting significant audience engagement with an 8.0 IMDb rating from over 71K votes and an 8.2 TMDB score."
+  },
+  {
+    "title": "Wonder Man",
+    "tvdbId": 428629,
+    "tmdbId": 198178,
+    "imdbId": "tt21066182",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+    "firstAirDate": "2026-01-27",
+    "networks": [
+      "Disney+"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.6,
+    "reason": "Part of the massive Marvel Cinematic Universe, backed by Marvel Studios and Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, and holding a solid 7.6 IMDb rating with over 12K votes."
   },
   {
     "title": "A Knight of the Seven Kingdoms",
@@ -58,27 +78,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Part of the globally popular Game of Thrones universe, created by George R. R. Martin and airing on HBO, ensuring massive cultural relevance and anticipation."
-  },
-  {
-    "title": "Wonder Man",
-    "tvdbId": 428629,
-    "tmdbId": 198178,
-    "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-    "firstAirDate": "2026-01-27",
-    "networks": [
-      "Disney+"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.6,
-    "reason": "A Marvel Studios production on Disney+, featuring a solid 7.6 IMDb rating with over 12,000 votes, benefiting from a major franchise and acclaimed producers."
+    "reason": "A highly anticipated prequel set in the iconic Game of Thrones universe, created by George R. R. Martin and airing on the prestigious HBO network, ensuring immense cultural relevance and fan excitement."
   },
   {
     "title": "The Beast in Me",
@@ -98,6 +98,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Features a strong cast including Claire Danes and Matthew Rhys on Netflix, with a good 7.5 IMDb rating and over 21,000 votes, indicating solid audience reception."
+    "reason": "A mystery drama on Netflix featuring two Emmy-winning lead actors, Claire Danes and Matthew Rhys, which has garnered a strong 7.5 IMDb rating from over 21K votes."
   }
 ]

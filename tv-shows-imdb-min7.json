@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II and holding a solid 7.6 IMDb rating from over 12,000 votes."
+    "reason": "Part of the massive Marvel Cinematic Universe, backed by Marvel Studios and Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, and holding a solid 7.6 IMDb rating with over 12K votes."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel to the popular IT films, boasting an 8.0 IMDb rating from over 71,000 votes. Backed by HBO and directed by the successful Muschietti siblings."
+    "reason": "A prequel to a globally popular horror franchise on HBO, boasting significant audience engagement with an 8.0 IMDb rating from over 71K votes and an 8.2 TMDB score."
   },
   {
     "title": "Pluribus",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Created by the renowned Vince Gilligan and distributed by prestigious Apple TV."
+    "reason": "Highly anticipated with exceptional critical buzz (87 Metacritic) and strong audience interest (8.1 IMDb rating with over 76K votes), driven by acclaimed creator Vince Gilligan on Apple TV."
   },
   {
     "title": "All Her Fault",
@@ -77,8 +77,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actress Sarah Snook in a leading role, attracting significant attention with a 7.5 IMDb rating from over 21,000 votes."
+    "imdbRating": 7.5
   },
   {
     "title": "The Beast in Me",
@@ -98,27 +97,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling drama on Netflix with a strong 7.5 IMDb rating from over 21,000 votes. Features acclaimed, Emmy-winning actors Claire Danes and Matthew Rhys."
-  },
-  {
-    "title": "Boots",
-    "tvdbId": 434473,
-    "tmdbId": 225647,
-    "imdbId": "tt27987047",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
-    "genres": [
-      "comedy",
-      "drama",
-      "war_politics"
-    ],
-    "overview": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose — and unexpected brotherhood — with his motley team of fellow recruits.",
-    "firstAirDate": "2025-10-09",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.9,
-    "reason": "A well-received Netflix series with a 7.9 IMDb rating from over 22,000 votes and a 73 Metacritic score, indicating strong critical and audience appreciation."
+    "reason": "A mystery drama on Netflix featuring two Emmy-winning lead actors, Claire Danes and Matthew Rhys, which has garnered a strong 7.5 IMDb rating from over 21K votes."
   }
 ]
