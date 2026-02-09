@@ -17,8 +17,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": null,
-    "reason": "A highly anticipated prequel set in the iconic Game of Thrones universe, created by George R. R. Martin and airing on the prestigious HBO network, ensuring immense cultural relevance and fan excitement."
+    "imdbRating": null
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -30,7 +29,7 @@
       "drama",
       "action_adventure"
     ],
-    "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+    "overview": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
     "firstAirDate": "2025-12-05",
     "networks": [
       "STARZ"
@@ -44,7 +43,7 @@
     "tvdbId": 428629,
     "tmdbId": 198178,
     "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
     "genres": [
       "comedy",
       "drama"
@@ -57,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "Part of the massive Marvel Cinematic Universe, backed by Marvel Studios and Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, and holding a solid 7.6 IMDb rating with over 12K votes."
+    "reason": "Backed by Marvel Studios and Disney+, this series features Emmy-winning actor Yahya Abdul-Mateen II and holds a solid 7.6 IMDb rating with over 12,000 votes, indicating strong interest from a major fanbase."
   },
   {
     "title": "Pluribus",
@@ -77,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly anticipated with exceptional critical buzz (87 Metacritic) and strong audience interest (8.1 IMDb rating with over 76K votes), driven by acclaimed creator Vince Gilligan on Apple TV."
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this Apple TV+ series boasts an excellent 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes, indicating strong critical and audience reception."
   },
   {
     "title": "The Beast in Me",
@@ -97,7 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A mystery drama on Netflix featuring two Emmy-winning lead actors, Claire Danes and Matthew Rhys, which has garnered a strong 7.5 IMDb rating from over 21K votes."
+    "reason": "This Netflix drama stars Emmy winners Claire Danes and Matthew Rhys, achieving a respectable 7.5 IMDb rating from over 21,000 votes, suggesting a compelling performance-driven series."
   },
   {
     "title": "Man vs Baby",
