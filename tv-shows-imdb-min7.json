@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A Marvel Studios series on Disney+, benefiting from a massive existing fanbase and featuring Emmy-winning actor Yahya Abdul-Mateen II. It holds a solid 7.6 IMDb rating with over 12K votes."
+    "reason": "A Marvel Studios production for Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, and holding a strong 7.6 IMDb rating with over 12,000 votes."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO prequel to a popular film franchise, boasting an excellent 8.0 IMDb rating from over 71K votes and strong TMDB scores, indicating significant audience engagement."
+    "reason": "Highly anticipated prequel to the popular 'IT' franchise, boasting an 8.0 IMDb rating from over 71,000 votes and airing on the prestigious HBO network."
   },
   {
     "title": "Pluribus",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad), ensuring high anticipation and quality on Apple TV."
+    "reason": "Critically anticipated with an 8.1 IMDb rating and over 76,000 votes, driven by acclaimed creator Vince Gilligan (Breaking Bad) and star Rhea Seehorn on Apple TV."
   },
   {
     "title": "All Her Fault",
@@ -77,7 +77,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "Starring Emmy-winning actress Sarah Snook, this drama has a strong 7.5 IMDb rating from over 21,000 votes and an excellent TMDB score, indicating critical and audience appreciation."
   },
   {
     "title": "The Beast in Me",
@@ -97,6 +98,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys. It has a strong 7.5 IMDb rating from over 21K votes, indicating substantial audience approval and reach on a major streaming platform."
+    "reason": "A Netflix drama with a strong cast including Emmy winners Claire Danes and Matthew Rhys, earning a solid 7.5 IMDb rating from over 21,000 votes."
   }
 ]

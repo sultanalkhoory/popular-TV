@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan (Breaking Bad), ensuring high anticipation and quality on Apple TV."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV, boasting an excellent 8.1 IMDb rating from over 76,000 votes."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,48 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO prequel to a popular film franchise, boasting an excellent 8.0 IMDb rating from over 71K votes and strong TMDB scores, indicating significant audience engagement."
-  },
-  {
-    "title": "Wonder Man",
-    "tvdbId": 428629,
-    "tmdbId": 198178,
-    "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-    "firstAirDate": "2026-01-27",
-    "networks": [
-      "Disney+"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.6,
-    "reason": "A Marvel Studios series on Disney+, benefiting from a massive existing fanbase and featuring Emmy-winning actor Yahya Abdul-Mateen II. It holds a solid 7.6 IMDb rating with over 12K votes."
-  },
-  {
-    "title": "A Knight of the Seven Kingdoms",
-    "tvdbId": 433631,
-    "tmdbId": 224372,
-    "imdbId": "tt27497448",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy",
-      "action_adventure"
-    ],
-    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-    "firstAirDate": "2026-01-18",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null,
-    "reason": "Set in the globally renowned Game of Thrones universe, created by George R. R. Martin and airing on HBO, this show carries immense cultural weight and anticipation, supported by a strong TMDB score of 8.14."
+    "reason": "A prequel to the popular 'IT' franchise on HBO, this series has garnered an impressive 8.0 IMDb rating from over 71,000 votes and a strong TMDB score."
   },
   {
     "title": "The Beast in Me",
@@ -98,6 +57,47 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys. It has a strong 7.5 IMDb rating from over 21K votes, indicating substantial audience approval and reach on a major streaming platform."
+    "reason": "This Netflix drama features acclaimed actors Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes and a good Metacritic score."
+  },
+  {
+    "title": "All Her Fault",
+    "tvdbId": 446149,
+    "tmdbId": 246386,
+    "imdbId": "tt31314751",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "genres": [
+      "drama",
+      "mystery",
+      "crime"
+    ],
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "firstAirDate": "2025-11-07",
+    "networks": [
+      "Sky Atlantic"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Starring Emmy-winning actress Sarah Snook, this drama has a strong 7.5 IMDb rating from over 21,000 votes and an excellent TMDB score, indicating critical and audience appreciation."
+  },
+  {
+    "title": "Wonder Man",
+    "tvdbId": 428629,
+    "tmdbId": 198178,
+    "imdbId": "tt21066182",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+    "firstAirDate": "2026-01-27",
+    "networks": [
+      "Disney+"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.6,
+    "reason": "As a Marvel Studios production on Disney+, 'Wonder Man' benefits from a massive franchise, securing a good 7.6 IMDb rating from over 12,000 votes."
   }
 ]
