@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.1,
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Created by renowned showrunner Vince Gilligan and starring Emmy-nominated Rhea Seehorn."
+  }
+]
