@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II. It has a solid 7.6 IMDb rating from over 12,000 votes."
+    "reason": "A highly anticipated Marvel Studios production for Disney+ featuring Emmy-winner Yahya Abdul-Mateen II, it has garnered substantial pre-release buzz with a 7.6 IMDb rating from over 12,000 votes."
   },
   {
     "title": "Pluribus",
@@ -76,26 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Created by renowned showrunner Vince Gilligan and starring Emmy-nominated Rhea Seehorn."
-  },
-  {
-    "title": "Man vs Baby",
-    "tvdbId": 457885,
-    "tmdbId": 279601,
-    "imdbId": "tt35047134",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-    "genres": [
-      "comedy",
-      "family"
-    ],
-    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
-    "firstAirDate": "2025-12-11",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 4,
-    "imdbRating": null
+    "reason": "From acclaimed creator Vince Gilligan (Breaking Bad, Better Call Saul) and starring Rhea Seehorn, 'Pluribus' is highly anticipated with an 8.1 IMDb rating from over 76,000 votes and an impressive 87 Metacritic score."
   },
   {
     "title": "The Beast in Me",
@@ -115,6 +96,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Features Emmy-winning actors Claire Danes and Matthew Rhys, achieving a 7.5 IMDb rating from over 21,000 votes. Available on the widely accessible Netflix platform."
+    "reason": "This Netflix drama, starring Emmy winners Claire Danes and Matthew Rhys, is generating strong pre-release interest with a 7.5 IMDb rating from over 21,000 votes."
+  },
+  {
+    "title": "Man vs Baby",
+    "tvdbId": 457885,
+    "tmdbId": 279601,
+    "imdbId": "tt35047134",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "genres": [
+      "comedy",
+      "family"
+    ],
+    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+    "firstAirDate": "2025-12-11",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 4,
+    "imdbRating": null
   }
 ]
