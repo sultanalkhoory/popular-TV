@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "Backed by the powerhouse Marvel Studios and Disney+, this show features Emmy-winning actor Yahya Abdul-Mateen II and has a solid 7.6 IMDb rating from over 12,000 votes."
+    "reason": "Part of the globally popular Marvel Cinematic Universe on Disney+, featuring known actors like Yahya Abdul-Mateen II, and holding a solid 7.6 IMDb rating with over 12,000 votes."
   },
   {
     "title": "IT: Welcome to Derry",
@@ -37,7 +37,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Boasts an impressive 8.0 IMDb rating from over 71,000 votes, indicating strong audience engagement. It's a highly anticipated prequel to the popular 'IT' franchise from the successful film directors, airing on HBO."
+    "reason": "A prequel to the popular 'IT' films on HBO, this series has generated significant buzz, reflected in its impressive 8.0 IMDb rating from over 71,000 votes."
   },
   {
     "title": "Pluribus",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Highly acclaimed with an 87 Metacritic score and an 8.1 IMDb rating from over 76,000 votes. Created by Vince Gilligan (Breaking Bad) and starring Emmy-nominated Rhea Seehorn on Apple TV."
+    "reason": "Highly anticipated from acclaimed creator Vince Gilligan (Breaking Bad) on Apple TV+, boasting an excellent 8.1 IMDb rating from over 76,000 votes and a strong 87 Metacritic score."
   },
   {
     "title": "All Her Fault",
@@ -66,7 +66,6 @@
     "imdbId": "tt31314751",
     "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
     "genres": [
-      "drama",
       "mystery",
       "crime"
     ],
@@ -78,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Leverages the star power of Emmy-winning Sarah Snook (Succession) in a compelling drama. It has a strong 7.5 IMDb rating with over 21,000 votes, reflecting considerable viewer interest."
+    "reason": "Featuring Emmy-winning actress Sarah Snook, this mystery series has garnered a good 7.5 IMDb rating from over 21,000 votes, indicating strong audience engagement."
   },
   {
     "title": "The Beast in Me",
@@ -98,6 +97,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix production featuring two Emmy-winning lead actors, Claire Danes and Matthew Rhys. It has a strong 7.5 IMDb rating with over 21,000 votes, indicating significant audience approval."
+    "reason": "This Netflix drama stars Emmy winners Claire Danes and Matthew Rhys, attracting a substantial audience with a strong 7.5 IMDb rating from over 21,000 votes."
   }
 ]
