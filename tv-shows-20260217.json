@@ -1,5 +1,45 @@
 [
   {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.1,
+    "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76K votes and an 87 Metacritic score, this show is helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
+  },
+  {
+    "title": "IT: Welcome to Derry",
+    "tvdbId": 418424,
+    "tmdbId": 200875,
+    "imdbId": "tt19244304",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "firstAirDate": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 8,
+    "reason": "Leveraging the popular 'IT' franchise on HBO, this series boasts an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant viewer engagement and critical interest."
+  },
+  {
     "title": "A Knight of the Seven Kingdoms",
     "tvdbId": 433631,
     "tmdbId": 224372,
@@ -19,25 +59,6 @@
     "numberOfEpisodes": 6,
     "imdbRating": null,
     "reason": "Set in the beloved Game of Thrones universe on HBO and created by George R. R. Martin, this highly anticipated prequel benefits from a strong IP and prestigious network backing."
-  },
-  {
-    "title": "Spartacus: House of Ashur",
-    "tvdbId": 465189,
-    "tmdbId": 240459,
-    "imdbId": "tt29921437",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-    "genres": [
-      "drama",
-      "action_adventure"
-    ],
-    "overview": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-    "firstAirDate": "2025-12-05",
-    "networks": [
-      "STARZ"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6
   },
   {
     "title": "Wonder Man",
@@ -60,26 +81,6 @@
     "reason": "As a Marvel Studios production on Disney+, this series benefits from a globally recognized franchise and features Emmy-winning actor Yahya Abdul-Mateen II, attracting a large fan base."
   },
   {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76K votes and an 87 Metacritic score, this show is helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
-  },
-  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -98,24 +99,5 @@
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
     "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix series has garnered a strong 7.5 IMDb rating from over 21,000 votes, demonstrating significant audience appeal on a major streaming platform."
-  },
-  {
-    "title": "Man vs Baby",
-    "tvdbId": 457885,
-    "tmdbId": 279601,
-    "imdbId": "tt35047134",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-    "genres": [
-      "comedy",
-      "family"
-    ],
-    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
-    "firstAirDate": "2025-12-11",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 4,
-    "imdbRating": null
   }
 ]

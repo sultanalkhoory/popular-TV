@@ -36,7 +36,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated prequel to a major horror franchise on HBO, boasting an 8.0 IMDb rating from over 71K votes and helmed by the successful film creators."
+    "reason": "Leveraging the popular 'IT' franchise on HBO, this series boasts an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant viewer engagement and critical interest."
   },
   {
     "title": "Wonder Man",
@@ -56,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A Marvel Studios production for Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, with a solid 7.6 IMDb rating from over 12K votes."
+    "reason": "As a Marvel Studios production on Disney+, this series benefits from a globally recognized franchise and features Emmy-winning actor Yahya Abdul-Mateen II, attracting a large fan base."
   },
   {
     "title": "Pluribus",
@@ -76,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from 76K+ votes. Features renowned creator Vince Gilligan and acclaimed actor Rhea Seehorn on Apple TV."
+    "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76K votes and an 87 Metacritic score, this show is helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
   },
   {
     "title": "Star Trek: Starfleet Academy",
@@ -136,26 +136,6 @@
     "imdbRating": 6.7
   },
   {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "A Netflix drama starring Emmy winners Claire Danes and Matthew Rhys, attracting significant viewership with a 7.5 IMDb rating from over 21K votes."
-  },
-  {
     "title": "Agatha Christie's Seven Dials",
     "tvdbId": 448466,
     "tmdbId": 250505,
@@ -173,6 +153,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 3,
     "imdbRating": 6.3
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix series has garnered a strong 7.5 IMDb rating from over 21,000 votes, demonstrating significant audience appeal on a major streaming platform."
   },
   {
     "title": "Run Away",
