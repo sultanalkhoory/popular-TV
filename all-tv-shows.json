@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Set in the beloved Game of Thrones universe on HBO and created by George R. R. Martin, this highly anticipated prequel benefits from a strong IP and prestigious network backing."
+    "reason": "A highly anticipated prequel set in the Game of Thrones universe, created by George R. R. Martin and airing on HBO, it already shows strong audience interest with an 8.5 TMDB score."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Leveraging the popular 'IT' franchise on HBO, this series boasts an impressive 8.0 IMDb rating from over 71,000 votes, indicating significant viewer engagement and critical interest."
+    "reason": "Highly anticipated prequel from the acclaimed 'IT' franchise, boasting an 8.0 IMDb rating from over 71K votes. Produced by HBO and helmed by director Andy Muschietti."
   },
   {
     "title": "Wonder Man",
@@ -77,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "As a Marvel Studios production on Disney+, this series benefits from a globally recognized franchise and features Emmy-winning actor Yahya Abdul-Mateen II, attracting a large fan base."
+    "reason": "A highly anticipated Marvel Studios series on Disney+, featuring Emmy-winner Yahya Abdul-Mateen II. It holds a solid 7.6 IMDb rating with over 12K votes."
   },
   {
     "title": "Pluribus",
@@ -97,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 8.1 IMDb rating from over 76K votes and an 87 Metacritic score, this show is helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan and starring Rhea Seehorn on Apple TV."
   },
   {
     "title": "Star Trek: Starfleet Academy",
@@ -155,7 +155,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "A popular mystery series starring Emmy-winner Sarah Snook, achieving a 7.5 IMDb rating from over 21K votes. Airing on Sky Atlantic with strong production."
   },
   {
     "title": "Robin Hood",
@@ -213,7 +214,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix series has garnered a strong 7.5 IMDb rating from over 21,000 votes, demonstrating significant audience appeal on a major streaming platform."
+    "reason": "A compelling Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys, with a strong 7.5 IMDb rating from over 21K votes."
   },
   {
     "title": "Man vs Baby",
