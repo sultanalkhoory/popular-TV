@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "A highly anticipated prequel set in the Game of Thrones universe, created by George R. R. Martin and airing on HBO, it already shows strong audience interest with an 8.5 TMDB score."
+    "reason": "This HBO prequel to the globally popular 'Game of Thrones' universe, created by George R. R. Martin, guarantees immense cultural relevance and a dedicated fanbase. Its high TMDB score of 8.532 reflects strong early audience interest."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -57,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "Highly anticipated prequel from the acclaimed 'IT' franchise, boasting an 8.0 IMDb rating from over 71K votes. Produced by HBO and helmed by director Andy Muschietti."
+    "reason": "A highly anticipated HBO series based on Stephen King's iconic IP, boasting an 8.0 IMDb rating from over 71,000 votes. Its connection to the successful 'IT' film franchise and creators Andy and Barbara Muschietti ensures significant buzz."
   },
   {
     "title": "Wonder Man",
@@ -77,27 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios series on Disney+, featuring Emmy-winner Yahya Abdul-Mateen II. It holds a solid 7.6 IMDb rating with over 12K votes."
-  },
-  {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76K votes. Created by Vince Gilligan and starring Rhea Seehorn on Apple TV."
+    "reason": "As a Marvel Studios production on Disney+, this series benefits from a massive built-in fanbase and features Emmy-winning actor Yahya Abdul-Mateen II. It holds a respectable 7.6 IMDb rating from over 12,000 votes."
   },
   {
     "title": "Star Trek: Starfleet Academy",
@@ -117,6 +97,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 10,
     "imdbRating": 5
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8.1,
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Its popularity is further boosted by renowned creator Vince Gilligan and the prestige of Apple TV."
   },
   {
     "title": "HIS & HERS",
@@ -155,8 +155,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "A popular mystery series starring Emmy-winner Sarah Snook, achieving a 7.5 IMDb rating from over 21K votes. Airing on Sky Atlantic with strong production."
+    "imdbRating": 7.5
   },
   {
     "title": "Robin Hood",
@@ -214,7 +213,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A compelling Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys, with a strong 7.5 IMDb rating from over 21K votes."
+    "reason": "A popular Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes. Its strong cast and platform contribute to its widespread appeal."
   },
   {
     "title": "Man vs Baby",
