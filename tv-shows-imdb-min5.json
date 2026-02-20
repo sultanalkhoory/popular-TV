@@ -36,7 +36,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "A highly anticipated HBO series based on Stephen King's iconic IP, boasting an 8.0 IMDb rating from over 71,000 votes. Its connection to the successful 'IT' film franchise and creators Andy and Barbara Muschietti ensures significant buzz."
+    "reason": "This HBO prequel to the popular 'IT' franchise generates significant buzz, evidenced by its 8.0 IMDb rating from over 95K votes, and is helmed by the acclaimed Muschietti siblings."
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8,
+    "reason": "Critically acclaimed with an 87 Metacritic score and 8.0 IMDb rating from over 127K votes. Created by Vince Gilligan (Breaking Bad), ensuring high anticipation and quality on Apple TV."
   },
   {
     "title": "Wonder Man",
@@ -56,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "As a Marvel Studios production on Disney+, this series benefits from a massive built-in fanbase and features Emmy-winning actor Yahya Abdul-Mateen II. It holds a respectable 7.6 IMDb rating from over 12,000 votes."
+    "reason": "As a Marvel Cinematic Universe series on Disney+, it benefits from a massive built-in fanbase and features a notable cast, contributing to its 7.6 IMDb rating and over 12,000 votes."
   },
   {
     "title": "Star Trek: Starfleet Academy",
@@ -76,26 +96,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 10,
     "imdbRating": 5
-  },
-  {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8.1,
-    "reason": "Critically acclaimed with an 87 Metacritic score and 8.1 IMDb rating from over 76,000 votes. Its popularity is further boosted by renowned creator Vince Gilligan and the prestige of Apple TV."
   },
   {
     "title": "All Her Fault",
@@ -136,25 +136,6 @@
     "imdbRating": 6.7
   },
   {
-    "title": "Agatha Christie's Seven Dials",
-    "tvdbId": 448466,
-    "tmdbId": 250505,
-    "imdbId": "tt31974288",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
-    "firstAirDate": "2026-01-15",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 3,
-    "imdbRating": 6.3
-  },
-  {
     "title": "The Beast in Me",
     "tvdbId": 448245,
     "tmdbId": 250504,
@@ -172,7 +153,26 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A popular Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys, achieving a solid 7.5 IMDb rating from over 21,000 votes. Its strong cast and platform contribute to its widespread appeal."
+    "reason": "A compelling Netflix thriller featuring a strong cast including Claire Danes and Matthew Rhys, which has garnered a solid 7.5 IMDb rating from over 21,000 votes."
+  },
+  {
+    "title": "Agatha Christie's Seven Dials",
+    "tvdbId": 448466,
+    "tmdbId": 250505,
+    "imdbId": "tt31974288",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+    "firstAirDate": "2026-01-15",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 3,
+    "imdbRating": 6.3
   },
   {
     "title": "Run Away",
