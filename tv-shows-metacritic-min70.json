@@ -17,7 +17,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": null
+    "imdbRating": null,
+    "reason": "Set in the globally popular Game of Thrones universe, this HBO series is created by George R. R. Martin, ensuring immense anticipation and cultural relevance."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -39,26 +40,6 @@
     "imdbRating": 6
   },
   {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.0 IMDb rating from over 127K votes, driven by renowned creator Vince Gilligan and a strong lead actor on Apple TV."
-  },
-  {
     "title": "Wonder Man",
     "tvdbId": 428629,
     "tmdbId": 198178,
@@ -76,7 +57,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "Part of the immensely popular Marvel Cinematic Universe on Disney+, this show features Emmy-winning actor Yahya Abdul-Mateen II and holds a good 7.6 IMDb rating from over 12K votes."
+    "reason": "A highly anticipated Marvel Studios production on Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, and holding a solid 7.6 IMDb rating from over 12K votes."
+  },
+  {
+    "title": "Pluribus",
+    "tvdbId": 436457,
+    "tmdbId": 225171,
+    "imdbId": "tt22202452",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy"
+    ],
+    "overview": "The most miserable person on Earth must save the world from happiness.",
+    "firstAirDate": "2025-11-06",
+    "networks": [
+      "Apple TV"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 9,
+    "imdbRating": 8,
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.0 IMDb rating from over 127K votes. It's helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
   },
   {
     "title": "The Beast in Me",
@@ -96,7 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A Netflix drama featuring Emmy-winning actors Claire Danes and Matthew Rhys, achieving a good 7.5 IMDb rating with over 21K votes."
+    "reason": "A Netflix drama with a solid 7.5 IMDb rating from over 21K votes. Stars Emmy-winning actors Claire Danes and Matthew Rhys, ensuring a strong draw and high-quality production."
   },
   {
     "title": "Man vs Baby",
