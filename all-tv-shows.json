@@ -17,8 +17,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": null,
-    "reason": "Set in the globally popular Game of Thrones universe, this HBO series is created by George R. R. Martin, ensuring immense anticipation and cultural relevance."
+    "imdbRating": null
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -57,7 +56,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 8,
-    "reason": "This HBO series taps into the massive Stephen King's IT universe, securing an excellent 8.0 IMDb rating from over 95K votes, indicating strong audience engagement."
+    "reason": "This highly anticipated prequel, based on Stephen King's iconic IP, boasts an impressive 8.0 IMDb rating from over 95,000 votes and is backed by the strong HBO network."
   },
   {
     "title": "Star Trek: Starfleet Academy",
@@ -96,7 +95,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "A highly anticipated Marvel Studios production on Disney+, featuring Emmy-winning actor Yahya Abdul-Mateen II, and holding a solid 7.6 IMDb rating from over 12K votes."
+    "reason": "A highly anticipated Marvel Studios production for Disney+, this show benefits from the popular MCU brand and features rising star Yahya Abdul-Mateen II, with a solid 7.6 IMDb rating."
   },
   {
     "title": "Pluribus",
@@ -116,7 +115,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.0 IMDb rating from over 127K votes. It's helmed by renowned creator Vince Gilligan and stars Emmy-nominated Rhea Seehorn."
+    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes. It's helmed by renowned creator Vince Gilligan on the prestigious Apple TV platform."
   },
   {
     "title": "HIS & HERS",
@@ -137,7 +136,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "A Netflix original with a strong ensemble cast including Tessa Thompson and Jon Bernthal, it has garnered a good 7.2 IMDb rating from a substantial 65K+ votes, reflecting broad appeal."
+    "reason": "This Netflix series draws a large audience with its well-known cast including Tessa Thompson and Jon Bernthal, achieving a 7.2 IMDb rating from over 65,000 votes."
   },
   {
     "title": "All Her Fault",
@@ -194,8 +193,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "A Netflix drama with a solid 7.5 IMDb rating from over 21K votes. Stars Emmy-winning actors Claire Danes and Matthew Rhys, ensuring a strong draw and high-quality production."
+    "imdbRating": 7.4,
+    "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix drama has a solid 7.4 IMDb rating with over 61,000 votes, indicating strong audience engagement."
   },
   {
     "title": "Man vs Baby",
