@@ -1,25 +1,5 @@
 [
   {
-    "title": "IT: Welcome to Derry",
-    "tvdbId": 418424,
-    "tmdbId": 200875,
-    "imdbId": "tt19244304",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-    "firstAirDate": "2025-10-26",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 8,
-    "reason": "This highly anticipated prequel, based on Stephen King's iconic IP, boasts an impressive 8.0 IMDb rating from over 95,000 votes and is backed by the strong HBO network."
-  },
-  {
     "title": "Pluribus",
     "tvdbId": 436457,
     "tmdbId": 225171,
@@ -37,6 +17,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with an outstanding 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes. It's helmed by renowned creator Vince Gilligan on the prestigious Apple TV platform."
+    "reason": "Created by acclaimed showrunner Vince Gilligan, this series boasts an exceptional 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes, indicating massive critical and audience success."
   }
 ]
