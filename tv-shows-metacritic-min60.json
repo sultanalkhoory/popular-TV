@@ -17,7 +17,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": null
+    "imdbRating": null,
+    "reason": "Set in the beloved Game of Thrones universe and created by George R. R. Martin, this HBO series benefits from a strong existing fanbase and a high 8.52 TMDB score."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -75,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Created by acclaimed showrunner Vince Gilligan, this series boasts an exceptional 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes, indicating massive critical and audience success."
+    "reason": "Created by acclaimed showrunner Vince Gilligan (Breaking Bad), this Apple TV+ series boasts exceptional critical reception with an 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes."
   },
   {
     "title": "Wonder Man",
@@ -95,7 +96,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.6,
-    "reason": "As part of the Marvel Cinematic Universe from Marvel Studios, this Disney+ series holds a solid 7.6 IMDb rating from over 12,000 votes, benefiting from a major franchise and positive reception."
+    "reason": "As a Marvel Studios production on Disney+, this show leverages a massive global franchise. It features a well-known lead actor and holds solid ratings, including a 7.6 IMDb score from over 12,000 votes."
   },
   {
     "title": "All Her Fault",
@@ -114,8 +115,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Led by Emmy-winning actress Sarah Snook, this mystery drama has a strong 7.5 IMDb rating from nearly 39,000 votes, indicating a popular and well-received series."
+    "imdbRating": 7.5
   },
   {
     "title": "The Beast in Me",
@@ -135,7 +135,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Starring acclaimed actors Claire Danes and Matthew Rhys, this Netflix mystery holds a solid 7.4 IMDb rating with over 61,000 votes, reflecting strong audience reception."
+    "reason": "This Netflix drama features an acclaimed cast including Emmy winners Claire Danes and Matthew Rhys. It has strong audience approval with a 7.4 IMDb rating from over 61,000 votes."
   },
   {
     "title": "Man vs Baby",
