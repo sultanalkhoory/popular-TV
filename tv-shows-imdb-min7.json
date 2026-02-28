@@ -17,7 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Highly anticipated with an 87 Metacritic score and an 8.0 IMDb rating from over 127K votes. Created by acclaimed showrunner Vince Gilligan and airing on prestigious Apple TV."
+    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 127K votes and an 87 Metacritic score. Created by Vince Gilligan and stars Rhea Seehorn, both known for 'Better Call Saul,' on the prestigious Apple TV+."
   },
   {
     "title": "Wonder Man",
@@ -36,8 +36,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.6,
-    "reason": "A Marvel Studios production for Disney+, benefiting from a massive built-in fanbase. It holds a 7.6 IMDb rating with over 12K votes and features Emmy-winning actor Yahya Abdul-Mateen II."
+    "imdbRating": 7.6
   },
   {
     "title": "HIS & HERS",
@@ -58,7 +57,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "A Netflix drama with a strong 7.2 IMDb rating from over 65K votes, featuring a popular cast including Tessa Thompson and Jon Bernthal, indicating high audience engagement."
+    "reason": "Features a strong ensemble cast including Tessa Thompson and Jon Bernthal, and has garnered a significant 7.2 IMDb rating from over 65K votes on Netflix, indicating broad appeal and engagement."
   },
   {
     "title": "All Her Fault",
@@ -77,7 +76,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "Led by Emmy-winning actress Sarah Snook, this show has a strong 7.5 IMDb rating from nearly 40K votes, demonstrating both critical and audience appreciation."
   },
   {
     "title": "The Beast in Me",
@@ -97,6 +97,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix series boasts a 7.4 IMDb rating from over 61K votes and stars Emmy-winning actors Claire Danes and Matthew Rhys, ensuring significant audience interest."
+    "reason": "Stars acclaimed actors Claire Danes and Matthew Rhys, achieving a solid 7.4 IMDb rating from over 61K votes, showcasing significant audience engagement on Netflix."
   }
 ]

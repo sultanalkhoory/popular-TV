@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Part of the globally popular Game of Thrones universe on HBO, created by George R. R. Martin, guaranteeing immense buzz and a 74 Metacritic score."
+    "reason": "Originating from the highly popular 'Game of Thrones' universe and created by George R. R. Martin for HBO, this series carries immense cultural anticipation and buzz, supported by a strong 8.48 TMDB score."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -76,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Highly anticipated with an 87 Metacritic score and an 8.0 IMDb rating from over 127K votes. Created by acclaimed showrunner Vince Gilligan and airing on prestigious Apple TV."
+    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 127K votes and an 87 Metacritic score. Created by Vince Gilligan and stars Rhea Seehorn, both known for 'Better Call Saul,' on the prestigious Apple TV+."
   },
   {
     "title": "Wonder Man",
@@ -95,8 +95,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.6,
-    "reason": "A Marvel Studios production for Disney+, benefiting from a massive built-in fanbase. It holds a 7.6 IMDb rating with over 12K votes and features Emmy-winning actor Yahya Abdul-Mateen II."
+    "imdbRating": 7.6
   },
   {
     "title": "All Her Fault",
@@ -115,7 +114,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "Led by Emmy-winning actress Sarah Snook, this show has a strong 7.5 IMDb rating from nearly 40K votes, demonstrating both critical and audience appreciation."
   },
   {
     "title": "The Beast in Me",
@@ -135,26 +135,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "This Netflix series boasts a 7.4 IMDb rating from over 61K votes and stars Emmy-winning actors Claire Danes and Matthew Rhys, ensuring significant audience interest."
-  },
-  {
-    "title": "Agatha Christie's Seven Dials",
-    "tvdbId": 448466,
-    "tmdbId": 250505,
-    "imdbId": "tt31974288",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
-    "firstAirDate": "2026-01-15",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 3,
-    "imdbRating": 6.3
+    "reason": "Stars acclaimed actors Claire Danes and Matthew Rhys, achieving a solid 7.4 IMDb rating from over 61K votes, showcasing significant audience engagement on Netflix."
   },
   {
     "title": "Man vs Baby",
@@ -174,6 +155,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 4,
     "imdbRating": null
+  },
+  {
+    "title": "Agatha Christie's Seven Dials",
+    "tvdbId": 448466,
+    "tmdbId": 250505,
+    "imdbId": "tt31974288",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+    "firstAirDate": "2026-01-15",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 3,
+    "imdbRating": 6.3
   },
   {
     "title": "Run Away",

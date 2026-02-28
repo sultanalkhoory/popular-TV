@@ -17,28 +17,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Created by acclaimed showrunner Vince Gilligan, this series boasts an exceptional 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes, indicating massive critical and audience appeal."
-  },
-  {
-    "title": "A Knight of the Seven Kingdoms",
-    "tvdbId": 433631,
-    "tmdbId": 224372,
-    "imdbId": "tt27497448",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy",
-      "action_adventure"
-    ],
-    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-    "firstAirDate": "2026-01-18",
-    "networks": [
-      "HBO"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 6,
-    "imdbRating": null,
-    "reason": "As a highly anticipated HBO series from 'Game of Thrones' creator George R. R. Martin, it benefits from a strong legacy and a good 8.484 TMDB score, promising significant cultural impact."
+    "reason": "Critically acclaimed with an 8.0 IMDb rating from over 127K votes and an 87 Metacritic score. Created by Vince Gilligan and stars Rhea Seehorn, both known for 'Better Call Saul,' on the prestigious Apple TV+."
   },
   {
     "title": "HIS & HERS",
@@ -59,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "This Netflix drama features a strong ensemble cast including Tessa Thompson and Jon Bernthal, achieving a solid 7.2 IMDb rating from over 65,000 votes, demonstrating significant audience engagement on a major streaming platform."
+    "reason": "Features a strong ensemble cast including Tessa Thompson and Jon Bernthal, and has garnered a significant 7.2 IMDb rating from over 65K votes on Netflix, indicating broad appeal and engagement."
   },
   {
     "title": "The Beast in Me",
@@ -79,7 +58,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A Netflix mystery with acclaimed actors Claire Danes and Matthew Rhys, it has garnered a strong 7.4 IMDb rating from over 61,000 votes, indicating a substantial and positive audience reception."
+    "reason": "Stars acclaimed actors Claire Danes and Matthew Rhys, achieving a solid 7.4 IMDb rating from over 61K votes, showcasing significant audience engagement on Netflix."
   },
   {
     "title": "All Her Fault",
@@ -99,6 +78,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Starring Emmy-winning actress Sarah Snook, this mystery series has attracted a large audience, reflected in its 7.5 IMDb rating from nearly 39,000 votes and a high 8.08 TMDB score."
+    "reason": "Led by Emmy-winning actress Sarah Snook, this show has a strong 7.5 IMDb rating from nearly 40K votes, demonstrating both critical and audience appreciation."
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "tvdbId": 433631,
+    "tmdbId": 224372,
+    "imdbId": "tt27497448",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+    "genres": [
+      "drama",
+      "sci_fi_fantasy",
+      "action_adventure"
+    ],
+    "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+    "firstAirDate": "2026-01-18",
+    "networks": [
+      "HBO"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 6,
+    "imdbRating": null,
+    "reason": "Originating from the highly popular 'Game of Thrones' universe and created by George R. R. Martin for HBO, this series carries immense cultural anticipation and buzz, supported by a strong 8.48 TMDB score."
   }
 ]
