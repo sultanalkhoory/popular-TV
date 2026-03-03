@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Highly anticipated prequel from George R. R. Martin set in the Game of Thrones universe, airing on prestigious HBO, with a strong 8.487 TMDB score reflecting its immense cultural relevance."
+    "reason": "An eagerly awaited HBO series set in the Game of Thrones universe, created by George R. R. Martin, guaranteeing immense cultural buzz and a dedicated fanbase."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -76,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with an 87 Metascore and a massive audience hit, boasting an 8.0 IMDb rating from over 127K votes, driven by acclaimed creator Vince Gilligan on Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and massive audience engagement (8.0 IMDb, 127K+ votes). Helmed by renowned creator Vince Gilligan on prestigious Apple TV."
   },
   {
     "title": "Wonder Man",
@@ -116,7 +116,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "A popular Netflix series featuring well-known actors Tessa Thompson and Jon Bernthal, achieving a 7.2 IMDb rating with over 65K votes, indicating strong audience engagement."
+    "reason": "Highly anticipated Netflix drama with strong audience reception (7.2 IMDb, 65K+ votes) and features a popular cast including Tessa Thompson and Jon Bernthal."
   },
   {
     "title": "All Her Fault",
@@ -136,26 +136,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A well-received drama starring Emmy-winner Sarah Snook, earning a 7.5 IMDb rating from over 38K votes and an 8.093 TMDB score, indicating strong critical and audience reception."
-  },
-  {
-    "title": "Robin Hood",
-    "tvdbId": 454834,
-    "tmdbId": 272418,
-    "imdbId": "tt33484460",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
-    "genres": [
-      "drama",
-      "action_adventure"
-    ],
-    "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
-    "firstAirDate": "2025-11-02",
-    "networks": [
-      "MGM+"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 10,
-    "imdbRating": 6.7
+    "reason": "Features Emmy-winning lead actress Sarah Snook (from 'Succession') and boasts strong audience ratings (7.5 IMDb, 38K+ votes), indicating significant appeal."
   },
   {
     "title": "The Beast in Me",
@@ -175,26 +156,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Popular on Netflix with acclaimed actors Claire Danes and Matthew Rhys, earning a 7.4 IMDb rating from over 61K votes, demonstrating significant viewer interest."
-  },
-  {
-    "title": "Man vs Baby",
-    "tvdbId": 457885,
-    "tmdbId": 279601,
-    "imdbId": "tt35047134",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
-    "genres": [
-      "comedy",
-      "family"
-    ],
-    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
-    "firstAirDate": "2025-12-11",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 4,
-    "imdbRating": null
+    "reason": "A Netflix series with strong audience ratings (7.4 IMDb, 61K+ votes) and stars two Emmy-winning actors, Claire Danes and Matthew Rhys."
   },
   {
     "title": "Agatha Christie's Seven Dials",
@@ -214,6 +176,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 3,
     "imdbRating": 6.3
+  },
+  {
+    "title": "Man vs Baby",
+    "tvdbId": 457885,
+    "tmdbId": 279601,
+    "imdbId": "tt35047134",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "genres": [
+      "comedy",
+      "family"
+    ],
+    "overview": "As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.",
+    "firstAirDate": "2025-12-11",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 4,
+    "imdbRating": null
   },
   {
     "title": "Run Away",
