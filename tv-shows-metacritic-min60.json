@@ -17,8 +17,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
-    "imdbRating": null,
-    "reason": "An eagerly awaited HBO series set in the Game of Thrones universe, created by George R. R. Martin, guaranteeing immense cultural buzz and a dedicated fanbase."
+    "imdbRating": null
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -76,7 +75,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 9,
     "imdbRating": 8,
-    "reason": "Critically acclaimed with an 87 Metacritic score and massive audience engagement (8.0 IMDb, 127K+ votes). Helmed by renowned creator Vince Gilligan on prestigious Apple TV."
+    "reason": "Critically acclaimed with an 87 Metacritic score and an 8.0 IMDb rating from over 127K votes. Created by renowned showrunner Vince Gilligan and airing on prestigious Apple TV."
   },
   {
     "title": "Wonder Man",
@@ -95,7 +94,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.6
+    "imdbRating": 7.6,
+    "reason": "Backed by the powerful Marvel Studios and Disney+ platforms, it has a solid 7.6 IMDb rating from over 12K votes and features well-known actor Yahya Abdul-Mateen II."
   },
   {
     "title": "All Her Fault",
@@ -115,7 +115,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Features Emmy-winning lead actress Sarah Snook (from 'Succession') and boasts strong audience ratings (7.5 IMDb, 38K+ votes), indicating significant appeal."
+    "reason": "Highly rated with a 7.5 IMDb score from over 38K votes and starring Emmy-winning actress Sarah Snook. It also has a strong 8.1 TMDB score."
   },
   {
     "title": "The Beast in Me",
@@ -135,7 +135,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "A Netflix series with strong audience ratings (7.4 IMDb, 61K+ votes) and stars two Emmy-winning actors, Claire Danes and Matthew Rhys."
+    "reason": "Popular on Netflix, boasting a 7.4 IMDb rating from over 61K votes. Stars acclaimed actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "Man vs Baby",
