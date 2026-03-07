@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "A highly anticipated HBO series from Game of Thrones creator George R.R. Martin, it boasts a strong 74 Metacritic score and an 8.478 TMDB rating, signaling significant cultural buzz and critical interest."
+    "reason": "An immensely anticipated HBO prequel from George R.R. Martin, leveraging the global popularity of the Game of Thrones universe with a strong 8.466 TMDB score."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -59,26 +59,6 @@
     "imdbRating": 4.2
   },
   {
-    "title": "Pluribus",
-    "tvdbId": 436457,
-    "tmdbId": 225171,
-    "imdbId": "tt22202452",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-    "genres": [
-      "drama",
-      "sci_fi_fantasy"
-    ],
-    "overview": "The most miserable person on Earth must save the world from happiness.",
-    "firstAirDate": "2025-11-06",
-    "networks": [
-      "Apple TV"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 9,
-    "imdbRating": 8,
-    "reason": "Created by acclaimed showrunner Vince Gilligan, this series boasts exceptional critical reception with an 87 Metacritic score and an 8.0 IMDb rating from over 127,000 votes, indicating massive popularity on Apple TV."
-  },
-  {
     "title": "HIS & HERS",
     "tvdbId": 452521,
     "tmdbId": 259731,
@@ -97,7 +77,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "This Netflix crime drama is highly anticipated, starring popular actors Tessa Thompson and Jon Bernthal, and has already accumulated over 65,000 IMDb votes with a strong 7.2 rating."
+    "reason": "A Netflix hit with a strong 7.2 IMDb rating from over 65,000 votes, featuring popular actors Tessa Thompson and Jon Bernthal."
   },
   {
     "title": "Wonder Man",
@@ -116,7 +96,8 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 7.5
+    "imdbRating": 7.5,
+    "reason": "A highly anticipated Marvel Studios series on Disney+ with a 7.5 IMDb rating and over 27,000 votes, starring Emmy winner Yahya Abdul-Mateen II."
   },
   {
     "title": "All Her Fault",
@@ -136,7 +117,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Led by Emmy-winning actress Sarah Snook, this mystery series has a strong 7.5 IMDb rating from over 38,000 votes and an impressive 8.1 TMDB score, highlighting its popularity."
+    "reason": "Critically well-received with a 7.5 IMDb rating from nearly 39,000 votes, elevated by Emmy-winning lead Sarah Snook."
   },
   {
     "title": "Steal",
@@ -176,7 +157,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Featuring Emmy-winning actors Claire Danes and Matthew Rhys, this Netflix drama has garnered significant attention with a 7.4 IMDb rating from over 61,000 votes and a solid 71 Metacritic score."
+    "reason": "Highly rated on Netflix with a 7.4 IMDb score from over 61,000 votes, starring acclaimed Emmy winners Claire Danes and Matthew Rhys."
   },
   {
     "title": "Agatha Christie's Seven Dials",
@@ -198,25 +179,6 @@
     "imdbRating": 6.3
   },
   {
-    "title": "Run Away",
-    "tvdbId": 445068,
-    "tmdbId": 244244,
-    "imdbId": "tt9169516",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
-    "firstAirDate": "2026-01-01",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 6.9
-  },
-  {
     "title": "Man vs Baby",
     "tvdbId": 457885,
     "tmdbId": 279601,
@@ -234,5 +196,24 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 4,
     "imdbRating": null
+  },
+  {
+    "title": "Run Away",
+    "tvdbId": 445068,
+    "tmdbId": 244244,
+    "imdbId": "tt9169516",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
+    "firstAirDate": "2026-01-01",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 6.9
   }
 ]
