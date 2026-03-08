@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "An immensely anticipated HBO prequel from George R.R. Martin, leveraging the global popularity of the Game of Thrones universe with a strong 8.466 TMDB score."
+    "reason": "As a highly anticipated HBO prequel from Game of Thrones creator George R.R. Martin, it carries immense cultural weight and has a strong 8.452 TMDB score, promising significant buzz."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -59,6 +59,26 @@
     "imdbRating": 4.2
   },
   {
+    "title": "Wonder Man",
+    "tvdbId": 428629,
+    "tmdbId": 198178,
+    "imdbId": "tt21066182",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+    "firstAirDate": "2026-01-27",
+    "networks": [
+      "Disney+"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.5,
+    "reason": "Backed by Marvel Studios and Disney+, this series benefits from the massive MCU fanbase, achieving a 7.5 IMDb rating from over 27,000 votes and starring Emmy winner Yahya Abdul-Mateen II."
+  },
+  {
     "title": "HIS & HERS",
     "tvdbId": 452521,
     "tmdbId": 259731,
@@ -77,47 +97,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "A Netflix hit with a strong 7.2 IMDb rating from over 65,000 votes, featuring popular actors Tessa Thompson and Jon Bernthal."
-  },
-  {
-    "title": "Wonder Man",
-    "tvdbId": 428629,
-    "tmdbId": 198178,
-    "imdbId": "tt21066182",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-    "firstAirDate": "2026-01-27",
-    "networks": [
-      "Disney+"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "A highly anticipated Marvel Studios series on Disney+ with a 7.5 IMDb rating and over 27,000 votes, starring Emmy winner Yahya Abdul-Mateen II."
-  },
-  {
-    "title": "All Her Fault",
-    "tvdbId": 446149,
-    "tmdbId": 246386,
-    "imdbId": "tt31314751",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-    "genres": [
-      "mystery",
-      "crime"
-    ],
-    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
-    "firstAirDate": "2025-11-07",
-    "networks": [
-      "Sky Atlantic"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Critically well-received with a 7.5 IMDb rating from nearly 39,000 votes, elevated by Emmy-winning lead Sarah Snook."
+    "reason": "A breakout Netflix drama with an impressive 7.2 IMDb rating from over 65,000 votes, featuring a popular ensemble cast including Tessa Thompson and Jon Bernthal."
   },
   {
     "title": "Steal",
@@ -157,7 +137,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Highly rated on Netflix with a 7.4 IMDb score from over 61,000 votes, starring acclaimed Emmy winners Claire Danes and Matthew Rhys."
+    "reason": "This Netflix mystery drama boasts a strong 7.4 IMDb rating from over 61,000 votes, anchored by Emmy-winning actors Claire Danes and Matthew Rhys."
   },
   {
     "title": "Agatha Christie's Seven Dials",
@@ -214,6 +194,7 @@
     ],
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
-    "imdbRating": 6.9
+    "imdbRating": 6.9,
+    "reason": "This Netflix adaptation from best-selling author Harlan Coben consistently attracts a large audience, evidenced by its 6.9 IMDb rating from over 20,000 votes."
   }
 ]

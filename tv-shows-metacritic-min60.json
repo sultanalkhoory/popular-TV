@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "An immensely anticipated HBO prequel from George R.R. Martin, leveraging the global popularity of the Game of Thrones universe with a strong 8.466 TMDB score."
+    "reason": "As a highly anticipated HBO prequel from Game of Thrones creator George R.R. Martin, it carries immense cultural weight and has a strong 8.452 TMDB score, promising significant buzz."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -76,27 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "A highly anticipated Marvel Studios series on Disney+ with a 7.5 IMDb rating and over 27,000 votes, starring Emmy winner Yahya Abdul-Mateen II."
-  },
-  {
-    "title": "All Her Fault",
-    "tvdbId": 446149,
-    "tmdbId": 246386,
-    "imdbId": "tt31314751",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-    "genres": [
-      "mystery",
-      "crime"
-    ],
-    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
-    "firstAirDate": "2025-11-07",
-    "networks": [
-      "Sky Atlantic"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.5,
-    "reason": "Critically well-received with a 7.5 IMDb rating from nearly 39,000 votes, elevated by Emmy-winning lead Sarah Snook."
+    "reason": "Backed by Marvel Studios and Disney+, this series benefits from the massive MCU fanbase, achieving a 7.5 IMDb rating from over 27,000 votes and starring Emmy winner Yahya Abdul-Mateen II."
   },
   {
     "title": "Steal",
@@ -117,26 +97,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7
-  },
-  {
-    "title": "The Beast in Me",
-    "tvdbId": 448245,
-    "tmdbId": 250504,
-    "imdbId": "tt31974367",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
-    "firstAirDate": "2025-11-13",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 8,
-    "imdbRating": 7.4,
-    "reason": "Highly rated on Netflix with a 7.4 IMDb score from over 61,000 votes, starring acclaimed Emmy winners Claire Danes and Matthew Rhys."
   },
   {
     "title": "Man vs Baby",
