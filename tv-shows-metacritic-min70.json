@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "As a highly anticipated HBO prequel from Game of Thrones creator George R.R. Martin, it carries immense cultural weight and has a strong 8.452 TMDB score, promising significant buzz."
+    "reason": "Highly anticipated, this HBO series is set in George R.R. Martin's acclaimed Game of Thrones universe. It has an excellent 8.4 TMDB rating, indicating strong early buzz and critical reception."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -57,7 +57,27 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "Backed by Marvel Studios and Disney+, this series benefits from the massive MCU fanbase, achieving a 7.5 IMDb rating from over 27,000 votes and starring Emmy winner Yahya Abdul-Mateen II."
+    "reason": "This Marvel Studios series on Disney+ benefits from the massive MCU franchise and an impressive 7.5 IMDb rating from over 27,000 votes. It stars Emmy-winning actor Yahya Abdul-Mateen II."
+  },
+  {
+    "title": "The Beast in Me",
+    "tvdbId": 448245,
+    "tmdbId": 250504,
+    "imdbId": "tt31974367",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+    "firstAirDate": "2025-11-13",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 8,
+    "imdbRating": 7.4,
+    "reason": "Critically appealing with a 7.4 IMDb rating and over 61,000 votes. This Netflix drama features Emmy-winning actors Claire Danes and Matthew Rhys, indicating high-quality production."
   },
   {
     "title": "Man vs Baby",
