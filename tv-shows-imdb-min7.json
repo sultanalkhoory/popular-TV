@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": 7.2,
-    "reason": "A popular Netflix series boasting a 7.2 IMDb rating from over 65,000 votes. Its strong appeal is further enhanced by a well-known cast including Tessa Thompson, Jon Bernthal, and Pablo Schreiber."
+    "reason": "Generating significant buzz on Netflix with a 7.2 IMDb rating from over 65,000 pre-release votes, bolstered by a popular cast including Tessa Thompson and Jon Bernthal."
   },
   {
     "title": "Wonder Man",
@@ -38,7 +38,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Marvel Studios series on Disney+ benefits from the massive MCU franchise and an impressive 7.5 IMDb rating from over 27,000 votes. It stars Emmy-winning actor Yahya Abdul-Mateen II."
+    "reason": "A new Marvel Studios series on Disney+, featuring a 7.5 IMDb rating from over 27,000 votes, driven by the popular MCU brand and lead actor Yahya Abdul-Mateen II."
   },
   {
     "title": "Steal",
@@ -78,6 +78,6 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Critically appealing with a 7.4 IMDb rating and over 61,000 votes. This Netflix drama features Emmy-winning actors Claire Danes and Matthew Rhys, indicating high-quality production."
+    "reason": "A highly anticipated Netflix drama with acclaimed leads Claire Danes and Matthew Rhys, evidenced by a strong 7.4 IMDb rating from over 61,000 votes."
   }
 ]

@@ -18,7 +18,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 6,
     "imdbRating": null,
-    "reason": "Highly anticipated, this HBO series is set in George R.R. Martin's acclaimed Game of Thrones universe. It has an excellent 8.4 TMDB rating, indicating strong early buzz and critical reception."
+    "reason": "Highly anticipated prequel from George R.R. Martin on HBO, leveraging the massive Game of Thrones franchise. It boasts a strong 8.454 TMDB score and 74 Metacritic, indicating high critical expectation."
   },
   {
     "title": "Spartacus: House of Ashur",
@@ -76,7 +76,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.5,
-    "reason": "This Marvel Studios series on Disney+ benefits from the massive MCU franchise and an impressive 7.5 IMDb rating from over 27,000 votes. It stars Emmy-winning actor Yahya Abdul-Mateen II."
+    "reason": "A new Marvel Studios series on Disney+, featuring a 7.5 IMDb rating from over 27,000 votes, driven by the popular MCU brand and lead actor Yahya Abdul-Mateen II."
   },
   {
     "title": "Steal",
@@ -116,26 +116,7 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 7.4,
-    "reason": "Critically appealing with a 7.4 IMDb rating and over 61,000 votes. This Netflix drama features Emmy-winning actors Claire Danes and Matthew Rhys, indicating high-quality production."
-  },
-  {
-    "title": "Agatha Christie's Seven Dials",
-    "tvdbId": 448466,
-    "tmdbId": 250505,
-    "imdbId": "tt31974288",
-    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
-    "genres": [
-      "drama",
-      "mystery"
-    ],
-    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
-    "firstAirDate": "2026-01-15",
-    "networks": [
-      "Netflix"
-    ],
-    "numberOfSeasons": 1,
-    "numberOfEpisodes": 3,
-    "imdbRating": 6.3
+    "reason": "A highly anticipated Netflix drama with acclaimed leads Claire Danes and Matthew Rhys, evidenced by a strong 7.4 IMDb rating from over 61,000 votes."
   },
   {
     "title": "Man vs Baby",
@@ -174,6 +155,25 @@
     "numberOfSeasons": 1,
     "numberOfEpisodes": 8,
     "imdbRating": 6.9,
-    "reason": "A popular Netflix mystery from best-selling author Harlan Coben, this show has garnered significant attention with a 6.9 IMDb rating from over 20,000 votes."
+    "reason": "A new mystery from best-selling author Harlan Coben, consistently popular on Netflix, with a solid 6.9 IMDb rating from over 20,000 votes."
+  },
+  {
+    "title": "Agatha Christie's Seven Dials",
+    "tvdbId": 448466,
+    "tmdbId": 250505,
+    "imdbId": "tt31974288",
+    "posterUrl": "http://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "overview": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths—the fizzingly inquisitive Lady Eileen \"Bundle\" Brent—to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+    "firstAirDate": "2026-01-15",
+    "networks": [
+      "Netflix"
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 3,
+    "imdbRating": 6.3
   }
 ]
